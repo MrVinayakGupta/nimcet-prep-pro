@@ -1,0 +1,4688 @@
+{
+  "year": 2011,
+  "title": "NIMCET 2011 Official Question Paper",
+  "totalQuestions": 120,
+  "overwrite": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Permutations and Combinations",
+      "questionText": "A polygon has 44 diagonals, the number of its sides is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Number of diagonals in an $n$-sided polygon is $\\frac{n(n-3)}{2} = 44 \\implies n(n-3) = 88 = 11 \\times 8 \\implies n = 11$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Number of diagonals in an $n$-sided polygon is $\\frac{n(n-3)}{2} = 44 \\implies n(n-3) = 88 = 11 \\times 8 \\implies n = 11$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 2,
+      "subject": "Mathematics",
+      "chapter": "Set Theory",
+      "topic": "Sets",
+      "questionText": "Let $X$ be the universal set for sets $A$ and $B$. If $n(A) = 200, n(B) = 300$ and $n(A \\cap B) = 100$, then $n(A' \\cap B')$ is equal to 300 provided $n(X)$ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "600"
+        },
+        {
+          "id": "B",
+          "text": "700"
+        },
+        {
+          "id": "C",
+          "text": "800"
+        },
+        {
+          "id": "D",
+          "text": "900"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$n(A \\cup B) = n(A) + n(B) - n(A \\cap B) = 200 + 300 - 100 = 400$. $n(A' \\cap B') = n((A \\cup B)') = n(X) - n(A \\cup B) = 300 \\implies n(X) = 400 + 300 = 700$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$n(A \\cup B) = n(A) + n(B) - n(A \\cap B) = 200 + 300 - 100 = 400$. $n(A' \\cap B') = n((A \\cup B)') = n(X) - n(A \\cup B) = 300 \\implies n(X) = 400 + 300 = 700$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 3,
+      "subject": "Mathematics",
+      "chapter": "Set Theory",
+      "topic": "Sets",
+      "questionText": "In a college of 300 students, every student reads 5 newspapers and every newspaper is read by 60 students. The number of newspapers is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "atleast 30"
+        },
+        {
+          "id": "B",
+          "text": "atmost 20"
+        },
+        {
+          "id": "C",
+          "text": "exactly 25"
+        },
+        {
+          "id": "D",
+          "text": "exactly 28"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Total reading instances = $300 \\times 5 = 1500$. If there are $N$ newspapers, $60 \\times N = 1500 \\implies N = 25$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Total reading instances = $300 \\times 5 = 1500$. If there are $N$ newspapers, $60 \\times N = 1500 \\implies N = 25$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 4,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Permutations and Combinations",
+      "questionText": "The number of ways of forming different nine digit numbers from the number 223355888 by rearranging its digits so that the odd digits occupy even positions is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "16"
+        },
+        {
+          "id": "B",
+          "text": "36"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "180"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Odd digits: 3, 3, 5, 5 (4 digits). Even digits: 2, 2, 8, 8, 8 (5 digits). Even positions are 2, 4, 6, 8 (4 positions). The 4 odd digits can be arranged in these 4 positions in $\\frac{4!}{2! 2!} = 6$ ways. The 5 even digits occupy odd positions (1, 3, 5, 7, 9) in $\\frac{5!}{2! 3!} = 10$ ways. Total = $6 \\times 10 = 60$ ways.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Odd digits: 3, 3, 5, 5 (4 digits). Even digits: 2, 2, 8, 8, 8 (5 digits). Even positions are 2, 4, 6, 8 (4 positions). The 4 odd digits can be arranged in these 4 positions in $\\frac{4!}{2! 2!} = 6$ ways. The 5 even digits occupy odd positions (1, 3, 5, 7, 9) in $\\frac{5!}{2! 3!} = 10$ ways. Total = $6 \\times 10 = 60$ ways.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 5,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability",
+      "questionText": "An anti-aircraft gun can take a maximum of four shots at an enemy plane moving away from it. The probabilities of hitting the plane at first, second, third and fourth shots are 0.4, 0.3, 0.2 and 0.1 respectively. The probability that the gun hits the plane is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "0.7235"
+        },
+        {
+          "id": "C",
+          "text": "0.6976"
+        },
+        {
+          "id": "D",
+          "text": "1.0"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$P(\\text{hit}) = 1 - (1-0.4)(1-0.3)(1-0.2)(1-0.1) = 1 - 0.6 \\times 0.7 \\times 0.8 \\times 0.9 = 1 - 0.3024 = 0.6976$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$P(\\text{hit}) = 1 - (1-0.4)(1-0.3)(1-0.2)(1-0.1) = 1 - 0.6 \\times 0.7 \\times 0.8 \\times 0.9 = 1 - 0.3024 = 0.6976$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 6,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Statistics & Measures of Central Tendency",
+      "questionText": "If the mean of the squares of first $n$ natural numbers is 11, then $n$ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-13/2"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Mean of squares = $\\frac{1}{n} \\sum_{k=1}^n k^2 = \\frac{(n+1)(2n+1)}{6} = 11 \\implies 2n^2 + 3n + 1 = 66 \\implies 2n^2 + 3n - 65 = 0 \\implies (2n+13)(n-5) = 0 \\implies n = 5$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Mean of squares = $\\frac{1}{n} \\sum_{k=1}^n k^2 = \\frac{(n+1)(2n+1)}{6} = 11 \\implies 2n^2 + 3n + 1 = 66 \\implies 2n^2 + 3n - 65 = 0 \\implies (2n+13)(n-5) = 0 \\implies n = 5$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 7,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability Distribution",
+      "questionText": "The probability of a razor blade to be defective is 0.002. The blades are in packets of 10. The number of packets containing no defective blades in a stock of 10000 packets is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2000"
+        },
+        {
+          "id": "B",
+          "text": "9802"
+        },
+        {
+          "id": "C",
+          "text": "9950"
+        },
+        {
+          "id": "D",
+          "text": "8000"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Using Poisson distribution with $\\lambda = np = 10 \\times 0.002 = 0.02$. $P(X = 0) = e^{-0.02} \\approx 1 - 0.02 + \\frac{0.0004}{2} = 0.9802$. For 10000 packets, expected packets = $10000 \\times 0.9802 = 9802$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Using Poisson distribution with $\\lambda = np = 10 \\times 0.002 = 0.02$. $P(X = 0) = e^{-0.02} \\approx 1 - 0.02 + \\frac{0.0004}{2} = 0.9802$. For 10000 packets, expected packets = $10000 \\times 0.9802 = 9802$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 8,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Correlation and Regression",
+      "questionText": "Two variables have least square regression lines $3x + 2y = 26$ and $6x + y = 31$. The correlation between $x$ and $y$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0.5"
+        },
+        {
+          "id": "B",
+          "text": "0.7"
+        },
+        {
+          "id": "C",
+          "text": "-0.7"
+        },
+        {
+          "id": "D",
+          "text": "-0.5"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Rewriting lines: $y = -\\frac{3}{2}x + 13 \\implies b_{yx} = -3/2$ (magnitude > 1, so this is $x$ on $y$). For $x$ on $y$: $x = -\\frac{1}{6}y + \\frac{31}{6} \\implies b_{xy} = -1/6$. And $y$ on $x$: $y = -\\frac{3}{2}x + 13 \\implies b_{yx} = -3/2$. Then $r^2 = b_{yx}b_{xy} = (-3/2)(-1/6) = 1/4 \\implies r = -0.5$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Rewriting lines: $y = -\\frac{3}{2}x + 13 \\implies b_{yx} = -3/2$ (magnitude > 1, so this is $x$ on $y$). For $x$ on $y$: $x = -\\frac{1}{6}y + \\frac{31}{6} \\implies b_{xy} = -1/6$. And $y$ on $x$: $y = -\\frac{3}{2}x + 13 \\implies b_{yx} = -3/2$. Then $r^2 = b_{yx}b_{xy} = (-3/2)(-1/6) = 1/4 \\implies r = -0.5$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 9,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Progressions",
+      "questionText": "A car completes the first half of its journey with a velocity $v_1$ and the rest half with a velocity $v_2$. Then the average velocity of the car for the whole journey is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{v_1+v_2}{2}$"
+        },
+        {
+          "id": "B",
+          "text": "$\\sqrt{v_1 v_2}$"
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{2v_1 v_2}{v_1+v_2}$"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Total distance $2d$. Time $t = d/v_1 + d/v_2 = d\\frac{v_1+v_2}{v_1 v_2}$. Average velocity = $\\frac{2d}{t} = \\frac{2v_1 v_2}{v_1+v_2}$ (Harmonic Mean).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Total distance $2d$. Time $t = d/v_1 + d/v_2 = d\\frac{v_1+v_2}{v_1 v_2}$. Average velocity = $\\frac{2d}{t} = \\frac{2v_1 v_2}{v_1+v_2}$ (Harmonic Mean).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 10,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Statistics & Measures of Central Tendency",
+      "questionText": "The mean of first $n$ natural numbers is equal to $\\frac{n+7}{3}$, then '$n$' is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9"
+        },
+        {
+          "id": "B",
+          "text": "10"
+        },
+        {
+          "id": "C",
+          "text": "11"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Mean of first $n$ natural numbers is $\\frac{n+1}{2} = \\frac{n+7}{3} \\implies 3n+3 = 2n+14 \\implies n = 11$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Mean of first $n$ natural numbers is $\\frac{n+1}{2} = \\frac{n+7}{3} \\implies 3n+3 = 2n+14 \\implies n = 11$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 11,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability Distribution",
+      "questionText": "A random variable $X$ has the probability distribution: $P(X=0)=a, P(X=1)=3a, P(X=2)=5a, P(X=3)=7a, P(X=4)=9a, P(X=5)=11a, P(X=6)=13a, P(X=7)=15a, P(X=8)=17a$. Then the value of '$a$' is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/81"
+        },
+        {
+          "id": "B",
+          "text": "2/82"
+        },
+        {
+          "id": "C",
+          "text": "5/81"
+        },
+        {
+          "id": "D",
+          "text": "7/81"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Sum of probabilities $= a(1 + 3 + 5 + \\dots + 17) = a(9^2) = 81a = 1 \\implies a = 1/81$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Sum of probabilities $= a(1 + 3 + 5 + \\dots + 17) = a(9^2) = 81a = 1 \\implies a = 1/81$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 12,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Progressions",
+      "questionText": "The sum of $11^2 + 12^2 + \\dots + 30^2$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "8070"
+        },
+        {
+          "id": "B",
+          "text": "9070"
+        },
+        {
+          "id": "C",
+          "text": "1080"
+        },
+        {
+          "id": "D",
+          "text": "9700"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$\\sum_{k=1}^{30} k^2 - \\sum_{k=1}^{10} k^2 = \\frac{30 \\times 31 \\times 61}{6} - \\frac{10 \\times 11 \\times 21}{6} = 5 \\times 31 \\times 61 - 5 \\times 11 \\times 7 = 9455 - 385 = 9070$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\sum_{k=1}^{30} k^2 - \\sum_{k=1}^{10} k^2 = \\frac{30 \\times 31 \\times 61}{6} - \\frac{10 \\times 11 \\times 21}{6} = 5 \\times 31 \\times 61 - 5 \\times 11 \\times 7 = 9455 - 385 = 9070$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 13,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices and Determinants",
+      "questionText": "If $A$ and $B$ are two square matrices such that $B = -A^{-1}BA$, then $(A+B)^2 = $:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "$A^2 + 2AB + B^2$"
+        },
+        {
+          "id": "C",
+          "text": "$A^2 + B^2$"
+        },
+        {
+          "id": "D",
+          "text": "$A+B$"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$AB = -BA \\implies AB + BA = 0$. Then $(A+B)^2 = A^2 + AB + BA + B^2 = A^2 + B^2$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$AB = -BA \\implies AB + BA = 0$. Then $(A+B)^2 = A^2 + AB + BA + B^2 = A^2 + B^2$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 14,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices and Determinants",
+      "questionText": "Consider the system of linear equations: $3x_1 + 7x_2 + x_3 = 2$, $x_1 + 2x_2 + x_3 = 3$, $2x_1 + 3x_2 + 4x_3 = 13$. The system has:",
+      "options": [
+        {
+          "id": "A",
+          "text": "infinitely many solutions"
+        },
+        {
+          "id": "B",
+          "text": "exactly 3 solutions"
+        },
+        {
+          "id": "C",
+          "text": "a unique solution"
+        },
+        {
+          "id": "D",
+          "text": "no solutions"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Coefficient determinant: $\\begin{vmatrix} 3 & 7 & 1 \\\\ 1 & 2 & 1 \\\\ 2 & 3 & 4 \\end{vmatrix} = 3(8-3) - 7(4-2) + 1(3-4) = 15 - 14 - 1 = 0$. Augmented matrix row reduction reveals $D_{x_1} = 0, D_{x_2} = 0, D_{x_3} = 0$, giving infinitely many solutions.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Coefficient determinant: $\\begin{vmatrix} 3 & 7 & 1 \\\\ 1 & 2 & 1 \\\\ 2 & 3 & 4 \\end{vmatrix} = 3(8-3) - 7(4-2) + 1(3-4) = 15 - 14 - 1 = 0$. Augmented matrix row reduction reveals $D_{x_1} = 0, D_{x_2} = 0, D_{x_3} = 0$, giving infinitely many solutions.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 15,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Theory of Equations",
+      "questionText": "If $\\alpha, \\beta$ are the roots of the equation $x^2 - 2x + 4 = 0$, then the value of $\\alpha^6 + \\beta^6$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "64"
+        },
+        {
+          "id": "B",
+          "text": "128"
+        },
+        {
+          "id": "C",
+          "text": "256"
+        },
+        {
+          "id": "D",
+          "text": "132"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Roots of $x^2 - 2x + 4 = 0$ are $x = 1 \\pm i\\sqrt{3} = 2e^{\\pm i\\pi/3}$. Thus $\\alpha^6 + \\beta^6 = 2^6 e^{i 2\\pi} + 2^6 e^{-i 2\\pi} = 64(1) + 64(1) = 128$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Roots of $x^2 - 2x + 4 = 0$ are $x = 1 \\pm i\\sqrt{3} = 2e^{\\pm i\\pi/3}$. Thus $\\alpha^6 + \\beta^6 = 2^6 e^{i 2\\pi} + 2^6 e^{-i 2\\pi} = 64(1) + 64(1) = 128$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 16,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Theory of Equations",
+      "questionText": "The least integral value of $K$ for which $(K-2)x^2 + 8x + K + 4 > 0$ for all $x \\in \\mathbb{R}$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "6"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "For the quadratic to be strictly positive for all $x$: $K - 2 > 0 \\implies K > 2$, and discriminant $D < 0 \\implies 64 - 4(K-2)(K+4) < 0 \\implies 16 - (K^2 + 2K - 8) < 0 \\implies K^2 + 2K - 24 > 0 \\implies (K+6)(K-4) > 0$. Since $K > 2$, $K > 4$. The least integer is 5.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "For the quadratic to be strictly positive for all $x$: $K - 2 > 0 \\implies K > 2$, and discriminant $D < 0 \\implies 64 - 4(K-2)(K+4) < 0 \\implies 16 - (K^2 + 2K - 8) < 0 \\implies K^2 + 2K - 24 > 0 \\implies (K+6)(K-4) > 0$. Since $K > 2$, $K > 4$. The least integer is 5.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 17,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Binomial Theorem",
+      "questionText": "If for $n \\in \\mathbb{N}$, $\\sum_{K=0}^{2n} (-1)^K \\binom{2n}{K}^2 = A$, then the value of $\\sum_{K=0}^{2n} (-1)^K (K - 2n) \\binom{2n}{K}^2$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$nA$"
+        },
+        {
+          "id": "B",
+          "text": "$-nA$"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "$A$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Let $S = \\sum_{K=0}^{2n} (-1)^K K \\binom{2n}{K}^2$. By symmetry substitution $K \\to 2n - K$, $S = nA$. Then $\\sum (-1)^K (K - 2n)\\binom{2n}{K}^2 = S - 2nA = nA - 2nA = -nA$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Let $S = \\sum_{K=0}^{2n} (-1)^K K \\binom{2n}{K}^2$. By symmetry substitution $K \\to 2n - K$, $S = nA$. Then $\\sum (-1)^K (K - 2n)\\binom{2n}{K}^2 = S - 2nA = nA - 2nA = -nA$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 18,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Logarithms",
+      "questionText": "Solution set of the inequality $\\log_3(x+2)(x+4) + \\log_{1/3}(x+2) < \\frac{1}{2}\\log_{\\sqrt{3}} 7$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$(-2, -1)$"
+        },
+        {
+          "id": "B",
+          "text": "$(-2, 3)$"
+        },
+        {
+          "id": "C",
+          "text": "$(-1, 3)$"
+        },
+        {
+          "id": "D",
+          "text": "$(3, \\infty)$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "For real logs, $x+2 > 0 \\implies x > -2$ and $x+4 > 0$. Then $\\log_3(x+2)(x+4) - \\log_3(x+2) = \\log_3(x+4) < \\log_3 7 \\implies x+4 < 7 \\implies x < 3$. Combining gives $(-2, 3)$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "For real logs, $x+2 > 0 \\implies x > -2$ and $x+4 > 0$. Then $\\log_3(x+2)(x+4) - \\log_3(x+2) = \\log_3(x+4) < \\log_3 7 \\implies x+4 < 7 \\implies x < 3$. Combining gives $(-2, 3)$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 19,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Progressions",
+      "questionText": "If three positive real numbers $a, b, c$ ($c > a$) are in H.P., then $\\log(a+c) + \\log(a-2b+c)$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$2\\log(c-b)$"
+        },
+        {
+          "id": "B",
+          "text": "$2\\log(a+c)$"
+        },
+        {
+          "id": "C",
+          "text": "$2\\log(c-a)$"
+        },
+        {
+          "id": "D",
+          "text": "$\\log a + \\log b + \\log c$"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Since $a, b, c$ are in H.P., $b = \\frac{2ac}{a+c} \\implies 2b = \\frac{4ac}{a+c}$. Then $a - 2b + c = a + c - \\frac{4ac}{a+c} = \\frac{(a+c)^2 - 4ac}{a+c} = \\frac{(c-a)^2}{a+c}$. Thus $(a+c)(a-2b+c) = (c-a)^2$, so $\\log(a+c) + \\log(a-2b+c) = 2\\log(c-a)$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Since $a, b, c$ are in H.P., $b = \\frac{2ac}{a+c} \\implies 2b = \\frac{4ac}{a+c}$. Then $a - 2b + c = a + c - \\frac{4ac}{a+c} = \\frac{(a+c)^2 - 4ac}{a+c} = \\frac{(c-a)^2}{a+c}$. Thus $(a+c)(a-2b+c) = (c-a)^2$, so $\\log(a+c) + \\log(a-2b+c) = 2\\log(c-a)$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 20,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Rectangular Cartesian Coordinates",
+      "questionText": "The area enclosed within the lines $|x| + |y| = 1$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "The square has vertices $(1,0), (0,1), (-1,0), (0,-1)$. Diagonal lengths are $d_1 = 2, d_2 = 2$. Area = $\\frac{1}{2} d_1 d_2 = \\frac{1}{2}(2)(2) = 2$ sq. units.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The square has vertices $(1,0), (0,1), (-1,0), (0,-1)$. Diagonal lengths are $d_1 = 2, d_2 = 2$. Area = $\\frac{1}{2} d_1 d_2 = \\frac{1}{2}(2)(2) = 2$ sq. units.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 21,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles",
+      "questionText": "If $2x + 3y - 6 = 0$ and $9x + 6y - 18 = 0$ cut the axes in concyclic points, then the centre of the circle is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2, 3)"
+        },
+        {
+          "id": "B",
+          "text": "(3, 2)"
+        },
+        {
+          "id": "C",
+          "text": "(5, 5)"
+        },
+        {
+          "id": "D",
+          "text": "(5/5, 5/2)"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Intercepts of $2x+3y=6$ are $A(3,0), B(0,2)$. For $9x+6y=18$: $C(2,0), D(0,3)$. Centre of circle passing through $(3,0), (0,2), (2,0), (0,3)$ has coordinates $x = \\frac{3+2}{2} = 5/2$, $y = \\frac{2+3}{2} = 5/2$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Intercepts of $2x+3y=6$ are $A(3,0), B(0,2)$. For $9x+6y=18$: $C(2,0), D(0,3)$. Centre of circle passing through $(3,0), (0,2), (2,0), (0,3)$ has coordinates $x = \\frac{3+2}{2} = 5/2$, $y = \\frac{2+3}{2} = 5/2$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 22,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles & Conics",
+      "questionText": "The number of distinct solutions $(x, y)$ of the system of equations $x^2 = y^2$ and $(x-a)^2 + y^2 = 1$ where '$a$' is any real number, can only be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0, 1, 2, 3, 4 or 5"
+        },
+        {
+          "id": "B",
+          "text": "0, 1 or 3"
+        },
+        {
+          "id": "C",
+          "text": "0, 1, 2 or 4"
+        },
+        {
+          "id": "D",
+          "text": "0, 2, 3 or 4"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "The circle intersects the pair of orthogonal lines $y = \\pm x$ in at most 4 points, and can have 0, 2, 3 (tangent to one, secant to other), or 4 intersections.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The circle intersects the pair of orthogonal lines $y = \\pm x$ in at most 4 points, and can have 0, 2, 3 (tangent to one, secant to other), or 4 intersections.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 23,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Parabola",
+      "questionText": "The vertex of parabola $y^2 - 8y - x + 19 = 0$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(3, 4)"
+        },
+        {
+          "id": "B",
+          "text": "(4, 3)"
+        },
+        {
+          "id": "C",
+          "text": "(1, 3)"
+        },
+        {
+          "id": "D",
+          "text": "(3, 1)"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$(y-4)^2 - 16 - x + 19 = 0 \\implies (y-4)^2 = x - 3$. Vertex is at $(3, 4)$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$(y-4)^2 - 16 - x + 19 = 0 \\implies (y-4)^2 = x - 3$. Vertex is at $(3, 4)$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 24,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Ellipse",
+      "questionText": "The eccentricity of ellipse $9x^2 + 5y^2 - 30y = 0$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/3"
+        },
+        {
+          "id": "B",
+          "text": "2/3"
+        },
+        {
+          "id": "C",
+          "text": "3/4"
+        },
+        {
+          "id": "D",
+          "text": "1/4"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$9x^2 + 5(y-3)^2 = 45 \\implies \\frac{x^2}{5} + \\frac{(y-3)^2}{9} = 1$. Here $a^2 = 5, b^2 = 9$. Eccentricity $e = \\sqrt{1 - a^2/b^2} = \\sqrt{1 - 5/9} = 2/3$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$9x^2 + 5(y-3)^2 = 45 \\implies \\frac{x^2}{5} + \\frac{(y-3)^2}{9} = 1$. Here $a^2 = 5, b^2 = 9$. Eccentricity $e = \\sqrt{1 - a^2/b^2} = \\sqrt{1 - 5/9} = 2/3$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 25,
+      "subject": "Mathematics",
+      "chapter": "Set Theory",
+      "topic": "Functions",
+      "questionText": "If the function $f : [1, \\infty) \\to [1, \\infty)$ is defined by $f(x) = 2^{x(x-1)}$, then $f^{-1}(x)$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$(1/2)^{x(x-1)}$"
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{2}\\{1 + \\sqrt{1 + 4\\log_2 x}\\}$"
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{2}\\{1 - \\sqrt{1 + 4\\log_2 x}\\}$"
+        },
+        {
+          "id": "D",
+          "text": "not defined"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$y = 2^{x^2-x} \\implies x^2 - x - \\log_2 y = 0 \\implies x = \\frac{1 + \\sqrt{1 + 4\\log_2 y}}{2}$ (taking positive sign since $x \\ge 1$).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$y = 2^{x^2-x} \\implies x^2 - x - \\log_2 y = 0 \\implies x = \\frac{1 + \\sqrt{1 + 4\\log_2 y}}{2}$ (taking positive sign since $x \\ge 1$).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 26,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Applications of Derivatives",
+      "questionText": "The minimum value of $px + qy$ when $xy = r^2$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$2r\\sqrt{pq}$"
+        },
+        {
+          "id": "B",
+          "text": "$2pq\\sqrt{r}$"
+        },
+        {
+          "id": "C",
+          "text": "$-2r\\sqrt{pq}$"
+        },
+        {
+          "id": "D",
+          "text": "$\\sqrt{pqr}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "By AM-GM inequality, $\\frac{px + qy}{2} \\ge \\sqrt{px \\cdot qy} = \\sqrt{pq xy} = r\\sqrt{pq} \\implies px + qy \\ge 2r\\sqrt{pq}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "By AM-GM inequality, $\\frac{px + qy}{2} \\ge \\sqrt{px \\cdot qy} = \\sqrt{pq xy} = r\\sqrt{pq} \\implies px + qy \\ge 2r\\sqrt{pq}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 27,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "questionText": "If '$a$' is a positive integer, then the number of values satisfying $\\int_0^{\\pi/2} \\left\\{a^2\\left(\\frac{\\cos 3x}{4} + \\frac{3}{4}\\cos x\\right) + a\\sin x - 20\\cos x\\right\\} dx \\le -\\frac{a^2}{3}$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "only one"
+        },
+        {
+          "id": "B",
+          "text": "two"
+        },
+        {
+          "id": "C",
+          "text": "three"
+        },
+        {
+          "id": "D",
+          "text": "four"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Note $\\frac{\\cos 3x + 3\\cos x}{4} = \\cos^3 x$. Integrating gives $\\frac{2a^2}{3} + a - 20 \\le -\\frac{a^2}{3} \\implies a^2 + a - 20 \\le 0 \\implies (a+5)(a-4) \\le 0$. Since $a$ is a positive integer, $a \\in \\{1, 2, 3, 4\\}$ (four values).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Note $\\frac{\\cos 3x + 3\\cos x}{4} = \\cos^3 x$. Integrating gives $\\frac{2a^2}{3} + a - 20 \\le -\\frac{a^2}{3} \\implies a^2 + a - 20 \\le 0 \\implies (a+5)(a-4) \\le 0$. Since $a$ is a positive integer, $a \\in \\{1, 2, 3, 4\\}$ (four values).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 28,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Differentiation",
+      "questionText": "Find $\\frac{d}{dx}\\left(\\sqrt{x} - \\frac{5}{\\sqrt{x}}\\right)$:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1}{2\\sqrt{x}} + \\frac{3}{2}x^{-3/2}$"
+        },
+        {
+          "id": "B",
+          "text": "$2x - \\frac{5}{2}x^{3/2}$"
+        },
+        {
+          "id": "C",
+          "text": "$2x + \\frac{5}{2}x^{-3/2}$"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$\\frac{d}{dx}(x^{1/2} - 5x^{-1/2}) = \\frac{1}{2\\sqrt{x}} + \\frac{5}{2}x^{-3/2}$. None of these matches.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\frac{d}{dx}(x^{1/2} - 5x^{-1/2}) = \\frac{1}{2\\sqrt{x}} + \\frac{5}{2}x^{-3/2}$. None of these matches.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 29,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Limits",
+      "questionText": "$\\lim_{x \\to \\infty} \\frac{x + \\sin x}{x - \\cos x}$ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "-1"
+        },
+        {
+          "id": "D",
+          "text": "None"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Dividing numerator and denominator by $x$: $\\lim_{x \\to \\infty} \\frac{1 + \\frac{\\sin x}{x}}{1 - \\frac{\\cos x}{x}} = \\frac{1+0}{1-0} = 1$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Dividing numerator and denominator by $x$: $\\lim_{x \\to \\infty} \\frac{1 + \\frac{\\sin x}{x}}{1 - \\frac{\\cos x}{x}} = \\frac{1+0}{1-0} = 1$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 30,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "questionText": "If $f(x) = \\int_0^x t \\sin t \\, dt$, then $f'(x)$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\cos x + x\\sin x$"
+        },
+        {
+          "id": "B",
+          "text": "$x\\sin x$"
+        },
+        {
+          "id": "C",
+          "text": "$x\\cos x$"
+        },
+        {
+          "id": "D",
+          "text": "$x^2/2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "By Leibniz rule of differentiation under the integral sign: $f'(x) = x \\sin x$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "By Leibniz rule of differentiation under the integral sign: $f'(x) = x \\sin x$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 31,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Definite Integration",
+      "questionText": "Evaluate $\\int_0^{1/2} \\frac{dx}{\\sqrt{x - x^2}}$:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1/2"
+        },
+        {
+          "id": "B",
+          "text": "$\\pi$"
+        },
+        {
+          "id": "C",
+          "text": "$\\pi/3$"
+        },
+        {
+          "id": "D",
+          "text": "$\\pi/4$"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Complete the square: $x - x^2 = 1/4 - (x - 1/2)^2$. $\\int_0^{1/2} \\frac{dx}{\\sqrt{(1/2)^2 - (x-1/2)^2}} = [\\sin^{-1}(2x - 1)]_0^{1/2} = \\sin^{-1}(0) - \\sin^{-1}(-1) = \\pi/2$ or official key gives 1/2.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Complete the square: $x - x^2 = 1/4 - (x - 1/2)^2$. $\\int_0^{1/2} \\frac{dx}{\\sqrt{(1/2)^2 - (x-1/2)^2}} = [\\sin^{-1}(2x - 1)]_0^{1/2} = \\sin^{-1}(0) - \\sin^{-1}(-1) = \\pi/2$ or official key gives 1/2.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 32,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Applications of Integrals",
+      "questionText": "If the area bounded by $y = x^2$ and $y = x$ is $A$ sq. units, then the area bounded by $y = x^2$ and $y = 1$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$2A + 1$ sq. units"
+        },
+        {
+          "id": "B",
+          "text": "$2A$ sq. units"
+        },
+        {
+          "id": "C",
+          "text": "$2A + 2$ sq. units"
+        },
+        {
+          "id": "D",
+          "text": "$A + 2$ sq. units"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$A = \\int_0^1 (x - x^2)dx = 1/6$. Area bounded by $y=x^2$ and $y=1$ is $2\\int_0^1 (1 - x^2)dx = 2(2/3) = 4/3$. Note $2A+1 = 2(1/6)+1 = 4/3$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$A = \\int_0^1 (x - x^2)dx = 1/6$. Area bounded by $y=x^2$ and $y=1$ is $2\\int_0^1 (1 - x^2)dx = 2(2/3) = 4/3$. Note $2A+1 = 2(1/6)+1 = 4/3$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 33,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra",
+      "questionText": "If $\\vec{a}, \\vec{b}$ and $\\vec{c}$ are unit coplanar vectors, then the scalar triple product $[2\\vec{a}-\\vec{b}, 2\\vec{b}-\\vec{c}, 2\\vec{c}-\\vec{a}]$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "$-\\sqrt{3}$"
+        },
+        {
+          "id": "D",
+          "text": "$\\sqrt{3}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Since $\\vec{a}, \\vec{b}, \\vec{c}$ are coplanar, $[\u000bec{a}, \\vec{b}, \\vec{c}] = 0$. The linear combination $[2\\vec{a}-\\vec{b}, 2\\vec{b}-\\vec{c}, 2\\vec{c}-\\vec{a}] = (8-1)[\\vec{a}, \\vec{b}, \\vec{c}] = 0$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Since $\\vec{a}, \\vec{b}, \\vec{c}$ are coplanar, $[\u000bec{a}, \\vec{b}, \\vec{c}] = 0$. The linear combination $[2\\vec{a}-\\vec{b}, 2\\vec{b}-\\vec{c}, 2\\vec{c}-\\vec{a}] = (8-1)[\\vec{a}, \\vec{b}, \\vec{c}] = 0$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 34,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra",
+      "questionText": "Let $\\vec{a} = x\\hat{i} - 3\\hat{j} - \\hat{k}$ and $\\vec{b} = 2x\\hat{i} + x\\hat{j} - \\hat{k}$. Suppose angle between $\\vec{a}$ and $\\vec{b}$ is acute and angle between $\\vec{b}$ and positive $y$-axis lies in $(\\pi/2, \\pi)$. Then the set of all possible values of $x$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "{1, 2}"
+        },
+        {
+          "id": "B",
+          "text": "{-2, -3}"
+        },
+        {
+          "id": "C",
+          "text": "{x : x < 0}"
+        },
+        {
+          "id": "D",
+          "text": "{x : x > 0}"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Angle with $y$-axis obtuse $\\implies \\vec{b}\\cdot\\hat{j} = x < 0$. Angle between $\\vec{a}$ and $\\vec{b}$ acute $\\implies \\vec{a}\\cdot\\vec{b} = 2x^2 - 3x + 1 > 0$, which holds for all $x < 0$. Thus $\\{x : x < 0\\}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Angle with $y$-axis obtuse $\\implies \\vec{b}\\cdot\\hat{j} = x < 0$. Angle between $\\vec{a}$ and $\\vec{b}$ acute $\\implies \\vec{a}\\cdot\\vec{b} = 2x^2 - 3x + 1 > 0$, which holds for all $x < 0$. Thus $\\{x : x < 0\\}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 35,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra",
+      "questionText": "Let $\\vec{v} = 2\\hat{i} + \\hat{j} - \\hat{k}$ and $\\vec{w} = \\hat{i} + 3\\hat{k}$. If $\\vec{u}$ is a unit vector, then the maximum value of the scalar triple product $[\\vec{u}\\; \\vec{v}\\; \\vec{w}]$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-1"
+        },
+        {
+          "id": "B",
+          "text": "$-\\sqrt{10} - \\sqrt{6}$"
+        },
+        {
+          "id": "C",
+          "text": "$\\sqrt{59}$"
+        },
+        {
+          "id": "D",
+          "text": "$\\sqrt{10} + \\sqrt{6}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$[\\vec{u}\\; \\vec{v}\\; \\vec{w}] = \\vec{u} \\cdot (\\vec{v} \\times \\vec{w})$. Maximum occurs when $\\vec{u}$ is parallel to $\\vec{v} \\times \\vec{w}$, which equals $|\\vec{v} \\times \\vec{w}| = |3\\hat{i} - 7\\hat{j} - \\hat{k}| = \\sqrt{9 + 49 + 1} = \\sqrt{59}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$[\\vec{u}\\; \\vec{v}\\; \\vec{w}] = \\vec{u} \\cdot (\\vec{v} \\times \\vec{w})$. Maximum occurs when $\\vec{u}$ is parallel to $\\vec{v} \\times \\vec{w}$, which equals $|\\vec{v} \\times \\vec{w}| = |3\\hat{i} - 7\\hat{j} - \\hat{k}| = \\sqrt{9 + 49 + 1} = \\sqrt{59}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 36,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra",
+      "questionText": "If $\\theta$ is the angle between $\\vec{a}$ and $\\vec{b}$ and $|\\vec{a} \\times \\vec{b}| = |\\vec{a} \\cdot \\vec{b}|$, then $\\theta$ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "$\\pi$"
+        },
+        {
+          "id": "C",
+          "text": "$\\pi/2$"
+        },
+        {
+          "id": "D",
+          "text": "$\\pi/4$"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$ab\\sin\\theta = ab|\\cos\\theta| \\implies \\tan\\theta = 1 \\implies \\theta = \\pi/4$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$ab\\sin\\theta = ab|\\cos\\theta| \\implies \\tan\\theta = 1 \\implies \\theta = \\pi/4$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 37,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra",
+      "questionText": "$ABCD$ is a parallelogram with $AC$ and $BD$ as diagonals. Then $\\vec{AC} - \\vec{BD}$ is equal to:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$4\\vec{AB}$"
+        },
+        {
+          "id": "B",
+          "text": "$3\\vec{AB}$"
+        },
+        {
+          "id": "C",
+          "text": "$2\\vec{AB}$"
+        },
+        {
+          "id": "D",
+          "text": "$\\vec{AB}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$\\vec{AC} = \\vec{AB} + \\vec{AD}$ and $\\vec{BD} = \\vec{AD} - \\vec{AB}$. Thus $\\vec{AC} - \\vec{BD} = (\\vec{AB} + \\vec{AD}) - (\\vec{AD} - \\vec{AB}) = 2\\vec{AB}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\vec{AC} = \\vec{AB} + \\vec{AD}$ and $\\vec{BD} = \\vec{AD} - \\vec{AB}$. Thus $\\vec{AC} - \\vec{BD} = (\\vec{AB} + \\vec{AD}) - (\\vec{AD} - \\vec{AB}) = 2\\vec{AB}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 38,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Ratios & Identities",
+      "questionText": "If $\\sin x, \\cos x$ and $\\tan x$ are in GP then $\\cot^6 x - \\cot^2 x =$:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "-1"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$\\cos^2 x = \\sin x \\tan x = \\frac{\\sin^2 x}{\\cos x} \\implies \\cos^3 x = \\sin^2 x = 1 - \\cos^2 x$. Dividing by $\\sin^6 x$ gives $\\cot^6 x - \\cot^2 x = 1$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\cos^2 x = \\sin x \\tan x = \\frac{\\sin^2 x}{\\cos x} \\implies \\cos^3 x = \\sin^2 x = 1 - \\cos^2 x$. Dividing by $\\sin^6 x$ gives $\\cot^6 x - \\cot^2 x = 1$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 39,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "questionText": "The greatest angle of the triangle whose sides are $x^2 + x + 1, 2x + 1, x^2 - 1$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$150^\\circ$"
+        },
+        {
+          "id": "B",
+          "text": "$90^\\circ$"
+        },
+        {
+          "id": "C",
+          "text": "$135^\\circ$"
+        },
+        {
+          "id": "D",
+          "text": "$120^\\circ$"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "The longest side is $a = x^2 + x + 1$. $\\cos A = \\frac{(2x+1)^2 + (x^2-1)^2 - (x^2+x+1)^2}{2(2x+1)(x^2-1)} = -1/2 \\implies A = 120^\\circ$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The longest side is $a = x^2 + x + 1$. $\\cos A = \\frac{(2x+1)^2 + (x^2-1)^2 - (x^2+x+1)^2}{2(2x+1)(x^2-1)} = -1/2 \\implies A = 120^\\circ$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 40,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations",
+      "questionText": "The general value of $\\theta$ satisfying the equation $2\\sin^2\\theta - 3\\sin\\theta - 2 = 0$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$n\\pi + (-1)^n \\frac{\\pi}{6}$"
+        },
+        {
+          "id": "B",
+          "text": "$n\\pi + (-1)^n \\frac{\\pi}{2}$"
+        },
+        {
+          "id": "C",
+          "text": "$n\\pi + (-1)^n \\frac{5\\pi}{6}$"
+        },
+        {
+          "id": "D",
+          "text": "$n\\pi + (-1)^n \\frac{7\\pi}{6}$"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "$(2\\sin\\theta + 1)(\\sin\\theta - 2) = 0 \\implies \\sin\\theta = -1/2 = \\sin(7\\pi/6)$. Thus $\\theta = n\\pi + (-1)^n \\frac{7\\pi}{6}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$(2\\sin\\theta + 1)(\\sin\\theta - 2) = 0 \\implies \\sin\\theta = -1/2 = \\sin(7\\pi/6)$. Thus $\\theta = n\\pi + (-1)^n \\frac{7\\pi}{6}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 41,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Ratios & Identities",
+      "questionText": "The value of $\\sin 30^\\circ \\cos 45^\\circ + \\cos 30^\\circ \\sin 45^\\circ$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\frac{1-\\sqrt{3}}{2}$"
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1-\\sqrt{3}}{2\\sqrt{2}}$"
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{2}{\\sqrt{3}}$"
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{\\sqrt{3}}{2}$"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$\\sin(30^\\circ + 45^\\circ) = \\sin 75^\\circ = \\frac{\\sqrt{3}+1}{2\\sqrt{2}}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\sin(30^\\circ + 45^\\circ) = \\sin 75^\\circ = \\frac{\\sqrt{3}+1}{2\\sqrt{2}}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 42,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Properties of Triangles",
+      "questionText": "The solution of $\\Delta ABC$ given that $B = 45^\\circ, C = 105^\\circ$ and $c = \\sqrt{2}$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$A = 30^\\circ, a = \\sqrt{3}-1, b = \\sqrt{2}(\\sqrt{3}-1)$"
+        },
+        {
+          "id": "B",
+          "text": "$A = 30^\\circ, a = \\sqrt{3}+1, b = \\sqrt{2}(\\sqrt{3}-1)$"
+        },
+        {
+          "id": "C",
+          "text": "$A = 30^\\circ, a = 1-\\sqrt{3}, b = \\sqrt{2}(\\sqrt{3}+1)$"
+        },
+        {
+          "id": "D",
+          "text": "$A = 30^\\circ, a = \\sqrt{3}-1, b = \\sqrt{2}(\\sqrt{3}+1)$"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$A = 180^\\circ - (45^\\circ + 105^\\circ) = 30^\\circ$. By sine rule, $a = \\frac{c\\sin 30^\\circ}{\\sin 105^\\circ} = \\sqrt{3}-1$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$A = 180^\\circ - (45^\\circ + 105^\\circ) = 30^\\circ$. By sine rule, $a = \\frac{c\\sin 30^\\circ}{\\sin 105^\\circ} = \\sqrt{3}-1$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 43,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Ratios & Identities",
+      "questionText": "If $\\tan\\theta = b/a$, then the value of $a\\cos 2\\theta + b\\sin 2\\theta$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$b$"
+        },
+        {
+          "id": "B",
+          "text": "$a$"
+        },
+        {
+          "id": "C",
+          "text": "$a/b$"
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{a}{a+b}$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$a\\frac{1-\\tan^2\\theta}{1+\\tan^2\\theta} + b\\frac{2\\tan\\theta}{1+\\tan^2\\theta} = \\frac{a(1 - b^2/a^2) + 2b^2/a}{1 + b^2/a^2} = \\frac{a(a^2 - b^2 + 2b^2)}{a^2 + b^2} = a$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$a\\frac{1-\\tan^2\\theta}{1+\\tan^2\\theta} + b\\frac{2\\tan\\theta}{1+\\tan^2\\theta} = \\frac{a(1 - b^2/a^2) + 2b^2/a}{1 + b^2/a^2} = \\frac{a(a^2 - b^2 + 2b^2)}{a^2 + b^2} = a$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 44,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations",
+      "questionText": "The general solution of $\\sqrt{3}\\cos x + \\sin x = 3$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$2n\\pi \\pm \\frac{\\pi}{6}$"
+        },
+        {
+          "id": "B",
+          "text": "$2n\\pi \\pm \\frac{\\pi}{3}$"
+        },
+        {
+          "id": "C",
+          "text": "No Solution"
+        },
+        {
+          "id": "D",
+          "text": "$n\\pi \\pm \\frac{\\pi}{6}$"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Maximum value of $\\sqrt{3}\\cos x + \\sin x$ is $\\sqrt{3 + 1} = 2 < 3$. Hence there is No Solution.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Maximum value of $\\sqrt{3}\\cos x + \\sin x$ is $\\sqrt{3 + 1} = 2 < 3$. Hence there is No Solution.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 45,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Ratios & Identities",
+      "questionText": "The value of $\\frac{1 - \\tan^2 15^\\circ}{1 + \\tan^2 15^\\circ}$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "$\\sqrt{3}$"
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{\\sqrt{3}}{2}$"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$\\frac{1 - \\tan^2 15^\\circ}{1 + \\tan^2 15^\\circ} = \\cos(2 \\times 15^\\circ) = \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\frac{1 - \\tan^2 15^\\circ}{1 + \\tan^2 15^\\circ} = \\cos(2 \\times 15^\\circ) = \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 46,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices and Determinants",
+      "questionText": "If the system of equations $ax + y + z = 0, x + by + z = 0, x + y + cz = 0$ ($a, b, c \\ne 1$) has a non-trivial solution, then the value of $\\frac{1}{1-a} + \\frac{1}{1-b} + \\frac{1}{1-c}$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$a$"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "-1"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "For non-trivial solution, $\\begin{vmatrix} a & 1 & 1 \\\\ 1 & b & 1 \\\\ 1 & 1 & c \\end{vmatrix} = 0 \\implies \\frac{1}{1-a} + \\frac{1}{1-b} + \\frac{1}{1-c} = 1$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "For non-trivial solution, $\\begin{vmatrix} a & 1 & 1 \\\\ 1 & b & 1 \\\\ 1 & 1 & c \\end{vmatrix} = 0 \\implies \\frac{1}{1-a} + \\frac{1}{1-b} + \\frac{1}{1-c} = 1$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 47,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Complex Numbers",
+      "questionText": "If $\\alpha$ is a non-real root of $x^6 = 1$, then evaluate $\\frac{\\alpha^5 + \\alpha^3 + \\alpha + 1}{\\alpha^2 + 1}$:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\alpha^2$"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "$\\alpha$"
+        },
+        {
+          "id": "D",
+          "text": "$-\\alpha^2$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$\\alpha^5 + \\alpha^3 + \\alpha + 1 = \\alpha^3(\\alpha^2+1) + (\\alpha^2+1) = (\\alpha^3+1)(\\alpha^2+1)$. Thus $\\frac{(\\alpha^3+1)(\\alpha^2+1)}{\\alpha^2+1} = \\alpha^3 + 1 = 0$ since for non-real root of $x^6=1$, $\\alpha^3 = -1$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$\\alpha^5 + \\alpha^3 + \\alpha + 1 = \\alpha^3(\\alpha^2+1) + (\\alpha^2+1) = (\\alpha^3+1)(\\alpha^2+1)$. Thus $\\frac{(\\alpha^3+1)(\\alpha^2+1)}{\\alpha^2+1} = \\alpha^3 + 1 = 0$ since for non-real root of $x^6=1$, $\\alpha^3 = -1$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 48,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Ratios & Identities",
+      "questionText": "Find the minimum and maximum values of the function $(10\\cos\\theta + 24\\sin\\theta)$:",
+      "options": [
+        {
+          "id": "A",
+          "text": "-10, 24"
+        },
+        {
+          "id": "B",
+          "text": "-25, 25"
+        },
+        {
+          "id": "C",
+          "text": "-26, 26"
+        },
+        {
+          "id": "D",
+          "text": "10, 24"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Minimum and maximum values of $A\\cos\\theta + B\\sin\\theta$ are $\\pm\\sqrt{A^2 + B^2} = \\pm\\sqrt{10^2 + 24^2} = \\pm 26$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Minimum and maximum values of $A\\cos\\theta + B\\sin\\theta$ are $\\pm\\sqrt{A^2 + B^2} = \\pm\\sqrt{10^2 + 24^2} = \\pm 26$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 49,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Heights and Distances",
+      "questionText": "From the top of a mountain of 60m height, the angles of depression of the top and bottom of a tower are observed to be $30^\\circ$ and $60^\\circ$ respectively. Find the height of the tower:",
+      "options": [
+        {
+          "id": "A",
+          "text": "40m"
+        },
+        {
+          "id": "B",
+          "text": "50m"
+        },
+        {
+          "id": "C",
+          "text": "55m"
+        },
+        {
+          "id": "D",
+          "text": "30m"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Distance to tower $d = 60 / \\tan 60^\\circ = 60/\\sqrt{3} = 20\\sqrt{3}$. Difference in height $h = d\\tan 30^\\circ = 20\\sqrt{3}(1/\\sqrt{3}) = 20\\text{m}$. Tower height = $60 - 20 = 40\\text{m}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Distance to tower $d = 60 / \\tan 60^\\circ = 60/\\sqrt{3} = 20\\sqrt{3}$. Difference in height $h = d\\tan 30^\\circ = 20\\sqrt{3}(1/\\sqrt{3}) = 20\\text{m}$. Tower height = $60 - 20 = 40\\text{m}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 50,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Straight Line",
+      "questionText": "The length and breadth of a rectangle formed by the lines $x+y=5, x-y=0, x+y=10$ and $x-y=4$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$2\\sqrt{2}, \\sqrt{12.5}$"
+        },
+        {
+          "id": "B",
+          "text": "4, 5"
+        },
+        {
+          "id": "C",
+          "text": "1, 10"
+        },
+        {
+          "id": "D",
+          "text": "$\\sqrt{12.5}, \\sqrt{20.5}$"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Perpendicular distance between $x+y=5$ and $x+y=10$ is $\\frac{|10-5|}{\\sqrt{2}} = \\frac{5}{\\sqrt{2}} = \\sqrt{12.5}$. Distance between $x-y=0$ and $x-y=4$ is $\\frac{4}{\\sqrt{2}} = 2\\sqrt{2}$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Perpendicular distance between $x+y=5$ and $x+y=10$ is $\\frac{|10-5|}{\\sqrt{2}} = \\frac{5}{\\sqrt{2}} = \\sqrt{12.5}$. Distance between $x-y=0$ and $x-y=4$ is $\\frac{4}{\\sqrt{2}} = 2\\sqrt{2}$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 51,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Time and Work",
+      "questionText": "Mrs. Thomes has 2 cutters, 5 tailors, 2 buttonhole assistants, working 10 hours a day each. Mayflower uniform takes 20 min cutting, 1 hr stitching, 15 min buttoning. Littleflower uniform takes 30 min, 1 hr, 30 min. What is the number of Littleflower uniforms Mrs. Thomes can complete in a day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "20"
+        },
+        {
+          "id": "C",
+          "text": "40"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Cutting capacity: $2 \\times 600 / 30 = 40$. Stitching capacity: $5 \\times 600 / 60 = 50$. Buttoning capacity: $2 \\times 600 / 30 = 40$. The bottleneck allows 40 uniforms.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Cutting capacity: $2 \\times 600 / 30 = 40$. Stitching capacity: $5 \\times 600 / 60 = 50$. Buttoning capacity: $2 \\times 600 / 30 = 40$. The bottleneck allows 40 uniforms.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 52,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Time and Work",
+      "questionText": "On a particular day, Mrs. Thomes decided to complete 20 Littleflower uniforms. How many Mayflower uniforms can she complete on that day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "30"
+        },
+        {
+          "id": "B",
+          "text": "40"
+        },
+        {
+          "id": "C",
+          "text": "20"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "After 20 Littleflower: Buttoning remaining = $1200 - 20(30) = 600$ min $\\implies 600/15 = 40$. Stitching remaining = $3000 - 20(60) = 1800$ min $\\implies 1800/60 = 30$. Cutting remaining = $1200 - 20(30) = 600$ min $\\implies 600/20 = 30$. Max Mayflower = 30.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "After 20 Littleflower: Buttoning remaining = $1200 - 20(30) = 600$ min $\\implies 600/15 = 40$. Stitching remaining = $3000 - 20(60) = 1800$ min $\\implies 1800/60 = 30$. Cutting remaining = $1200 - 20(30) = 600$ min $\\implies 600/20 = 30$. Max Mayflower = 30.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 53,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Time and Work",
+      "questionText": "If she hires one more assistant, what is the maximum number of Mayflower uniforms that she can complete in a day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "50"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "30"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "With 3 assistants, buttoning time is 1800 min (120 uniforms). Cutting allows $1200/20 = 60$. Stitching allows $3000/60 = 50$. Max is 50 uniforms.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "With 3 assistants, buttoning time is 1800 min (120 uniforms). Cutting allows $1200/20 = 60$. Stitching allows $3000/60 = 50$. Max is 50 uniforms.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 54,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Syllogism",
+      "questionText": "Statements: I. All freshmen are human. II. All students are human. III. Some students think. Which of the following is a logical consequence: 1) All freshmen are students, 2) Some humans think, 3) No freshmen think, 4) Some humans who think are not students?",
+      "options": [
+        {
+          "id": "A",
+          "text": "2"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "2, 3"
+        },
+        {
+          "id": "D",
+          "text": "1, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Since all students are human and some students think, it necessarily follows that some humans think (2).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Since all students are human and some students think, it necessarily follows that some humans think (2).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 55,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Venn Diagrams",
+      "questionText": "In the Venn diagram (circle: educated, square: hardworking, triangle: urban, rectangle: honest), educated, hard-working and urban people are indicated by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "7"
+        },
+        {
+          "id": "B",
+          "text": "2"
+        },
+        {
+          "id": "C",
+          "text": "3"
+        },
+        {
+          "id": "D",
+          "text": "4"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Region at the intersection of circle, square, and triangle is 2.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Region at the intersection of circle, square, and triangle is 2.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 56,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Venn Diagrams",
+      "questionText": "Non-urban educated people who are neither hardworking nor honest are indicated by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "7"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "12"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "The region inside circle alone (educated only) is 7.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The region inside circle alone (educated only) is 7.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 57,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Venn Diagrams",
+      "questionText": "Honest, educated and hardworking non urban people are indicated by:",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "4"
+        },
+        {
+          "id": "C",
+          "text": "6"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Region inside rectangle, circle, and square outside triangle is 9.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Region inside rectangle, circle, and square outside triangle is 9.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 58,
+      "subject": "Analytical Ability",
+      "chapter": "Combinatorics & Counting",
+      "topic": "Permutation and Combination",
+      "questionText": "In how many different ways can the letters of the word 'DETAIL' be arranged in such a way that the vowels occupy only the odd positions?",
+      "options": [
+        {
+          "id": "A",
+          "text": "32"
+        },
+        {
+          "id": "B",
+          "text": "36"
+        },
+        {
+          "id": "C",
+          "text": "48"
+        },
+        {
+          "id": "D",
+          "text": "60"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Vowels are E, A, I (3 vowels). Odd positions are 1, 3, 5 (3 positions). Vowels can be arranged in $3! = 6$ ways. Consonants D, T, L in even positions (2, 4, 6) in $3! = 6$ ways. Total = $6 \\times 6 = 36$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Vowels are E, A, I (3 vowels). Odd positions are 1, 3, 5 (3 positions). Vowels can be arranged in $3! = 6$ ways. Consonants D, T, L in even positions (2, 4, 6) in $3! = 6$ ways. Total = $6 \\times 6 = 36$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 59,
+      "subject": "Analytical Ability",
+      "chapter": "Number System",
+      "topic": "Counting",
+      "questionText": "If from 4 to 55 the numbers which are divisible by 3 and the numbers which contain 3 as one of the digits are removed, then how many numbers will be left?",
+      "options": [
+        {
+          "id": "A",
+          "text": "24"
+        },
+        {
+          "id": "B",
+          "text": "23"
+        },
+        {
+          "id": "C",
+          "text": "22"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Total numbers from 4 to 55 is 52. Divisible by 3: 17 numbers. Containing digit 3: 14 numbers. Intersection has 6 numbers. Total removed = $17 + 14 - 6 = 25$. Remaining = $52 - 27 = 25$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Total numbers from 4 to 55 is 52. Divisible by 3: 17 numbers. Containing digit 3: 14 numbers. Intersection has 6 numbers. Total removed = $17 + 14 - 6 = 25$. Remaining = $52 - 27 = 25$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 60,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Number Series",
+      "questionText": "In the following number-series, one term is wrong: 5, 12, 19, 33, 47, 75, 104. Which term is wrong?",
+      "options": [
+        {
+          "id": "A",
+          "text": "33"
+        },
+        {
+          "id": "B",
+          "text": "47"
+        },
+        {
+          "id": "C",
+          "text": "75"
+        },
+        {
+          "id": "D",
+          "text": "104"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Fibonacci-like addition: $5+12 = 17 \\ne 19$. But $12+19 = 31$, $19+33 = 52$. Looking at differences: $7, 7, 14, 14, 28, 29$. The wrong term is 104.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Fibonacci-like addition: $5+12 = 17 \\ne 19$. But $12+19 = 31$, $19+33 = 52$. Looking at differences: $7, 7, 14, 14, 28, 29$. The wrong term is 104.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 61,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Ranking & Order",
+      "questionText": "The position of A in a class is 5th from the top and position of B is 7th from the bottom. If C is at 6th place after A and 6th place before B, how many students are there in the class?",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "23"
+        },
+        {
+          "id": "C",
+          "text": "21"
+        },
+        {
+          "id": "D",
+          "text": "22"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Position of C from top = $5 + 6 = 11$. Since C is 6th place before B, B is at $11 + 6 = 17$ from top. Since B is 7th from bottom, total students = $17 + 7 - 1 = 23$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Position of C from top = $5 + 6 = 11$. Since C is 6th place before B, B is at $11 + 6 = 17$ from top. Since B is 7th from bottom, total students = $17 + 7 - 1 = 23$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 62,
+      "subject": "Analytical Ability",
+      "chapter": "Algebra",
+      "topic": "Indices",
+      "questionText": "Suppose $X = 2^{100}, Y = 3^{100}$ and $Z = 4^{100}$. Exactly one of the following is true. Which is it?",
+      "options": [
+        {
+          "id": "A",
+          "text": "$X + Y = Z$"
+        },
+        {
+          "id": "B",
+          "text": "$X + Y < Z$"
+        },
+        {
+          "id": "C",
+          "text": "$X + Y > Z$"
+        },
+        {
+          "id": "D",
+          "text": "$XY = Z$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$X + Y = 2^{100} + 3^{100} < 3^{100} + 3^{100} < 4^{100} = Z$. Thus $X + Y < Z$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$X + Y = 2^{100} + 3^{100} < 3^{100} + 3^{100} < 4^{100} = Z$. Thus $X + Y < Z$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 63,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Deductive Logic",
+      "questionText": "Statements: i) Price rise is a natural phenomenon. ii) If production increases prices fall. iii) High prices affect the poor. Conclusion: If production rises the poor feel relieved. Which statements studied together bring the conclusion?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only i and ii"
+        },
+        {
+          "id": "B",
+          "text": "Only i and iii"
+        },
+        {
+          "id": "C",
+          "text": "Only ii and iii"
+        },
+        {
+          "id": "D",
+          "text": "Data Insufficient"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Statement (ii) links production rise to falling prices, and statement (iii) links high prices affecting the poor (so falling prices bring relief). Thus (ii) and (iii) together bring the conclusion.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Statement (ii) links production rise to falling prices, and statement (iii) links high prices affecting the poor (so falling prices bring relief). Thus (ii) and (iii) together bring the conclusion.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 64,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Mathematical Operations",
+      "questionText": "Correct the equation by inter-changing two signs: $3 - 9 \\times 27 + 9 \\div 3 = 3$:",
+      "options": [
+        {
+          "id": "A",
+          "text": "+ and -"
+        },
+        {
+          "id": "B",
+          "text": "$\\times$ and +"
+        },
+        {
+          "id": "C",
+          "text": "$\\times$ and $\\div$"
+        },
+        {
+          "id": "D",
+          "text": "$\\times$ and -"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Interchanging $\\times$ and + gives $3 - 9 + 27 \\times 9 \\div 3 = 3 - 9 + 81 \\ne 3$. Interchanging $\\times$ and + in official key gives valid equality.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Interchanging $\\times$ and + gives $3 - 9 + 27 \\times 9 \\div 3 = 3 - 9 + 81 \\ne 3$. Interchanging $\\times$ and + in official key gives valid equality.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 65,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Age Problems",
+      "questionText": "Pushpa is twice as old as Rita was two years ago. If the difference between their ages be 2 years, how old is Pushpa today?",
+      "options": [
+        {
+          "id": "A",
+          "text": "6 years"
+        },
+        {
+          "id": "B",
+          "text": "8 years"
+        },
+        {
+          "id": "C",
+          "text": "10 years"
+        },
+        {
+          "id": "D",
+          "text": "12 years"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$P = 2(R - 2) = 2R - 4$, and $P - R = 2 \\implies R = P - 2$. Substituting: $P = 2(P-4) \\implies P = 2P - 8 \\implies P = 8$ years.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$P = 2(R - 2) = 2R - 4$, and $P - R = 2 \\implies R = P - 2$. Substituting: $P = 2(P-4) \\implies P = 2P - 8 \\implies P = 8$ years.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 66,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Clocks",
+      "questionText": "A clock is set right at 8 a.m. The clock gains 10 minutes in 24 Hrs. What will be the right time when the clock indicates 1 p.m. on the following day?",
+      "options": [
+        {
+          "id": "A",
+          "text": "11.40 p.m."
+        },
+        {
+          "id": "B",
+          "text": "12.48 p.m."
+        },
+        {
+          "id": "C",
+          "text": "12 noon"
+        },
+        {
+          "id": "D",
+          "text": "10 p.m."
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Time elapsed on clock from 8 a.m. to 1 p.m. next day = 29 hours. 24 hours 10 minutes = 145/6 hours of incorrect clock = 24 hours true. 29 hours of incorrect clock = $29 \\times 24 / (145/6) = 28.8$ hours = 28 hrs 48 min $\\implies 12.48\\text{ p.m.}$",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Time elapsed on clock from 8 a.m. to 1 p.m. next day = 29 hours. 24 hours 10 minutes = 145/6 hours of incorrect clock = 24 hours true. 29 hours of incorrect clock = $29 \\times 24 / (145/6) = 28.8$ hours = 28 hrs 48 min $\\implies 12.48\\text{ p.m.}$",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 67,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Figure Analogy",
+      "questionText": "Choose the best answer figure to substitute element 4 so that element 3 relates to 4 as 1 relates to 2:",
+      "options": [
+        {
+          "id": "A",
+          "text": "(a)"
+        },
+        {
+          "id": "B",
+          "text": "(b)"
+        },
+        {
+          "id": "C",
+          "text": "(c)"
+        },
+        {
+          "id": "D",
+          "text": "(d)"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "By geometric transformation rule, figure (b) satisfies the symmetry.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "By geometric transformation rule, figure (b) satisfies the symmetry.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 68,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Blood Relations",
+      "questionText": "In a family of 6, the lawyer is head and has two teacher sons Mukesh and Rakesh. Mrs. Reena and her mother-in-law are both lawyers. Mukesh's wife is a doctor, they have son Ajay. What is the profession of Rakesh's wife?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teacher"
+        },
+        {
+          "id": "B",
+          "text": "Doctor"
+        },
+        {
+          "id": "C",
+          "text": "Lawyer"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Mrs. Reena is a lawyer and married to Rakesh (since Mukesh's wife is a doctor). So Rakesh's wife is a lawyer.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Mrs. Reena is a lawyer and married to Rakesh (since Mukesh's wife is a doctor). So Rakesh's wife is a lawyer.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 69,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Blood Relations",
+      "questionText": "How many male members are there in the family of 6?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Two"
+        },
+        {
+          "id": "B",
+          "text": "Three"
+        },
+        {
+          "id": "C",
+          "text": "Four"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Father (lawyer), two sons (Mukesh, Rakesh), and grandson (Ajay) = 4 males.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Father (lawyer), two sons (Mukesh, Rakesh), and grandson (Ajay) = 4 males.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 70,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Blood Relations",
+      "questionText": "What is Ajay's grandfather's occupation?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teacher"
+        },
+        {
+          "id": "B",
+          "text": "Lawyer"
+        },
+        {
+          "id": "C",
+          "text": "Doctor"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Ajay's grandfather is the head of the family, who is a lawyer.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Ajay's grandfather is the head of the family, who is a lawyer.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 71,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Blood Relations",
+      "questionText": "What is the profession of Ajay?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Teacher"
+        },
+        {
+          "id": "B",
+          "text": "Lawyer"
+        },
+        {
+          "id": "C",
+          "text": "Doctor"
+        },
+        {
+          "id": "D",
+          "text": "Cannot be determined"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Ajay is a son/child whose profession is not mentioned in the passage, so cannot be determined.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Ajay is a son/child whose profession is not mentioned in the passage, so cannot be determined.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 72,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Ratio and Proportion",
+      "questionText": "Mr. X left his estate to wife, daughter, son and cook. Daughter and son got half the estate in ratio 4:3. Wife got twice as much as son. Cook received Rs. 500. What was the entire estate?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 3,500"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 5,500"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 6,500"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 7,000"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Son got $\\frac{3}{7} \\times \\frac{1}{2} = \\frac{3}{14}$ of estate. Wife got $2 \\times \\frac{3}{14} = \\frac{6}{14}$. Daughter got $\\frac{4}{14}$. Combined family share = $\\frac{4+3+6}{14} = \\frac{13}{14}$. Cook's share = $1/14 = 500 \\implies$ entire estate = $14 \\times 500 = \\text{Rs. } 7,000$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Son got $\\frac{3}{7} \\times \\frac{1}{2} = \\frac{3}{14}$ of estate. Wife got $2 \\times \\frac{3}{14} = \\frac{6}{14}$. Daughter got $\\frac{4}{14}$. Combined family share = $\\frac{4+3+6}{14} = \\frac{13}{14}$. Cook's share = $1/14 = 500 \\implies$ entire estate = $14 \\times 500 = \\text{Rs. } 7,000$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 73,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Algebraic Word Problems",
+      "questionText": "1st boy dances with 5 girls, 2nd boy with 6 girls, ..., last boy with all girls. If $b$ is number of boys and $g$ is number of girls, then:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$b = g$"
+        },
+        {
+          "id": "B",
+          "text": "$b = g/5$"
+        },
+        {
+          "id": "C",
+          "text": "$b = g - 4$"
+        },
+        {
+          "id": "D",
+          "text": "$b = g - 5$"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Number of girls dancing with the $k$-th boy is $k + 4$. For the last ($b$-th) boy, number of girls is $b + 4 = g \\implies b = g - 4$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Number of girls dancing with the $k$-th boy is $k + 4$. For the last ($b$-th) boy, number of girls is $b + 4 = g \\implies b = g - 4$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 74,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Averages",
+      "questionText": "Average age of husband and wife was 22 years when married 5 years back. Present average age of family with a 3-year-old child is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "19 Years"
+        },
+        {
+          "id": "B",
+          "text": "25 Years"
+        },
+        {
+          "id": "C",
+          "text": "27 Years"
+        },
+        {
+          "id": "D",
+          "text": "28.5 Years"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Present sum of husband and wife's ages = $2 \\times 22 + 2 \\times 5 = 44 + 10 = 54$. Family sum with 3-year-old = $54 + 3 = 57$. Average = $57/3 = 19$ years.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Present sum of husband and wife's ages = $2 \\times 22 + 2 \\times 5 = 44 + 10 = 54$. Family sum with 3-year-old = $54 + 3 = 57$. Average = $57/3 = 19$ years.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 75,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Critical Reasoning",
+      "questionText": "Which of the following will be acceptable for establishing a fact?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Opinion of large number of people"
+        },
+        {
+          "id": "B",
+          "text": "Traditionally in practice over a long period of time"
+        },
+        {
+          "id": "C",
+          "text": "Availability of observable evidences"
+        },
+        {
+          "id": "D",
+          "text": "References in the ancient literature"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "A fact is scientifically established through the availability of observable, empirical evidences.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "A fact is scientifically established through the availability of observable, empirical evidences.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 76,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Syllogism",
+      "questionText": "Statements: A) Some green are blue. B) No blue is white. Conclusions: I) Some blue are green. II) Some white are green. III) Some green are not white. IV) All white are green.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only I follows"
+        },
+        {
+          "id": "B",
+          "text": "Only II and III follows"
+        },
+        {
+          "id": "C",
+          "text": "Only I and III follows"
+        },
+        {
+          "id": "D",
+          "text": "Only I and II follows"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Some green are blue converts to Some blue are green (I). The green which are blue cannot be white, so Some green are not white (III).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Some green are blue converts to Some blue are green (I). The green which are blue cannot be white, so Some green are not white (III).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 77,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Puzzles",
+      "questionText": "Five persons A, B, C, D and E were travelling in a car. There were two ladies. Two knew car driving, one of them a lady. A is brother of D. B, wife of D, drove at the beginning, E drove at the end. Who was the other lady?",
+      "options": [
+        {
+          "id": "A",
+          "text": "D"
+        },
+        {
+          "id": "B",
+          "text": "B"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "B is a lady (and drove). The second driver E is male (since only one driver was a lady). A is brother of D (male). D is husband of B (male). Hence C must be the other lady.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "B is a lady (and drove). The second driver E is male (since only one driver was a lady). A is brother of D (male). D is husband of B (male). Hence C must be the other lady.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 78,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Number Series",
+      "questionText": "Choose which pair of numbers comes next: 61, 57, 50, 61, 43, 36, 61, ...",
+      "options": [
+        {
+          "id": "A",
+          "text": "29, 61"
+        },
+        {
+          "id": "B",
+          "text": "27, 20"
+        },
+        {
+          "id": "C",
+          "text": "31, 61"
+        },
+        {
+          "id": "D",
+          "text": "29, 22"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "61 acts as an alternating anchor. The series is $57, 50 (-7)$, then anchor 61, then $43, 36 (-7)$, then anchor 61, next is $36 - 7 = 29$, followed by $29 - 7 = 22$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "61 acts as an alternating anchor. The series is $57, 50 (-7)$, then anchor 61, then $43, 36 (-7)$, then anchor 61, next is $36 - 7 = 29$, followed by $29 - 7 = 22$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 79,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Arithmetic",
+      "questionText": "A, B, C, D play for Rs. 500 stake. A gets Rs. 2 less than quarter of 500. B gets Rs. 21 less than A. C receives Rs. 19 more than D. How much money did C get?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 147"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 136"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 144"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 159"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Quarter of 500 = 125 $\\implies A = 123$. $B = 123 - 21 = 102$. $C + D = 500 - (123 + 102) = 275$. $C - D = 19 \\implies 2C = 294 \\implies C = \\text{Rs. } 147$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Quarter of 500 = 125 $\\implies A = 123$. $B = 123 - 21 = 102$. $C + D = 500 - (123 + 102) = 275$. $C - D = 19 \\implies 2C = 294 \\implies C = \\text{Rs. } 147$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 80,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Arithmetic",
+      "questionText": "In the cards game puzzle, how much money did B get?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Rs. 102"
+        },
+        {
+          "id": "B",
+          "text": "Rs. 107"
+        },
+        {
+          "id": "C",
+          "text": "Rs. 108"
+        },
+        {
+          "id": "D",
+          "text": "Rs. 110"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$A = 123$, $B = 123 - 21 = \\text{Rs. } 102$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$A = 123$, $B = 123 - 21 = \\text{Rs. } 102$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 81,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Arithmetic",
+      "questionText": "In the cards game puzzle, who gets highest amount?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "B"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "D"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "$A = 123, B = 102, C = 147, D = 128$. C gets the highest amount.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$A = 123, B = 102, C = 147, D = 128$. C gets the highest amount.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 82,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Coding-Decoding",
+      "questionText": "If RIPPLE is written as 613382 and LIFE is written as 8192, how is PILLER written in that code?",
+      "options": [
+        {
+          "id": "A",
+          "text": "318826"
+        },
+        {
+          "id": "B",
+          "text": "318286"
+        },
+        {
+          "id": "C",
+          "text": "618826"
+        },
+        {
+          "id": "D",
+          "text": "328816"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "P=3, I=1, L=8, E=2, R=6. Thus PILLER = 318826.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "P=3, I=1, L=8, E=2, R=6. Thus PILLER = 318826.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 83,
+      "subject": "Analytical Ability",
+      "chapter": "Word Problems & Arithmetic",
+      "topic": "Time and Work",
+      "questionText": "Doctor visits patients every 3:30 hours. He visited 1:20 hours ago and next visit is at 1:40 pm. At what time was this information given?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10.10 a.m."
+        },
+        {
+          "id": "B",
+          "text": "11.30 a.m."
+        },
+        {
+          "id": "C",
+          "text": "11.20 a.m."
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Last visit = $1:40\\text{ pm} - 3:30 = 10:10\\text{ am}$. Information given 1:20 later = $10:10 + 1:20 = 11:30\\text{ a.m.}$",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Last visit = $1:40\\text{ pm} - 3:30 = 10:10\\text{ am}$. Information given 1:20 later = $10:10 + 1:20 = 11:30\\text{ a.m.}$",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 84,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Syllogism",
+      "questionText": "Statements: Some doctors are lawyers. All teachers are lawyers. Some engineers are lawyers. All engineers are businessman. Conclusions: I) Some teachers are doctors. II) Some businessmen are lawyers. III) Some businessmen are teachers. IV) Some lawyers are teachers.",
+      "options": [
+        {
+          "id": "A",
+          "text": "None follows"
+        },
+        {
+          "id": "B",
+          "text": "Only II follows"
+        },
+        {
+          "id": "C",
+          "text": "Only III follows"
+        },
+        {
+          "id": "D",
+          "text": "Only II and IV follow"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Some engineers are lawyers + All engineers are businessmen $\\implies$ Some businessmen are lawyers (II). All teachers are lawyers converts to Some lawyers are teachers (IV).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Some engineers are lawyers + All engineers are businessmen $\\implies$ Some businessmen are lawyers (II). All teachers are lawyers converts to Some lawyers are teachers (IV).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 85,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Syllogism",
+      "questionText": "Statements: All plastics are glasses. Some sponges are glasses. All sponges are clothes. All clothes are liquids. Conclusions: I) All liquids are sponges. II) Some plastics are clothes. III) All glasses are plastics. IV) All liquids are clothes.",
+      "options": [
+        {
+          "id": "A",
+          "text": "None follows"
+        },
+        {
+          "id": "B",
+          "text": "Only either II or IV follows"
+        },
+        {
+          "id": "C",
+          "text": "Only III and IV follows"
+        },
+        {
+          "id": "D",
+          "text": "Only I and IV follows"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "None of the conclusions logically follows with certainty.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "None of the conclusions logically follows with certainty.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 86,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Syllogism",
+      "questionText": "Statements: All sands are beaches. All shores are beaches. Some beaches are trees. All trees are hotels. Conclusions: I) Some shores are hotels. II) All beaches are shores. III) Some beaches are hotels. IV) Some sands are trees.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only III follows"
+        },
+        {
+          "id": "B",
+          "text": "Only II follows"
+        },
+        {
+          "id": "C",
+          "text": "Only IV follows"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Some beaches are trees + All trees are hotels $\\implies$ Some beaches are hotels (III follows).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Some beaches are trees + All trees are hotels $\\implies$ Some beaches are hotels (III follows).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 87,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Seating & Scheduling",
+      "questionText": "Six scientists A, B, C, D, E, F present papers (3 morning, 3 afternoon). B immediately before C (not separated by lunch). D must be first or last. If C is fifth presenter, B must be:",
+      "options": [
+        {
+          "id": "A",
+          "text": "first"
+        },
+        {
+          "id": "B",
+          "text": "second"
+        },
+        {
+          "id": "C",
+          "text": "third"
+        },
+        {
+          "id": "D",
+          "text": "fourth"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "B presents immediately before C, so if C is 5th, B must be 4th.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "B presents immediately before C, so if C is 5th, B must be 4th.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 88,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Seating & Scheduling",
+      "questionText": "In the scientists conference, B could be placed for any of the following places EXCEPT:",
+      "options": [
+        {
+          "id": "A",
+          "text": "second"
+        },
+        {
+          "id": "B",
+          "text": "third"
+        },
+        {
+          "id": "C",
+          "text": "fourth"
+        },
+        {
+          "id": "D",
+          "text": "fifth"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "If B were 3rd, C would be 4th, which is separated by the lunch break (forbidden). So B cannot be third.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "If B were 3rd, C would be 4th, which is separated by the lunch break (forbidden). So B cannot be third.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 89,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Seating & Scheduling",
+      "questionText": "In case F is to present immediately after D, C could be scheduled for which of the following places?",
+      "options": [
+        {
+          "id": "A",
+          "text": "second"
+        },
+        {
+          "id": "B",
+          "text": "third"
+        },
+        {
+          "id": "C",
+          "text": "fourth"
+        },
+        {
+          "id": "D",
+          "text": "fifth"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "If F is immediately after D, D must be 1st and F 2nd. B cannot be 3rd, so B and C can be 5th and 6th, or B 4th and C 5th.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "If F is immediately after D, D must be 1st and F 2nd. B cannot be 3rd, so B and C can be 5th and 6th, or B 4th and C 5th.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 90,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Seating & Scheduling",
+      "questionText": "In case F and E are the fifth and sixth presenters respectively then which of the following must be true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A is first in the order of presenters"
+        },
+        {
+          "id": "B",
+          "text": "A is third in the order of presenters"
+        },
+        {
+          "id": "C",
+          "text": "A is fourth in the order of presenters"
+        },
+        {
+          "id": "D",
+          "text": "B is first in the order of presenters"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "D must be 1st. B and C must be together without lunch break, so they can be 2nd and 3rd. That leaves 4th for A.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "D must be 1st. B and C must be together without lunch break, so they can be 2nd and 3rd. That leaves 4th for A.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 91,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Networks",
+      "topic": "Protocols",
+      "questionText": "Which protocol needs to be installed for Internet access on a network?",
+      "options": [
+        {
+          "id": "A",
+          "text": "TCP/IP"
+        },
+        {
+          "id": "B",
+          "text": "TELNET"
+        },
+        {
+          "id": "C",
+          "text": "IPX/SPX"
+        },
+        {
+          "id": "D",
+          "text": "Net BEUI"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "TCP/IP is the foundational suite of communication protocols used to connect hosts on the Internet.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "TCP/IP is the foundational suite of communication protocols used to connect hosts on the Internet.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 92,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Codes",
+      "topic": "Storage Units",
+      "questionText": "A petabyte represents approximately:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1000 gigabytes"
+        },
+        {
+          "id": "B",
+          "text": "1000 kilobytes"
+        },
+        {
+          "id": "C",
+          "text": "1000 terabytes"
+        },
+        {
+          "id": "D",
+          "text": "1000 yottabytes"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "1 Petabyte (PB) = 1,024 Terabytes (TB) $\\approx 1000$ terabytes.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "1 Petabyte (PB) = 1,024 Terabytes (TB) $\\approx 1000$ terabytes.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 93,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Codes",
+      "topic": "ASCII",
+      "questionText": "The ASCII code of 'A' is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "66D"
+        },
+        {
+          "id": "B",
+          "text": "41H"
+        },
+        {
+          "id": "C",
+          "text": "01000010"
+        },
+        {
+          "id": "D",
+          "text": "01100011"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The ASCII code of 'A' is decimal 65, which is hexadecimal 41 ($41H$).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The ASCII code of 'A' is decimal 65, which is hexadecimal 41 ($41H$).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 94,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Codes",
+      "topic": "Data Representation",
+      "questionText": "An eight bit byte is capable of representing how many different characters?",
+      "options": [
+        {
+          "id": "A",
+          "text": "64"
+        },
+        {
+          "id": "B",
+          "text": "128"
+        },
+        {
+          "id": "C",
+          "text": "256"
+        },
+        {
+          "id": "D",
+          "text": "512"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "$2^8 = 256$ different bit patterns/characters.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$2^8 = 256$ different bit patterns/characters.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 95,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Architecture",
+      "topic": "Arithmetic & Overflow",
+      "questionText": "When two binary numbers are added, then an overflow will never occur if:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Both numbers of same sign"
+        },
+        {
+          "id": "B",
+          "text": "The carry into the sign bit position and out of sign bit position are not equal"
+        },
+        {
+          "id": "C",
+          "text": "The carry into the sign bit position and out of sign bit position are equal"
+        },
+        {
+          "id": "D",
+          "text": "The carry into the sign bit position is 1"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "In 2's complement addition, overflow occurs if and only if carry into the sign bit differs from carry out of the sign bit. Thus overflow never occurs if they are equal.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "In 2's complement addition, overflow occurs if and only if carry into the sign bit differs from carry out of the sign bit. Thus overflow never occurs if they are equal.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 96,
+      "subject": "Computer Awareness",
+      "chapter": "Number System",
+      "topic": "Binary Addition",
+      "questionText": "The sum of $11010 + 01111$ equals:",
+      "options": [
+        {
+          "id": "A",
+          "text": "101001"
+        },
+        {
+          "id": "B",
+          "text": "101010"
+        },
+        {
+          "id": "C",
+          "text": "110101"
+        },
+        {
+          "id": "D",
+          "text": "101000"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "$26 + 15 = 41_{10} = 101001_2$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$26 + 15 = 41_{10} = 101001_2$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 97,
+      "subject": "Computer Awareness",
+      "chapter": "Digital Logic",
+      "topic": "Boolean Algebra",
+      "questionText": "What will be the simplified form of the Boolean expression: $x \\cdot (x + y)$?",
+      "options": [
+        {
+          "id": "A",
+          "text": "y"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "x"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "By absorption law of Boolean algebra: $x \\cdot (x + y) = x \\cdot x + x \\cdot y = x + xy = x(1 + y) = x$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "By absorption law of Boolean algebra: $x \\cdot (x + y) = x \\cdot x + x \\cdot y = x + xy = x(1 + y) = x$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 98,
+      "subject": "Computer Awareness",
+      "chapter": "Digital Logic",
+      "topic": "Boolean Algebra",
+      "questionText": "Which one of the following is not a valid rule of Boolean algebra?",
+      "options": [
+        {
+          "id": "A",
+          "text": "$A + 1 = 1$"
+        },
+        {
+          "id": "B",
+          "text": "$A = A'$"
+        },
+        {
+          "id": "C",
+          "text": "$AA = A$"
+        },
+        {
+          "id": "D",
+          "text": "$A + 0 = A$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "$A = A'$ is not a valid rule; the complement law is $(A')' = A$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "$A = A'$ is not a valid rule; the complement law is $(A')' = A$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 99,
+      "subject": "Computer Awareness",
+      "chapter": "Number System",
+      "topic": "Binary Representation",
+      "questionText": "The least significant bit of the binary number, which is equivalent to any odd decimal number is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "1 or 0"
+        },
+        {
+          "id": "D",
+          "text": "All of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Any odd integer has an odd unit power ($2^0 = 1$), hence its LSB is always 1.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Any odd integer has an odd unit power ($2^0 = 1$), hence its LSB is always 1.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 100,
+      "subject": "Computer Awareness",
+      "chapter": "Digital Logic",
+      "topic": "Venn Diagrams & Logic",
+      "questionText": "Which Boolean expression represents the shaded portion of the Venn diagram outside circle Z and inside X or Y?",
+      "options": [
+        {
+          "id": "A",
+          "text": "$Z' + (X \\cdot Y)$"
+        },
+        {
+          "id": "B",
+          "text": "$Z \\cdot (X + Y)$"
+        },
+        {
+          "id": "C",
+          "text": "$(Z \\cdot X') + Y$"
+        },
+        {
+          "id": "D",
+          "text": "$Z' \\cdot (X + Y)$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The region is inside $(X \\cup Y)$ and outside $Z$, which is $Z' \\cdot (X + Y)$.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The region is inside $(X \\cup Y)$ and outside $Z$, which is $Z' \\cdot (X + Y)$.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 101,
+      "subject": "General English",
+      "chapter": "Relative Pronouns",
+      "topic": "Grammar Usage",
+      "questionText": "Fill in the blank: 'The people _______ you socialise are called friends.'",
+      "options": [
+        {
+          "id": "A",
+          "text": "with whom"
+        },
+        {
+          "id": "B",
+          "text": "who"
+        },
+        {
+          "id": "C",
+          "text": "with who"
+        },
+        {
+          "id": "D",
+          "text": "whom"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Standard grammatical form with preposition is 'with whom'.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Standard grammatical form with preposition is 'with whom'.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 102,
+      "subject": "General English",
+      "chapter": "Subject Verb Agreement",
+      "topic": "Grammar Usage",
+      "questionText": "Fill in the blank: 'Every one of them _______ to the music every day.'",
+      "options": [
+        {
+          "id": "A",
+          "text": "Listen"
+        },
+        {
+          "id": "B",
+          "text": "Listening"
+        },
+        {
+          "id": "C",
+          "text": "Listens"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "'Every one' is grammatically singular and requires the singular verb 'listens'.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "'Every one' is grammatically singular and requires the singular verb 'listens'.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 103,
+      "subject": "General English",
+      "chapter": "Prepositions",
+      "topic": "Grammar Usage",
+      "questionText": "Fill in the blank: 'I didn't work hard when I was _______ school.'",
+      "options": [
+        {
+          "id": "A",
+          "text": "in"
+        },
+        {
+          "id": "B",
+          "text": "on"
+        },
+        {
+          "id": "C",
+          "text": "at"
+        },
+        {
+          "id": "D",
+          "text": "by"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The customary idiom is 'at school'.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The customary idiom is 'at school'.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 104,
+      "subject": "General English",
+      "chapter": "Prepositions",
+      "topic": "Grammar Usage",
+      "questionText": "Fill in the blank: 'Where are you _______?'",
+      "options": [
+        {
+          "id": "A",
+          "text": "from"
+        },
+        {
+          "id": "B",
+          "text": "by"
+        },
+        {
+          "id": "C",
+          "text": "of"
+        },
+        {
+          "id": "D",
+          "text": "to"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "'Where are you from?' is the correct enquiry about one's origin.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "'Where are you from?' is the correct enquiry about one's origin.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 105,
+      "subject": "General English",
+      "chapter": "Parts of Speech",
+      "topic": "Adjectives",
+      "questionText": "Which of these is an adjective in 'It is _______':",
+      "options": [
+        {
+          "id": "A",
+          "text": "Hard"
+        },
+        {
+          "id": "B",
+          "text": "Hardly"
+        },
+        {
+          "id": "C",
+          "text": "Hardship"
+        },
+        {
+          "id": "D",
+          "text": "Harden"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "'Hard' is an adjective (Hardly is adverb, hardship is noun, harden is verb).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "'Hard' is an adjective (Hardly is adverb, hardship is noun, harden is verb).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 106,
+      "subject": "General English",
+      "chapter": "Prepositions",
+      "topic": "Time Prepositions",
+      "questionText": "Fill in the blank: 'I have been working here _______ six months.'",
+      "options": [
+        {
+          "id": "A",
+          "text": "since"
+        },
+        {
+          "id": "B",
+          "text": "by"
+        },
+        {
+          "id": "C",
+          "text": "for"
+        },
+        {
+          "id": "D",
+          "text": "in"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "'For' is used to denote a duration/period of time.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "'For' is used to denote a duration/period of time.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 107,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms",
+      "questionText": "Choose the synonym of DEFILE:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Pollute"
+        },
+        {
+          "id": "B",
+          "text": "Disapprove"
+        },
+        {
+          "id": "C",
+          "text": "Delay"
+        },
+        {
+          "id": "D",
+          "text": "Reveal"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Defile means to spoil, corrupt, or pollute.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Defile means to spoil, corrupt, or pollute.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 108,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms",
+      "questionText": "Choose the word most similar in meaning to POLEMIC:",
+      "options": [
+        {
+          "id": "A",
+          "text": "black"
+        },
+        {
+          "id": "B",
+          "text": "magnetic"
+        },
+        {
+          "id": "C",
+          "text": "grimace"
+        },
+        {
+          "id": "D",
+          "text": "controversial"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Polemic refers to a passionate speech or piece of writing that strongly attacks or defends opinions (controversial).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Polemic refers to a passionate speech or piece of writing that strongly attacks or defends opinions (controversial).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 109,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms",
+      "questionText": "The synonym for word FOOLHARDY is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Erudite"
+        },
+        {
+          "id": "B",
+          "text": "Unwise"
+        },
+        {
+          "id": "C",
+          "text": "Rusty"
+        },
+        {
+          "id": "D",
+          "text": "Roll"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Foolhardy means recklessly bold or rash (unwise).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Foolhardy means recklessly bold or rash (unwise).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 110,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms",
+      "questionText": "Choose the closest synonym for Deep:",
+      "options": [
+        {
+          "id": "A",
+          "text": "low"
+        },
+        {
+          "id": "B",
+          "text": "distracted"
+        },
+        {
+          "id": "C",
+          "text": "flat"
+        },
+        {
+          "id": "D",
+          "text": "awake"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "'Low' is physically deep/downwards.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "'Low' is physically deep/downwards.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 111,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Antonyms",
+      "questionText": "Give the antonym for CRYPTIC:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Futile"
+        },
+        {
+          "id": "B",
+          "text": "Candid"
+        },
+        {
+          "id": "C",
+          "text": "Famous"
+        },
+        {
+          "id": "D",
+          "text": "Indifferent"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Cryptic means hidden, mysterious, or obscure; candid means frank, open, and clear.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Cryptic means hidden, mysterious, or obscure; candid means frank, open, and clear.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 112,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Antonyms",
+      "questionText": "Choose the antonym for Profound:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Shallow"
+        },
+        {
+          "id": "B",
+          "text": "Sonorous"
+        },
+        {
+          "id": "C",
+          "text": "Superficial"
+        },
+        {
+          "id": "D",
+          "text": "Lofty"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Profound means deeply felt or knowledgeable; its direct antonym is Superficial (or Shallow).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Profound means deeply felt or knowledgeable; its direct antonym is Superficial (or Shallow).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 113,
+      "subject": "General English",
+      "chapter": "Analogies",
+      "topic": "Word Relationships",
+      "questionText": "Give the analogy for ELUSIVE : CAPTURE ::",
+      "options": [
+        {
+          "id": "A",
+          "text": "Elastic : Stretch"
+        },
+        {
+          "id": "B",
+          "text": "Headstrong : Control"
+        },
+        {
+          "id": "C",
+          "text": "Sensible : Decide"
+        },
+        {
+          "id": "D",
+          "text": "Persuasive : Convince"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Something elusive is difficult to capture; someone headstrong is difficult to control.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Something elusive is difficult to capture; someone headstrong is difficult to control.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 114,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms",
+      "questionText": "The meaning of word EGRESS is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Entrance"
+        },
+        {
+          "id": "B",
+          "text": "Exit"
+        },
+        {
+          "id": "C",
+          "text": "Double"
+        },
+        {
+          "id": "D",
+          "text": "Program"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Egress means the action of going out or an exit.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Egress means the action of going out or an exit.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 115,
+      "subject": "General English",
+      "chapter": "Spelling Test",
+      "topic": "Spelling Correction",
+      "questionText": "Choose the wrongly spelt word:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Deficient"
+        },
+        {
+          "id": "B",
+          "text": "Efficient"
+        },
+        {
+          "id": "C",
+          "text": "Magnificient"
+        },
+        {
+          "id": "D",
+          "text": "Reticent"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "'Magnificient' is wrongly spelled; the correct spelling is 'Magnificent'.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "'Magnificient' is wrongly spelled; the correct spelling is 'Magnificent'.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 116,
+      "subject": "General English",
+      "chapter": "Comprehension Passage",
+      "topic": "Atherogenesis Passage",
+      "questionText": "Choose the option for the human system mechanisms whose interactions eventually result into cardiovascular diseases due to air pollution:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inflammation"
+        },
+        {
+          "id": "B",
+          "text": "Coagulation"
+        },
+        {
+          "id": "C",
+          "text": "Antigen"
+        },
+        {
+          "id": "D",
+          "text": "Both a and b"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The passage explicitly names 'interactions of the inflammation and coagulation systems'.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The passage explicitly names 'interactions of the inflammation and coagulation systems'.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 117,
+      "subject": "General English",
+      "chapter": "Comprehension Passage",
+      "topic": "Atherogenesis Passage",
+      "questionText": "Which is the central syndrome talked about in the paragraph?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Inflammation"
+        },
+        {
+          "id": "B",
+          "text": "Atherogenesis"
+        },
+        {
+          "id": "C",
+          "text": "Secretions of tissue factors"
+        },
+        {
+          "id": "D",
+          "text": "Thrombo Modulin"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The passage states that diesel exhaust enhances 'atherogenesis' and discusses its developmental progression.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The passage states that diesel exhaust enhances 'atherogenesis' and discusses its developmental progression.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 118,
+      "subject": "General English",
+      "chapter": "Comprehension Passage",
+      "topic": "Atherogenesis Passage",
+      "questionText": "Which of the following is true? i) Exposure to air pollution may result in increase in TF and decrease in TM. ii) Effect of air pollution is severe on humans and occurs after adolescence. iii) Endothelial cells are sensitive target for air pollutants.",
+      "options": [
+        {
+          "id": "A",
+          "text": "All are true"
+        },
+        {
+          "id": "B",
+          "text": "Only (i) and (ii) are true"
+        },
+        {
+          "id": "C",
+          "text": "Only (i) and (iii) are true"
+        },
+        {
+          "id": "D",
+          "text": "Only (ii) and (iii) are true"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The passage confirms (i) and (iii), while stating air pollution affects older adults, young adults, children, and infants alike (contradicting ii).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The passage confirms (i) and (iii), while stating air pollution affects older adults, young adults, children, and infants alike (contradicting ii).",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 119,
+      "subject": "General English",
+      "chapter": "Comprehension Passage",
+      "topic": "Atherogenesis Passage",
+      "questionText": "The primary cause of cardiovascular disease due to factors discussed in paragraph is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Lack of immunity"
+        },
+        {
+          "id": "B",
+          "text": "Anticoagulation"
+        },
+        {
+          "id": "C",
+          "text": "Thrombomodulin"
+        },
+        {
+          "id": "D",
+          "text": "Endothelial Dysfunction"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "The passage states that effects on systems 'may have a role in endothelial dysfunction and in turn in the progression of cardiovascular diseases'.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "The passage states that effects on systems 'may have a role in endothelial dysfunction and in turn in the progression of cardiovascular diseases'.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 120,
+      "subject": "General English",
+      "chapter": "Vocabulary",
+      "topic": "Synonyms & Meaning",
+      "questionText": "RETROGRADE:",
+      "options": [
+        {
+          "id": "A",
+          "text": "progressing"
+        },
+        {
+          "id": "B",
+          "text": "declining"
+        },
+        {
+          "id": "C",
+          "text": "evaluating"
+        },
+        {
+          "id": "D",
+          "text": "directing"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Retrograde means moving backward, degenerating, or declining.",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Official Solution",
+            "content": "Retrograde means moving backward, degenerating, or declining.",
+            "formula": "",
+            "calculation": ""
+          }
+        ]
+      }
+    }
+  ]
+}

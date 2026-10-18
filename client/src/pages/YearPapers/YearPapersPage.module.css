@@ -1,0 +1,194 @@
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.header {
+  margin-bottom: 2.5rem;
+}
+
+.header h1, .header h2 {
+  font-size: 2rem;
+  color: var(--text-primary);
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: var(--text-secondary);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1.5rem;
+}
+
+.yearCard {
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: all 0.2s;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  box-shadow: var(--shadow-sm);
+}
+
+.yearCard:hover {
+  transform: translateY(-4px);
+  border-color: var(--color-primary);
+  box-shadow: var(--shadow-md);
+}
+
+.cardIcon {
+  color: var(--color-primary);
+  background-color: rgba(99, 102, 241, 0.1);
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 1rem;
+}
+
+.cardInfo h3 {
+  font-size: 1.25rem;
+  color: var(--text-primary);
+  margin-bottom: 0.25rem;
+}
+
+.cardInfo p {
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.cardStats {
+  display: flex;
+  justify-content: space-between;
+  margin-top: auto;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border-color);
+  color: var(--text-secondary);
+  font-size: 0.9rem;
+}
+
+.cardStats span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+/* Paper View */
+.paperView {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.backBtn {
+  color: var(--color-primary);
+  font-weight: 500;
+  margin-bottom: 1rem;
+  display: inline-block;
+}
+
+.backBtn:hover {
+  text-decoration: underline;
+}
+
+.tabs {
+  display: flex;
+  gap: 1rem;
+  border-bottom: 1px solid var(--border-color);
+  margin-bottom: 2rem;
+  overflow-x: auto;
+}
+
+.tab {
+  padding: 1rem 0;
+  font-weight: 500;
+  color: var(--text-secondary);
+  border-bottom: 2px solid transparent;
+  white-space: nowrap;
+}
+
+.tab:hover {
+  color: var(--text-primary);
+}
+
+.activeTab {
+  color: var(--color-primary);
+  border-bottom-color: var(--color-primary);
+}
+
+.placeholderText {
+  text-align: center;
+  padding: 4rem;
+  background-color: var(--card-bg);
+  border-radius: 1rem;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+.blueprintBanner {
+  background: linear-gradient(135deg, rgba(79, 70, 229, 0.08) 0%, rgba(16, 185, 129, 0.06) 100%);
+  border: 1px solid rgba(79, 70, 229, 0.2);
+  border-radius: 1rem;
+  padding: 1.25rem;
+  margin-bottom: 1.75rem;
+}
+
+.blueprintHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.blueprintTitle {
+  font-weight: 700;
+  font-size: 0.95rem;
+  color: var(--color-primary);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.blueprintTotal {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-secondary);
+  background: var(--card-bg);
+  padding: 0.25rem 0.6rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-color);
+}
+
+.blueprintGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 0.75rem;
+}
+
+.blueprintItem {
+  background: var(--card-bg);
+  padding: 0.75rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-color);
+  font-size: 0.82rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+}
+
+.blueprintItem strong {
+  color: var(--text-primary);
+}
+
+.blueprintItem span {
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+}

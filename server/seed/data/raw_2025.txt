@@ -1,0 +1,1138 @@
+=== PAGE 1 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+1.  What is the value of log𝑋→∞(x +  1) (𝐸
+1
+𝑋+1−1)?  
+(a) Does not exist  (b) 0 
+(c) -1   (d) 1 
+2. Number of three digit numbers that can be formed using 
+0, 1, 2, 3 and 5 where these digits are allowed to repeat 
+any number of times, is equal to  
+(a) 125   (b) 100 
+(c) 115   (d) 140 
+3. The circle 𝑥2 + 𝑦2 + 𝛼𝑥 + 𝛽𝑦 + 𝛾 = 0 is the image of 
+the circle 𝑥2 + 𝑦2 − 6𝑥 − 10𝑦 + 30 = 0  across the 
+line 3  𝑥 + 𝑦 = 2. The value of ⌊𝛼 + 𝛽 + 𝛾⌋ is (where 
+⌊. ⌋ represents the floor function) 
+(a) 23   (b) 22 
+(c) 20   (d) 21 
+4. Number of permutations of the letters of the word 
+BANGLORE such that the string ANGLE appears 
+together in all permutations, is 
+(a) 720   (b) 24 
+(c) 1228   (d) 120 
+5. If 𝑎⃗, 𝑏⃗⃗ and 𝑐⃗ are three vectors such that 𝑎⃗  × 𝑏⃗⃗ = 𝑐⃗, 𝑎⃗, 𝑐⃗ 
+= 2 and 𝑏⃗⃗. 𝑐⃗ = 1. If |𝑏⃗⃗| = 1 then the value of |𝑎⃗| is 
+(a) 2   (b) 1 
+(c) 4   (d) 3 
+6. The value of 
+𝑑
+𝑠𝑥 ∫ 𝑒𝑡22𝑠𝑖𝑛𝑥sin 𝑥2  at t = π is 
+(a) -1   (b) 1 
+(c) -2   (d) 2 
+7. The captains of five cricket teams, including India and 
+Australia, are lined up randomly next to one other for a 
+group photo. What is the probability that the captains of 
+India and Australia will stand next to each other? 
+(a) 
+1
+4   (b) 
+2
+5 
+(c) 
+1
+2   (d) 
+1
+5 
+8. Let g : ℝ → ℝ & h : ℝ → ℝ, be two functions such that 
+h(x) = 𝑠 𝑔 𝑛(𝑔(𝑥)). Then select which of the following 
+is not true? (ℝ denotes the set of all real numbers, 𝑠 𝑔 𝑛 
+stands for siguum function)  
+(a)  The domain of h(x) is different from the domain of 
+g(x) at the same point. 
+(b)  h(x) is discontinuous at g(x) = 0. 
+(c)  The domain of h(x) is the same as the domain of 
+g(x). 
+(d)  The domain of continuity of h(x) equal the domain 
+of continuity of g(x) − {𝑥 ∈ ℝ, g(x) = 0} 
+9. What is the general solution of the equation cot θ + tan 
+θ = 2? 
+(a) θ = 
+𝑛𝜋
+2 +
+𝜋
+4  (b) θ = 
+𝑛𝜋
+2 +
+𝜋
+6 
+(c) θ = 𝑛𝜋 +
+𝜋
+4  (d) θ = 
+𝑛𝜋
+2 +
+𝜋
+8 
+10. The obtuse angle between lines 2y = x + 1 and y = 3x + 
+2 is 
+(a) 
+3𝜋
+4  (b) 
+5𝜋
+6   (c) 
+4𝜋
+3   (d) 
+2𝜋
+3  
+11. The length of the projection of 𝑎⃗ = 2𝑖̂ + 3𝑗̂ + 𝑘̂ on 𝑏⃗⃗ =
+−2𝑖̂ + 𝑗̂ + 2𝑘̂, is equal to 
+(a) 
+2
+3 (b) 
+−1
+3   (c) 
+−2
+3   (d) 
+1
+3 
+12. The area enclosed between the curve y = sin x, y cos x, 
+0 ≤ x ≤ 
+𝜋
+2 is  
+(a) (√2 − 1)  (b) 2(√2 + 1) 
+(c) (√2 + 1)  (d) 2(√2 − 1) 
+13. A circle with its center in the first quadrant touches both 
+the coordinate axes and the line x – y – 2 = 0. Then the 
+area of the circle is 
+(a) 2π (b) π  (c) 
+π
+2  (d) 4π 
+14. Let 𝑎⃗ = 𝑒𝑖 − 3𝑗 + 4𝑘, 𝑏⃗⃗ = 𝑖 + 2𝑗 − 𝑘  and 𝑐⃗ = 3𝑖 +
+𝑗 + 𝜆𝑘 be the co -terminal edges of a parallelopioped 
+whose volume is 5 units. Then the value of 𝜆 is 
+(a) 2 (b) 1  (c) 4  (d) 3 
+15. If 8𝑥−1 = (14)𝑥, then the value of  
+1
+𝑙𝑜𝑔𝑥+14 − 𝑙𝑜𝑔𝑥+15 + 
+1
+𝑙𝑜𝑔1−𝑥 4 − 𝑙𝑜𝑔1−𝑥5 is 
+(a) 
+5
+4 (b) 1  (c) 2  (d) 
+4
+5 
+16. If α and β are the two roots of the equation x² + ax + b 
+= 0, (ab ≠ 0) then the quadratic equation with roots 
+1
+𝛼3+𝛼 
+and 
+1
+𝛽3+𝛽 is 
+(a)  𝑏(𝑏2 + 1 + 𝑎2 − 2𝑏)𝑥2 + (𝑎3 + 𝑎 − 3𝑎𝑏)𝑥  
+ + 1 = 0    
+(b) 𝑏(𝑏2 + 1 + 𝑎2 + 2𝑏)𝑥2 + (𝑎3 − 𝑎 − 3𝑎𝑏)𝑥  
+ +1 = 0 
+(c) 𝑏(𝑏2 + 1 + 𝑎2 + 2𝑏)𝑥2 − (𝑎3 + 𝑎 − 3𝑎𝑏)𝑥  
+ +1 = 0 
+(d) 𝑏(𝑏2 + 1 + 𝑎2 − 2𝑏)𝑥2 − (𝑎3 + 𝑎 − 3𝑎𝑏)𝑥  
+ +1 = 0 
+17. Let E and F be two events such that P(E) > 0 and P(F) > 
+0. Which one of the following is NOT equivalent to the 
+condition that P(E) = P(EIF)?  
+(a) P(F) = P(FE) 
+(b) E and F are independent 
+(c) E𝑐 and F are independent 
+(d) P(E𝑐) P(F𝑐) ≠ P(𝐸𝑐 ∩ 𝐹𝑐) 
+18. Let the line 
+𝑥
+4 +
+𝑦
+2 = 1 meets the x-axis and y-axis at A 
+and B, respectively. M is the midpoint of side AB, and 
+M' is the image of the point M across the line x + y = 1. 
+Let the point P lie on the line x + y = 1 such that the 
+∆ABP is an isosceles triangle with AP = BP. Then the 
+distance between M' and P is   
+(a) √73  (b) 2√53   (c) 2√73   (d) √53  
+=== PAGE 2 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+19. Let 𝑎⃗  and 𝑐⃗  be be unit vectors such that the angle 
+between them is cos−1 (14). If 𝑏⃗⃗ = 2𝑐⃗ + λ𝑎⃗. Where λ >
+0 and |𝑏⃗⃗| = 4, then λ is equal to 
+(a) 4 (b) 3  (c) 
+1
+3 (d) 
+1
+4 
+20. A tower subtends angles a, 2 a and 3a, respectively at 
+points A, B and C which a re lying on a horizontal line 
+through the foot of the tower. Then 
+𝐴𝐵
+𝐵𝐶 is equal to 
+(a) 1 + 2cos 2α  (b) None of these 
+(c) 2 + cos 3α   (d) 2 + 3 cos 3α 
+21. if x, y and z are the three cube roots of 27 , then the 
+determinant of the matrix [
+𝑥 𝑦 𝑧
+𝑦 𝑧 𝑥
+𝑧 𝑥 𝑦
+] is 
+(a) 0   (b) -1 
+(c) 1   (d) (x – y)(x – z)(y – z)  
+22. There are two coins, say b lue and red. For bine coin, 
+probability of getting head in 0.99 and for red coin, it is 
+0.01. One coin is chosen randomly and is tossed. The 
+probability of getting head is 
+(a) 1 (b) 0.98  (c) 0.5  (d) 0.02 
+23. Let A = (1, 2, 3, …, 20). Let R ⊆ A × A such that R{(x, 
+y): y = 2x – 7}. Then the number of elements in R, is 
+equal to 
+(a) 7 (b) 13  (c) 17  (d) 10 
+24. Let A and B be two square matrices of same order  
+satisfying 𝐴2 + 5𝐴 + 5𝐼 = 0  and 𝐵2 + 3𝐵 + 𝐼 = 0 
+repectively. Where 𝐼 is the identity matrix. Then the 
+inverse of the matrix C = BA + 2B – 2A + 4𝐼   
+(a) AB + A + 3B + 3𝐼 (b) BA + 3B + A + 3𝐼 
+(c) BA – 3B + A – 3𝐼 (d) AB – A + 3B – 3𝐼 
+25. Consider the sample space) Ω = {(x, y): x, у ϵ {1,2,3,4}} 
+where each outcome is equally likely. Let A = {𝑥 ≥ 2} 
+and B = {𝑦 > 𝑥} be two events. Then which of the 
+following is NOT true?   
+(a) A∩B) = 1/4 
+(b) A and B are not independent 
+(c) P(B)=3/8 
+(d) P(A) = 3/4 
+26. The n umber of all even integers between 99 and 999 
+which are not multiple of 3 and 5 is  
+(a) 240 (b) 250  (c) 235  (d) 245 
+27. The curve y = 
+𝑥
+1 +  𝑥 tan 𝑥 at tains maxima 
+(a) at 𝑥 = 𝑐𝑜𝑠 𝑥 
+(b) at 𝑥 = −𝑐𝑜𝑠 𝑥 
+(c) at 𝑥 = cos 𝑥 𝑎𝑛𝑑 𝑓𝑜𝑟 𝑠𝑜𝑚𝑒 𝑥 ∈  [−2𝜋, 𝜋] 
+(d) for some 𝑥 ∈ [−2𝜋, 𝜋] 
+28. There are 40 female and 20 male students in a class. If 
+the average heights of female and male students are 5.15 
+feet and 5.66 feet, respectively, then the average height 
+(in feet) of all the students in the class equals  
+(a) 5.490 (b) 5.405 (c) 5.175 (d) 5.320 
+29. The maximum value of sin(x) + sin(x + 1) is k cos
+1
+2. 
+Then the value of k is  
+(a) 1   (b) 2 
+(c) None of these  (d) 3 
+30. Let A = {5𝑛 − 4𝑛 − 1: 𝑛 ∈ ℕ}  and B = {16(𝑛 −
+1): 𝑛 ∈ ℕ} be sets. Then  
+(a) Neither A ⊂ B nor B ⊂ A 
+(b) A ⊂ B 
+(c) B ⊂ A 
+(d) A ∩ B is a finite set 
+31. Let f : ℝ → ℝ , be any function defined as f(x) =
+{x𝛼𝑠𝑖𝑛 1𝑥𝛽 , x ≠ 0
+0, x = 0
+ α, β ∈ ℝ, which of the following is 
+true? (ℝ denotes the set of all real numbers)  
+(a) f(x) is continuous at x = 0, for all α & β ∈ ℝ  
+(b) f(x) is differentiable at x = 0 for all α > 0 & β > 0 
+(c) f(x) is continuous at x = 10 for only α > 0 & β > 0 
+(d) f(x) is continuous at x = 0 for all α > 0 & β ∈ ℝ R   
+32. If 𝑎⃗ = 𝑖̂ + 𝑗̂ + 𝑘̂ , 𝑏⃗⃗ = 2𝑖̂ − 𝑗̂ + 3𝑘̂ and 𝑐⃗ = 𝑖̂ − 2𝑗̂ + 𝑘̂ , 
+then a vector of magnitude √22 which is parallel to  
+2𝑎⃗ − 𝑏⃗⃗ + 3𝑐⃗ is 
+(a) 3𝑖̂ + 3𝑗̂ + 2𝑘̂  (b) (𝑖̂ − 4𝑗̂ + 2𝑘̂)√2221 
+(c) 3𝑖̂ − 3𝑗̂ − 2𝑘̂  (d) (𝑖̂ − 4𝑗̂ − 2𝑘̂)√2221  
+33.  An equilateral triangle is inscribed in the parabola 𝑦2 =
+𝑥. One vertex of the triangle is at the vertex of the 
+parabola. The centroid of triangle is  
+(a) (2, 0)   (b) (√2, 0) 
+(c) (1, 0)   (d) (√3, 0) 
+34. A tower subtends an angle of 300 at a point on the same 
+level as the foot of the tower. At a second paint h meters 
+above the first, the depression of the font of the tower is 
+60 What is the horizontal distance of the tower from the 
+point?  
+(a) 2h cot 60°   (b) 2h cot 60°  
+(c) h tan 60°   (d) 2h tan 60°  
+35. The angles of depression of the top and bottom of an 8m 
+tall building from the top of a multi-storied building are 
+30 and 45, respectively. What is the height of the 
+multistoried building and the distance between the two 
+buildings?  
+(a) 4(3 + √3) m, 4(3 + √3) m 
+(b) 2(3 + √3) m, 2(3 + √3) m 
+(c) 4(2 + √2) m, 4(2 + √2) m 
+(d) 2(3 – √3) m, 4(3 + √3) m 
+36. If  cos2(10°) cos(20°) cos (40°) cos(50°) cos(70°) = α + 
+√3
+16 cos(10°), then 3𝛼−1 is equal to 
+(a) 
+9
+32 (b) 64  (c) 16  (d) 
+9
+16 
+=== PAGE 3 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+37. Suppose 𝑡1, 𝑡2, 𝑡3 , …, 𝑡55  are in AP such that 
+∑ 𝑡3𝑙+1 = 119718𝑙=0  and 𝑡7 + 3𝑡22 = 174. If ∑ 𝑡𝑙29𝑡=1  = 
+947b, then the value of b is  
+(a) 5 (b) 3  (c) 1  (d) 2 
+38. Consider the matrix B = (
+−1 −1 2
+0 −1 −1
+0 0 −1
+). The sum of 
+all the entries of the matrix 𝐵19 is 
+(a) −171   (b) −192 
+(c) −174   (d) −163 
+39. If 𝑎⃗ and 𝑏⃗⃗ are two vectors such that |𝑎⃗| = 3,|𝑏⃗⃗| = 4 and 
+|𝑎⃗ + 𝑏⃗⃗| = 1, then the value of |𝑎⃗ − 𝑏⃗⃗| is 
+(a) 7 (b) 2  (c) 6  (d) 1 
+40. The scores of students in a nationa l level examination 
+are normally distributed with a mean of 500 and a 
+standard deviation of 100. If the value of the cumulative 
+distribution of the standard normal random variable at 
+0.5 is 0.691, then the probability that a randomly 
+selected student scored between 450 and 500 is  
+(a) 0.191   (b) 0.391  
+(c) 0.591   (d) 0.091 
+41. Which one of the following is NOT a correct statement? 
+(a)  The standard deviation is greater than or equal to 
+the mean deviation (about mean) 
+(b)  The variance is expressed in the same units as the 
+units of observation 
+(c)  The value of standard deviation changes by a 
+change of scale. 
+(d)  The sum of squares of deviations is minimum 
+when taken from the mean 
+42. Let 𝐹1, 𝐹2 be the fact of the hyperbola 
+   
+𝑥2
+𝑎2 −
+𝑦2
+𝑏2 = 1,  a > 0, b > 0, 
+ and let O be the origin. Let M be an arbitrary point on 
+curve C and above X-axis and H be a point on MF1 such 
+that  
+M 𝐹2 ⊥  𝐹1 𝐹2, M 𝐹1 ⊥ OH, |𝑂𝐻| = 𝜆|𝑂 𝐹2| 
+with λ ϵ (2/5, 3/5), then the range of the ecc entricity e 
+in 
+(a) (1, √7/3)  (b) (√7/3, 2) 
+(c) (√2, √3)  (d) (√3, 2) 
+43. The value of the integral ∫
+(1 + 2 cos 𝑥)
+(2+cos 𝑥)2
+𝜋
+2
+0 𝑑𝑥 lies in the 
+interval 
+(a) (-2,-1)   (b) (-1, 0) 
+(c) (0, 1)   (d) (1, 2) 
+44.  Let x be a positive real number such that 
+ 𝑥(8 𝑙𝑜𝑔5(𝑥)−24) = 5−4. 
+ Then the product of all possible values of x is 
+(a) 125   (b) 625 
+(c) 25   (d) 5 
+45. Given the vquation x + y = 1, 𝑥2 + 𝑦2 = 2, 𝑥5 + 𝑦5 =
+𝐴. Let N be the under of solution pairs ( x, y) to this 
+system of equations. Then AN is equal to 
+(a) 9   (b) 3 
+(c) 
+7
+2   (d) 
+19
+2  
+46. The number of accidents per week in a town follows 
+Poisson distribution with mean 2. If the probability that 
+there are three accidents in two weeks time is 𝑘𝑒−6, 
+then the value of k is  
+(a) 18   (b) 36 
+(c) 27   (d) 9 
+47. The slope of the normal line to the curve 𝑥 = 𝑡2 + 3𝑡 −
+8  and y = 2𝑡2 − 2𝑡 − 5 at the point (2, -1) is 
+(a) 
+22
+7    (b) −5 
+(c) −
+6
+7   (d) −
+7
+6 
+48. If B = sin²y + cos4y, then for all real y 
+(a) 
+3
+4 ≤ 𝐵 ≤ 1  (b) 
+3
+4 ≤ 𝐵 ≤
+13
+16 
+(c) 
+13
+16 ≤ 𝐵 ≤ 1  (d) 1 ≤ 𝐵 ≤ 2 
+49. The number of 3 -digit integers that are multiple of 6 
+which can be formed by using the digits 1,2,3,4,5,6 
+without repetition is  
+(a) 22   (b) 26 
+(c) 20   (d) 24 
+50. An airplane, when 4000m high from the ground, passes 
+vertically above another airplane at an instant when the 
+angles of elevation of the two airplanes from the same 
+point on the ground are 600 and 30, respectively. Find 
+the vertical distance between the two airplanes  
+(a) 16000/7m  (b) 8000/3m 
+(c) 8000/7m  (d) 1200m 
+REASONING 
+1.  Statements: 
+1. All cakes are ice cream 
+II. No ice cream is chocolate 
+Conclusions: 
+1. Some cakes are chocolate 
+II. No cake is chocolate 
+Choose the correct option: 
+(a) Neither conclusion I nor conclusion II follows 
+(b) Only conclusion I follow 
+(c) Both conclusion I and conclusion II follows 
+(d) Only conclusion II follows  
+=== PAGE 4 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+2. A, B, C, D, E, F and G are travelling in three different 
+vehicles: Swift, Creta, and Nexon. 
+ There are at least two passengers in ea ch vehicle. 
+Among them, only two are male. There  are two 
+engineers, two doctors and three teachers 
+(i) C is a lady doctor and she does not travel with A and 
+F, who are sisters. 
+(ii) B, a male engineer, travels with only G, a teacher, 
+in a Swift.  
+(iii)  D is a male doctor 
+(iv)  Two persons belonging to the same profession do 
+not travel in the same vehicle. 
+(v) A is not an engineer and travels in a Creta. 
+(vi)  The pair of sisters A and F travels in the same 
+vehicle 
+What is the profession of F? 
+(a) Engineer   (b) Teacher 
+(c) Data Inadequate (d) Doctor 
+3. If 1 man or 2 women can finish a job in 20 days, how 
+may days will 3 men and women take to finish the same 
+job?  
+(a) 3 (b) 5  (c) 6  (d) 4 
+4. Consider a sequence formed by concatenating the 
+positive integers in increasing order: 
+12345678910111213….. Which among the following is 
+the closest to the 2028th 4digit in this infinite sequence? 
+(a) 4 (b) 7  (c) 1  (d) 9 
+5. Statement: All engineers are good at math. 
+ Conclusion 1: Some people good at math are engineers. 
+ Conclusion 2: All people good at math are engineers. 
+(a) Only Conclusion 1 follows 
+(b) Only Conclusion 2 follows 
+(c) Both Conclusions follow 
+(d) Neither follows 
+6. A number which, when increased by 15% becomes 161. 
+What is the original number? 
+(a) 135 (b) 140  (c) 145  (d) 130 
+7. Two ships are sailing in the sea on the two sides of a 
+lighthouse. The angle of elevation of the top of the 
+lighthouse is observed from the ships are 30° degree and 
+45° re spectively. If the lighthouse is 100 m high, the 
+distance between the two ships is  
+(a) 300 m   (b) 200 m 
+(c) 173 m   (d) 273 m 
+8. Mohan introduced Sarita as the mother of his sister's 
+brother. How is Sarita related to Mohan?  
+(a) Mother  (b) Niece 
+(c) Sister   (d) Aunt 
+9. en years ago, Ram was twice as old as Shyam. Ten years 
+from now, the ratio of their ages will be 3:2. 
+ What is Ram's present age? 
+(a) 50 (b) 60  (c) 40  (d) 70 
+10. "In order to be a teacher one mast graduate from college. 
+All poets are poor. Some Mathematicians are poets. No 
+college graduate is poor." 
+(a) Some Mathematicians are not teachers. 
+(b) Poets are not teachers. 
+(c) Teachers are not poor. 
+(d) Some teachers are not Mathematicians. 
+11. Consider the following statements followed by two 
+conclusions. 
+ Statements: 1. Some meu are great. 2. Som e men are 
+wise 
+ Conclusions: 1. Men are either great or wise. 2. Some 
+men are neither great nor wise. 
+(a) Both the conclusions are valid 
+(b) Only conclusion 2 is valid 
+(c) Only conclusion 1 is valid 
+(d) Neither of the conclusions is valid. 
+12. If John's mother's father's granddaughter is Maria, what 
+is Maria's relation to John? 
+(a) Sister   (b) Niece 
+(c) Aunt   (d) Cousin 
+13. If a number is increased by 30% and then decreased by 
+20%, what is the net change? 
+(a) 4% increase  (b) 6% increase 
+(c) 8% Increase  (d) 6% decrease  
+14. If 1st January 2022 was a Saturday, what day of the 
+week will 1st January 2023 be? 
+(a) Monday  (b) Tuesday 
+(c) Wednesday  (d) Sunday 
+15. A person walks 8 km north, turns right, walks 4 km, 
+turns right again and walks 6 km. Finally, he turns left 
+and walks 3 km. How far is he from the starting point?  
+(a) 8.92 km  (b) 5.89 km 
+(c) 7.62 km  (d) 6.45 km 
+16. A two digit number is such that the product of its digits 
+is 12. If 36 is added to the mumber, the digits 
+interchange their places. What is the mumber?  
+(a) 24 (b) 38  (c) 26  (d) 25 
+17. In a remote research outpost, five scientists (Dr. Anand, 
+Dr. Beena, Dr. Chirag, Dr. Dinesh, and Dr. Elango) are 
+studying a rare phenomenon. They communicate 
+through a secure, text-based system. Over the course of 
+an hour, the following exchanges occur: 
+ 1. Dr. Anand sends a message to Dr. Beena and Dr. 
+Chirag 
+2.  Dr. Beena replies only to Dr. Anand. 
+3.  Dr. Anand sends a reminder message to who did not 
+reply. 
+4.  Dr. Chirag sends a message to Dr. Dinesh a nd Dr. 
+Elango. 
+5.  While replying to Dr. Chirag, Dr. Dinesh 
+accidentally sends a "Reply All" 
+6.  Dr. Elango, having received Dr. Chirag's message, 
+sends a message to Dr. Beena. 
+=== PAGE 5 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+At the end of this hour, who has received the most 
+messages directly from other  scientists within the 
+group? (Consider only messages sent within the 
+described hour and only between the five scientists 
+mentioned)                                                                      
+(a) Dr. Chirag  (b) Dr. Dinesh 
+(c) Dr. Anand  (d) Dr. Beena 
+18. A remote island has a unique social structure. 
+Individuals are either "Truth-tellers' (who always speak 
+the truth) or 'Tricksters' (who always lie). You 
+encounter three inhabitants: X, Y, and Z. 
+ X says: "Y is a Trickster" 
+Y says: "Exactly one of us is a Truth-teller." 
+What can you definitively conclude about 27 
+(a)  Z could be either a Truth-teller or a Trickster 
+(b)  Z is a Trickster 
+(c)  Z is a Truth-teller 
+(d) The information is insufficient to determine Z's 
+identity 
+19. How many triangles are there in the figure given below? 
+ 
+(a) 13 (b) 21  (c) 24  (d) 32 
+20. What is the next number in each of the following 3 
+sequences? 
+  
+8 17 33 67 133? (1) 
+7 23 67 203 607? (2) 
+6 27 105 423 1689? (3) 
+ 
+(a) 267, 1823, 6759 (b) 213, 1534, 7635 
+(c) 238, 1846, 6389 (d) 254,968, 3689 
+21. In a certain code language, the word "REASON" is 
+enroded as TDDQSK. Using the same rule, how is the 
+word PRAYER coded? 
+(a) RTBXCT  (b) RQDWIO 
+(c) SSAYDU  (d) RQDZCU 
+22. A monkey clinhs 30 feet at the beginning of each hour 
+and rests for a while when he slips back 20 feet before 
+he again starts climbing in the beginning of the next 
+hour. If he begins his arcent at 8.00 am, at what time 
+will he first touch a flag at 120 feet from the ground! 
+(a) 5 p.m.   (b) 9 p.m 
+(c) 6 p.m   (d) 8 p.m 
+23. At an IIM entrepreneurship summit, two young 
+founders __ Karan and Deepak  __ introduced their 
+startup. In their quirky opening, they said "The product 
+of our ages is 240. And just like in our startup strategy, 
+twice Deepak's age is 4 years more th an Karus's age 
+How old was Deepak two years ago?   
+(a) 8 Years  (b) 15 Years 
+(c) 6 Years  (d) 10 Years 
+24. Four people (P, Q, R & 5) are standing in a queue. Q is 
+ahead of P. R is between P and S . If 5 is at the end of 
+the queue, who is at the front of the queue?  
+(a) Q   (b) R   
+(c) P   (d) S 
+25. A research team is studying the effects of three different 
+fertilizers (X, Y, and 2) on the growth of a specific plant 
+species. They have four experimental plots with 
+differest fertilizer combinations 
+ Plot 1: Fertilizer Xonly 
+ Plut 2: Fertilizer Yonly 
+ Plot 3: Fertilizer X and Fertilizer Z only 
+ Plot 4: Fertilizer Y and Fertilizer Z only 
+After a period of observatim, they note the following 
+ Plants in plots with Fertilizer X showed significantly 
+increased height compar ed to a control group (no 
+fertilizer) 
+ Plants in plots with Fertilizer Y showed a slightly 
+increased leaf area compared to the control group. 
+ Plants in Plot 3 (X and 2) showed no significant 
+difference in height compared to the control group. 
+ Plants in Plot  4 (Y and 2) showed significantly 
+increased height compared to the control group 
+Based on these obserrations, which of the following 
+conclusions is best supported? 
+(a)  Fertilizer Z inhibits the height growth promoted by 
+Fertilizer X. 
+(b)  Fertilizer Z enh ances the leaf area increase caused 
+by Fertilizer Y. 
+(c)  Fertilizer X is the only fertilizer that significantly 
+increases the height of this plant species. 
+(d)  Fertilizer Z has no effect on the growth of this plant 
+species. 
+26. Which number replaces the question mark? 
+4, 9, 16, 25, ?, 49 
+(a) 40   (b) 36   
+(c) 32   (d) 30 
+27. In a box, there are 8 red, 7 blue and 6 green balls. One 
+ball is picked up randomly. What is the probability that 
+it is neither red nor green? 
+(a) 3/4   (b) 7/19   
+(c) 1/3   (d) 8/21 
+28. Which number replaces the question mark? 
+3, 6, 18, 72, ?, 432  
+(a) 360   (b) 144   
+(c) 288   (d) 216 
+29. In a certain code language, SUN' is written as 'RWK' 
+and 'MOON is written as 'LQLK. Following the same 
+pattern, how will 'STAR' be written? 
+(a) RUDY  (b) RUXV 
+(c) SVXU   (d) RVXV 
+
+=== PAGE 6 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+30. Five friends A,B,C.D and E are sitting in a row. The 
+following conditions hold: 
+A is sitting next to B. 
+C is sitting at one of the ends. 
+D is sitting between A and E 
+E is sitting to the right of D. 
+Who is sitting at the second position? 
+(a) E (b) A  (c) D  (d) C 
+31. Statements: 
+All apples are fruits. All fruits are tasty. 
+Conclusions: 
+1. All apples are tasty. 
+II. Some tasty things are apples. 
+(a) Neither follows (b) Only I follows 
+(c) Both follow  (d) Only II follows 
+32. Average Cost (AC) is defined as the sum of Average 
+Fixed Cost (AFC) and Average Variable Cost (AVC), 
+and dumping is defined as selling a product at a price 
+less than AC but more than AVC. A company in India, 
+suddenly, found that the demand for its product 
+"ZOOM" has fallen to 60% of the output produced in 
+that financial year. As a result, the company must sell 
+40% of the produced output in a foreign market. If it 
+decides to "dump" 40% of its output in a neighbouring 
+country (by reducing the price by 20%), what would be 
+the objective of its 'dumping strategy', among the 
+following? (The company has set a profit margin of 10% 
+of AC while fixing the price of its product for sale in 
+India). 
+(A) To minimize losses,  
+(B) to maximize profits,  
+(C) to contribute to the recovery of fixed costs,  
+(D) to contribute to the recovery of variable costs 
+(a) (A) and (B)  (b) (A) and (C) 
+(c) (B) and (D)  (d) (B) and (C)  
+33. A group of 630 children is arranged in ress for a group 
+photograph. Each row contains three fewer childr en 
+than the in front of it. What sumber of roses is not 
+possible? 
+(a) 6   (b) 3 
+(c) 5   (d) 4 
+34. Complete the next series: 
+2 8 12 
+8 40 45 
+40 240 246 
+--- --- --- 
+(a) 160, 960, 967  (b) 240, 1680, 1687 
+(c) 200, 1000, 1005 (d) 48, 288, 295  
+ 
+35. The perc entage change in area of a rectangle by 
+decreasing its length and increasing its breadth by 5% is 
+(a) no change  (b) 0.25% decrease 
+(c) 2.5% increase  (d) 0.25% increase 
+36. Statements: 
+I.  The meteorological department predicts deficient 
+rainfall during momsom season 
+II.  The GDP growth estimates have been revised 
+downwards by the government. 
+ Choose the correct option  
+(a)  Statement I is the cause and Statement Il is the effect 
+(b)  Both the statements I and II are effects of 
+independent causes 
+(c)  Both the statements I and II are independent causes 
+(d)  Both the statements I and II are effects of some 
+common cause 
+37. Read definition and all four choices carefully, and find 
+the answer that provides the best example of the given 
+definition. Answer the qu estion solely on the basis of 
+the definition given 
+ Definition: 
+An informal gathering occurs when a group of peop le 
+get together in a canal, relaxed manner. 
+Which situation below is the best example of an 
+informal gathering? 
+(a)  Mary sends out 25 invitations for the bridal shower 
+she is giving for her sister  
+(b)  The book club meets on the first Thursday evening 
+of every month 
+(c)  Whenever she eats at the Italian restaurant, 
+Kamalika seems to run into Peter 
+(d)  After finding about his promotion, Jeremy and a 
+few coworkers decide to go out for a quick drink 
+after work 
+38. A sum of money was divided into 2 parts in the ratio 
+2:5. First part was invested for 2 years at the annual 
+interest rate of 20% compounded annually. At what rate 
+of simple interest per annum the second part must be 
+invested for 2 years, so that the interest earned in both 
+cases is the same? 
+(a) 9.6%  
+(b) 8.8% 
+(c) Cannot be determined 
+(d) 10.2% 
+39. What comes next in the sequence?  
+2, 6, 12, 20, 30,______ 
+(a) 36   (b) 50 
+(c) 56   (d) 42 
+40. Which word in the following is the "odd man" out? 
+(a) Pampering   
+(b) Promoting 
+(c) Nurturing   
+(d) Incubating
+=== PAGE 7 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+COMPUTER 
+1. Dynamic RAM (DRAM) stores each bit of data in a 
+separate capacitor. Due toleakage, the stored charge 
+tends to dissipate over ti me and needs to be refreshed 
+periodically. Consider the following statements: 
+P: DRAM requires refreshing because it uses capacitors 
+to store bits. 
+Q: SRAM does not require refreshing because it uses 
+flip-flops instead of capacitors. 
+R: DRAM is faster than  SRAM because it needs less 
+frequent access. 
+S: DRAM is more suitable for main memory than 
+SRAM due to its density. 
+(a) All statements P, Q, R, and S are true   
+(b) P, Q, and S are true; R is false. 
+(c) Only P and Q are true; R is false, and S is irrelevant. 
+(d)P and S are true; Q and R are false. 
+ 
+2. Suppose that C represents the set of all countries, R 
+represents the set of all countries that have at least one 
+river flowing through it, M represents the set of all 
+countries that have at least one mountain in it, and D 
+represents the set of all countrie s that have at least one 
+desert in it. It is given that ( 𝑅 ∪  𝑀 ∪  𝐷) = 𝐶 Which 
+one of the following gives the set of all countries that 
+have either a mountain or a river, but does not have a 
+desert in it? The notation 𝐷𝑐 represents the complement 
+of the set D with respect to the universal set C. 
+(a)(𝑅 ∪ 𝑀) − (𝑅 ∩ 𝑀 ∩ 𝐷𝑐)  
+(b)(𝑅 ∩ 𝑀) ∩ 𝐷𝑐  
+(c)(𝑅 ∪ 𝑀) ∩ 𝐷𝑐    
+(d)(𝑅 ∪ 𝑀) − (𝑅 ∩ 𝑀) 
+3. Consider a system with a CPU having 6 registers and 
+32-bit instructions. The maximum possible size of the 
+main memory is 512 KB (1𝐾 =  210). Each instruction 
+takes two regi sters and one memory address as 
+operands. Which one of the following correctly gives 
+the maximum possible distinct instructions that can be 
+there in the instruction set of the CPU? 
+(a)128 (b)256 (c)64 (d)1024 
+4. Which of the following statements about ASCII a nd 
+Unicode is correct? 
+(a)  ASCII uses 16 bits per character, while Unicode 
+uses only 7 bits. 
+(b)  Unicode is backward compatible with ASCII and 
+includes all ASCII characters in its encoding. 
+(c)  Unicode and ASCII are completely different and 
+share no common characters. 
+(d) ASCII can represent more characters than Unicode 
+because it uses fewer bits per character. 
+5. In computer architecture, which of the following 
+correctly matches the fundamental unit used in the 
+CPU, cache, and main memory respectively? 
+(a) CPU → Block, Cache → Word, Memory → Page  
+(b) CPU → Word, Cache → Block, Memory → Page 
+(c) CPU → Page, Cache → Word, Memory → Block 
+(d) CPU → Block, Cache → Page, Memory → Word 
+6. Debugger is a program that 
+(a)  does not allow step by step execution of a segment 
+of program 
+(b)  compiles source code to object code 
+(c)  links object code to produce an executable 
+(d)  allows to set breakpoints, execute a segment of 
+program and display contents of Register 
+7. Consider a system running under two types of 
+workloads: (a) CPU -intensive jobs,(b) I/O -intensive 
+jobs. Which of the following statements about the 
+relative performance of Interrupt -driven I/O and 
+Programmed I/O is correct? 
+(a)  Programmed I/O performs better for CPU -
+intensive jobs, while interrupt-driven 1/0 performs 
+better for I/O-intensive jobs  
+(b)  Interrupt-driven 1/0 performs better in both CPU -
+intensive and I/O -intensive workloads because it 
+always reduces CPU involvement. 
+(c) Interrupt -driven 1/0 performs better for CPU -
+intensive jobs by freeing the CPU,  while 
+programmed I/O performs better for I/O-intensive 
+jobs due to tighter control. 
+(d) Programmed I/O performs better in both CPU -
+intensive and I/O -intensive workloads because it 
+gives the CPU full control. 
+8. What is the equivalent decimal value of the un signed 
+binary number 10101.10101? 
+(a) 51.125   (b) 125.25  
+(c) 25.375  (d)21.65625 
+9. Consider the Boolean expression 𝑋 = (𝐴 + 𝐵). 𝐶̅̅̅̅̅̅̅̅̅̅̅̅̅ over 
+two Boolean variables A and B. Which one of the 
+following Boolean expressions is equivalent to the 
+given Boolean expression X? 
+(a)𝐴̅. 𝐵̅ + 𝐶  (b)𝐴. 𝐶̅̅̅̅̅ + 𝐵. 𝐶̅̅̅̅̅  
+(c)𝐴. 𝐵̅̅̅̅̅̅ + 𝐶̅  (d) 𝐴̅ + 𝐵̅. 𝐶̅ 
+10. Given the Boolean expression (𝐴 ⊕ 𝐵)⋀(𝐵 → 𝐶) , 
+which of the following rows in the truth table would 
+have an output of 1 (True)? 
+(a)𝐴 = 1, 𝐵 = 1, 𝐶 = 1 (b) 𝐴 = 0, 𝐵 = 1, 𝐶 = 0  
+(c) 𝐴 = 0, 𝐵 = 0, 𝐶 = 0  (d) 𝐴 = 1, 𝐵 = 0, 𝐶 = 1 
+11. Consider the Boolean function in a CPU control unit: 
+  𝑌 = (𝐴 + 𝐵. 𝐶̅). (𝐴̅. 𝐵 + 𝐶) 
+(A)𝐴. 𝐵 + 𝐶  (B)𝐴. 𝐶 + 𝐴̅. 𝐵 + 𝐵. 𝐶̅  
+(C)𝐴. 𝐶 + 𝐴̅. 𝐵. 𝐶̅  (D)𝐴. 𝐶 + 𝐵. 𝐶̅ 
+=== PAGE 8 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+12. Given an unsigned 32 -bit integer x, which of the 
+following C / C ++ expressions correctly toggles m bits 
+starting from position p (with the least significant bit at 
+position 0)? 
+Assume: x is the input integer; p is the starting position 
+of the bit range (0 -based, LSB at position 0); m is the 
+number of bits to  toggle; and No overflow or invalid 
+input conditions occur. 
+Which of the following correctly toggles m bits of x 
+starting from position p? 
+(a)𝑥^(((1 ≪ 𝑚) − 1) ≪ 𝑝)  
+(b)𝑥|((1 ≪ 𝑚) ≪ 𝑝)  
+(c)𝑥^((1 ≪ 𝑚) ≪ 𝑝)  
+(d)𝑥&~(((1 ≪ 𝑚) − 1) ≪ 𝑝) 
+13. In an instruction execution pipeline, the earliest that the 
+instruction TLB and data TLB can be accessed are 
+(a) Fetch stage and fetch stage respectively 
+(b) Fetch stage and memory stage respectively 
+(c) Memory stage and execute stage respectively 
+(d) Memory stage and memory stage respectively 
+14. Which of the following secondary storage devices has 
+the fastest access time: Optical Drive, Magnetic Tape 
+Drive, Hard Disk Drive (HDD ), Solid State Drive 
+(SDD)? 
+(a) Solid State Drive (SDD) (b) Optical Drive 
+(c) Magnetic Tape Drive    (d)Hard Disk Drive (HDD) 
+15. What is the hexadecimal representation of the decimal 
+number 265? 
+(a) 0x100001001   (b) 0x411   
+(c) 0x190   (d)0x109 
+16. Consider a 9-bit representation. Which of the following 
+correctly gives the smallest number that can be 
+represented in: (i) 1's complement, (ii) 2's complement 
+(a)(i) -256, (ii) -255 (b) (i) -255, (ii) -255  
+(c) (i) -256, (ii) -256 (d) (i) -255, (ii) -256 
+17. In the desig n of a control unit of a processor, two 
+common approaches are used: hardware control and 
+microprogrammed control. Consider the following 
+statements: 
+I.  Hardware control units are generally faster but 
+more difficult to modify than microprogrammed 
+control units. 
+II.  In a horizontal microprogrammed control unit, 
+each control signal has a separate bit in the control 
+word. 
+III. Vertical microprogramming leads to longer control 
+words but provides greater parallelism. 
+IV. Microprogrammed control units are typically easier 
+to implement and modify than hardware control 
+units 
+(a) I,II, and IV only (b) I,II,III, and IV   
+(c) II,III, and IV only  (d) I,III, and IV only 
+18. In 8 -bit two's complement arithmetic, compute the 
+result of the following addition: A = 10011001, B =  
+11010111. What is the resulting 8-bit binary value? 
+(a) 01110000   
+(b) 11100100   
+(c) 01110001   
+(d)Result is invalid 
+19.  Which of the following is the CORRECT truth table for 
+the XOR Gate with two binary inputs A and B? 
+(a) 
+A B A XOR B 
+0 0 0 
+0 1 1 
+1 0 1 
+1 1 0 
+(b) 
+A B A XOR B 
+0 0 1 
+0 1 1 
+1 0 1 
+1 1 0 
+(c) 
+A B A XOR B 
+0 0 1 
+0 1 0 
+1 0 0 
+1 1 1 
+(d) 
+A B A XOR B 
+0 0 0 
+0 1 0 
+1 0 1 
+1 1 1 
+20.  Match all items in Group 1 with correct options from 
+those given in Group 2 
+Group 1 Group 2 
+P.Intermediate 
+representation 
+1. Activation records 
+Q. Top-down parsing 2. Code generation 
+R.Runtime 
+environments 
+3. Leftmost derivation 
+S. Register Allocation 4. Graph colouring 
+ 
+(a) P-4, Q-2, R-3, S-1 (b) P-1, Q-2, R-3, S-4 
+(c) P-2, Q-3, R-1, S-4 (d) P-2, Q-3, R-4, S-1 
+=== PAGE 9 ===
+MAARULA CLASSES  
+  
+ 
+ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025 
+website: www.maarula.in        9935985550         9554548576 
+ 
+ MAARULA CLASSES  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+       NIMCET-2025 
+    OFFICIAL PAPERS 
+  
+         Scan the QR & Download Our App Now. 
+          
+     
+ENGLISH 
+21.  After running around the city all day delivering 
+invitations for the wedding I desperately needed to hit 
+the sack.  (Identify the meaning of the underlined 
+phrases) 
+(a) To pack one's bags  
+(b) To exercise for fitness 
+(c) To go to bed   
+(d) to watch television 
+22.  Even though in official statements, the Presidential 
+office has warned against violating the 25th protocol, 
+the government's inaction against the Market group 
+shows the government's tacit approval of the 
+movement. (Choose the ant onym of the underlined 
+word) 
+(a) Undeclared   
+(b) Implicit 
+(c) Unequivocal   
+(d) Unvoiced 
+23.  The new iPhone seems to cost everyone not just an arm 
+and a leg, but also a kidney." What does " to cost an arm 
+and a let" mean? 
+(a) to be very cheap  
+(b) To be very expensive 
+(c) To be afraid of surgery  
+(d) to be very short-lived 
+24.  What is the synonym of "belligerent"? 
+(a) Equanimity   
+(b) Hostile 
+(c) Bellyful   
+(d) Peaceful 
+25.  Which of the following sentences uses the correct form 
+of the very "to lay"? 
+(a) She lays on the bed every night. 
+(b) She is laying down for a nap. 
+(c) She has lain the keys on the counter. 
+(d) She laid the book on the table. 
+26.  Study the following sentence: The statue of Christ the 
+Redeemer is located on Rio de Janeiro, the largest city 
+of Brazil. (Which of the following parts of the sentence 
+is grammatically incorrect) 
+(a) on Rio de Janeiro 
+(b) The statue of Christ the Redeemer 
+(c) is located 
+(d) the largest city of Brazil 
+27.  Which of the following statements correctly explains 
+the use of articles in the following sentence. After 
+earning an MBA, Srinivas was able to approach a 
+mathematical problem from both a business and 
+analytical perspective. 
+(a)  "An MBA" uses a because MBA is an acronym, 
+and "a mathematical problem" should use the since 
+it is referring to a unique or previously mentioned 
+problem.  
+(b)  "An MBA" should use a instead, because it refers 
+to a specific degree, and "a mathematical problem" 
+should use the to refer to a specific problem. 
+(c)  "An MBA" uses the indefinite article an because it 
+begins with a vowel sound, and "a mathematical 
+problem" uses a because "mathematical" begins 
+with a consonant sound. 
+(d)  Both articles are used incorrectly because "an 
+MBA" shold use a and" a mathematical problem" 
+should use the. 
+28.  One of the employees _____________planning to 
+transfer to another department. 
+(a) were   (b) are 
+(c) has   (d) is 
+29.  The man and the dog ______ (flee) through the forest. 
+(fill in the blank with the most appropriate form) 
+(a) has fled  (b) flees 
+(c) were fleeing  (d) fleeing 
+30.  Identify the incorrect sentence based on the usage of the 
+verb 
+(a) They are understanding the problem 
+(b) It's been raining since morning 
+(c) It has clear ideas 
+(d) Their understanding of the problem was incorrect 
+ 
+ 
+ 
+ 
+ 
+ 

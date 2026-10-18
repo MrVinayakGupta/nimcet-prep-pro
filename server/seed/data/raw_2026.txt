@@ -1,0 +1,1106 @@
+=== PAGE 1 ===
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://youtube.com/@maarulac
+lasses?si=XkKXyJ_2a16NiK-K 
+ 
+  
+TAB THIS  
+ 
+NIMCET-2026  
+OFFICIAL PAPER 
+
+=== PAGE 2 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+MATHEMATICS 
+ 
+1. arithmetic mean of to numbers a and b is 5 and the 
+harmonic mean is 3.2 find the numbers a and b ? 
+ (a) 𝑎 = 3, 𝑏 = 7  (b) 𝑎 = 4, 𝑏 = 6 
+ (c) 𝑎 = 1, 𝑏 = 9  (d) 𝑎 = 2, 𝑏 = 8 
+2. The value of  cos−1 (cos (− 𝜋6)) + sin−1 (sin (5𝜋6 )) 
+is:  
+ (a) 
+2𝜋
+3     (b) 
+𝜋
+3 
+ (c) 
+5𝜋
+3    (d) Not Defined 
+3. Let 𝐴𝑘 be arithmetic mean of squares of 𝑘 natural 
+numbers.  
+∑(6 𝐴𝑘 − 3𝑘)
+𝑛
+𝑘=1
+= 31 
+         Find the value of n 
+ (a) 3   (b) 2 
+ (c) 4   (d) 1 
+4. lim
+𝑥→0
+𝑥2+2 cos 𝑥−2
+𝑥 sin 3𝑥  
+ (a) 
+1
+2   (b) 
+1
+3 
+ (c) 
+1
+6   (d) 
+1
+12 
+5. cos 6𝑥 = (𝑎) cos6𝑥 +(𝑏) cos4𝑥 +(𝑐) cos2𝑥 +(𝑑)  
+for any real number 𝑥, where a,b,c and d are real 
+constent then. Find the value of 𝑎 + 𝑏 + 𝑐   
+ (a) 7   (b) 2 
+ (c) 49   (d) 13 
+6. Area of triangle is right half plane formed by lines 
+𝑥 − 𝑦 = 0 𝑎𝑛𝑑 𝑥 + 𝑦 = 0 and is tangent to 
+hyperbola  𝑥2 − 𝑦2 = 𝑎2, where 𝑎 is non zero 
+number.  
+ (a) 4𝑎2   (b) 2𝑎2 
+ (c) 𝑎2   (d) 𝑎2
+2  
+7. ∫ (
+𝑑𝑥
+cos4 𝑥)
+𝜋
+4
+0  
+ (a) 1   (b) 
+4
+3 
+ (c) 
+1
+3   (d) 
+2
+3 
+8. A die is rolled twice independently. Probability that 
+either first die shows number no less then 4 or 
+second die shows atleast 4? 
+ (a) 
+1
+2   (b) 
+5
+6 
+ (c) 
+2
+3    (d) 
+3
+4 
+9. If [0, ∞) → 𝑅 𝑓(𝑥) = 𝑥2−1𝑥2+1  then the value of 
+∫ 𝑓−1(𝑦)𝑑𝑦1−1  
+ (a) 𝜋   (b) 2𝜋 
+ (c) 0   (d) 
+𝜋
+2 
+10. A triangle has vertex on (1, 2) and midpoints of 
+two sides through it be (−1, 1) and (2, 3). then the 
+area is   
+ (a) 1   (b) 2 
+ (c) 3   (d) 4 
+11. The eccentricity of ellipse whose centre at origin is 
+1
+2. If one of its directrices is 𝑥 = −4 then equation 
+of normal to it at (1,
+3
+2 ) is   
+ (a) 4𝑥 + 2𝑦 = 7    
+(b) 6𝑥 − 3𝑦 =
+3
+2 
+ (c) 6𝑥 + 3𝑦 =
+21
+2    
+(d) 4𝑥 − 2𝑦 = 1 
+12. If 𝑥, 𝑦 are real number such that   
+2𝑥+12 × 4𝑦−56 = 3𝑥−12 × 9𝑦−13, then which of the 
+following is true?  
+ (a) 6𝑥 − 12𝑦 − 7 = 0 
+ (b) 6𝑥 + 12𝑦 − 7 = 0 
+ (c) 6𝑥 + 12𝑦 + 7 = 0 
+ (d) 6𝑥 − 12𝑦 + 7 = 0 
+13. From top of view point at height of 80 m. The angle 
+of depression of top and bottom of flag standing 
+on same plane are observated to be 30 ° and 45°. 
+Find height of Flag.  
+ (a) 40√3   (b) 
+80
+√3 
+ (c) 80(1 −
+1
+√3)   (d) 80(√3 − 1) 
+
+=== PAGE 3 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+14. Let a, b, c be non zero number such that 
+ a + b + c ≠ 0 and 4a - 2b + c ≠ 0. If α and β are the 
+roots of quadratic equation 𝑎𝑥2 + 𝑏𝑥 + 𝑐 = 0. then 
+which of the following equation has roots 
+α +2
+α−1 and 
+β +2
+β−1.  
+ (a) (𝑎 + 𝑏 + 𝑐)𝑥2 − (4𝑎 − 2𝑏 + 𝑐)𝑥 +  (4𝑎 + 𝑏 − 2𝑐) = 0 
+ (b) (𝑎 + 𝑏 + 𝑐)𝑥2 + (4𝑎 + 2𝑏 − 𝑐)𝑥 +  (4𝑎 − 2𝑏 + 𝑐) = 0 
+ (c) (𝑎 + 𝑏 + 𝑐)𝑥2 − (4𝑎 + 𝑏 − 2𝑐)𝑥 +  (4𝑎 − 2𝑏 + 𝑐) = 0 
+ (d) (𝑎 + 𝑏 + 𝑐)𝑥2 + (4𝑎 − 2𝑏 + 𝑐)𝑥 +  (4𝑎 + 𝑏 − 2𝑐) = 0 
+15. Find the value of determinant at  
+ x = 2026 |
+𝑥 𝑥 + 1 𝑥 + 3
+𝑥 + 1 𝑥 + 3 𝑥 + 6
+𝑥 + 3 𝑥 + 6 𝑥 + 10
+| 
+ (a) 2026   (b) -1 
+ (c) 0   (d) 1 
+16. Number of triplate of set (𝐴, 𝐵, 𝐶) with  
+ A, B, C ⊆ {1,2,3, … 𝑛} such that  
+ (𝐴 ∩ 𝐵) ⊆ C ⊆ (A ∪ B) is  
+ (a) 7𝑛   (b) 6𝑛 
+ (c) 8𝑛   (d) 5𝑛 
+17. lim
+𝑥→∞
+√𝑥
+√𝑥+√𝑥+√𝑥
+= 
+ (a) 0   (b) √2 
+ (c) 1   (d) √3 
+18. Let 𝑓: [0, ∞) → are be function 𝑓(𝑥) = 3𝑥2+4𝑥+1𝑥2+3𝑥+2   
+ then value of (𝑓−1)′2 is  
+ (a) 15   (b) 5 
+ (c) 0   (d) 25 
+19. Let 𝑓: 𝑅 → 𝑅 𝑓(𝑥) = |𝑥 + 1|𝑒−𝑥2 then which of the 
+following of option is true? 
+ (a) 𝑓 has point of maxima in (−2, −1) 
+ (b) 𝑓 has point of global maxima in (1,2) 
+ (c) 𝑓 has point of local minima in (0,1) 
+ (d) 𝑓 has point of global minima in (0,1) 
+20. 𝑓(𝑥) = {1 |𝑥| ≤ 10 |𝑥| > 1, 𝑔(𝑥) = {2 − 𝑥2 |𝑥| ≤ 22 |𝑥| > 2  
+if ℎ(𝑥) = 𝑓(𝑔(𝑥)) then the interval in which  
+ℎ(𝑥) = 1 for all value of 𝑥 in that interval   
+ (a) |𝑥| ≤ √2  (b) |𝑥| ≤ √3 
+ (c) 
+1
+2 ≤ |𝑥| ≤ √3  (d) 1 ≤ |𝑥| ≤ √3 
+21. The number of values of θ in interval [0,2𝜋] for 
+following homogeneous system of equations has 
+non trivial solution is  
+ 𝑥 + (sin 𝜃)𝑦 + (cos 𝜃)𝑧 = 0 
+ 𝑥 + (cos 𝜃)𝑦 + (sin 𝜃)𝑧 = 0 
+ 𝑥 − (sin 𝜃)𝑦 − (cos 𝜃)𝑧 = 0 
+ (a) 0   (b) 2 
+ (c) 6   (d) 4 
+22. Let R ⊂ N × N which of the following statement is 
+necessarily true  
+(a)  If for all a ∈ N the set 𝑅𝑎 is infinite then cardinality 
+of R is larger than that of 𝑅𝑎 
+(b)  For all each a ∈ N the set 𝑅𝑎 = {𝑏 ∈ 𝑁: (𝑎, 𝑏) ∈ 𝑅} 
+has cardinality at most 1 than R represent function  
+𝑓: N → N  
+(c)  If for some a ∈ N the set 𝑅𝑎 is infinite then 𝑅𝑎 and 
+R have same cardinality 
+(d)  If for each b ∈ N the set 𝑅𝑏 = {𝑎 ∈ 𝑁: (𝑎, 𝑏) ∈ 𝑅} 
+has cardinality atmost 1, then R represent a 
+function 𝑓: N → N  
+23. The number of ordered tuples (𝑝, 𝑞, 𝑟)  in truth 
+table for each statements (¬𝑝⋁𝑞) ⇒ r is true is  
+ (a) 3   (b) 4 
+ (c) 2   (d) 5 
+24. 𝑡𝑎𝑛−1(3𝑥) + 𝑡𝑎𝑛−1(2𝑥) = 𝜋4 then  
+find the value of 𝑥  
+ (a) 2    (b) 1 
+ (c) ∞   (d) 0 
+25. If x, y, z satisfy equation  
+x + y + z = 1 
+ 4x + 9y + 16z = 25 
+ 16x + 18y + 256z = 625.  
+Find the value of x.  
+ (a) x = 
+15
+36   (b) x = −
+15
+36 
+ (c) x = 
+36
+15   (d) x = −
+36
+15 
+26. In tution batch of 2 students the probability that X 
+will pass the exam is 
+2
+5 that of Y is 
+3
+4. What is the 
+probability that neither X nor Y will pass exam? 
+Assume that  outcome of exam for X and Y are 
+independent of each other   
+ (a) 
+1
+5   (b) 
+1
+10 
+ (c) 
+3
+20   (d) 
+3
+10 
+
+=== PAGE 4 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+27. Find the acute angle at which curves y = (𝑥 − 2)2 
+and y =  −4 +  6x − 𝑥2 intersect. 
+ (a) 𝑡𝑎𝑛−1 57  (b) 𝑡𝑎𝑛−1 67 
+ (c) 𝑡𝑎𝑛−1 47  (d) 𝜋4 
+28. Find the value of n if  
+(∑(−1)𝑘−1
+𝑛
+𝑘=1
+𝑘)
+2
+−  ∑(−1)𝑘−1
+𝑛
+𝑘=1
+𝑘2 + 2450 = 0 
+ (a) 101   (b) 100 
+ (c) 98   (d) 93 
+29. Let 𝐴1, 𝐴2, 𝐴3  are event in sample space with 
+condition 𝐴1  ∩ 𝐴2 ≠ ϕ then always  
+ (a) 𝑃(𝐴1 ∩ 𝐴2 ∩ 𝐴3) = 𝑃(𝐴1)𝑃 (𝐴1𝐴2) 𝑃 ( 𝐴1(𝐴2∩𝐴3)) 
+ (b) 𝑃(𝐴1 ∩ 𝐴2 ∩ 𝐴3) = 𝑃(𝐴1)𝑃 (𝐴2𝐴1) 𝑃 ( 𝐴3(𝐴1∩𝐴2)) 
+ (c) 𝑃(𝐴1 ∩ 𝐴2 ∩ 𝐴3) =  𝑃(𝐴1) 𝑃 (𝐴3𝐴2) 
+ (d) 𝑃(𝐴1 ∩ 𝐴2 ∩ 𝐴3) = 𝑃(𝐴1) 𝑃 (𝐴2𝐴3) 
+30. Segments of lines 2x+3y =1 and 4x -3y=11 are 
+diameter of a circle of area 153.94 square units . 
+Then the equation of circle with integer radius is. 
+ (a) 𝑥2 + 𝑦2 + 4𝑥 − 2𝑦 − 44 = 0 
+ (b) 𝑥2 + 𝑦2 − 4𝑥 + 2𝑦 + 44 = 0 
+ (c) 𝑥2 + 𝑦2 − 4𝑥 + 2𝑦 − 44 = 0 
+ (d) 𝑥2 + 𝑦2 + 4𝑥 − 2𝑦 + 44 = 0 
+31. Let X and Y be t wo independent identically  
+distributed Bernaulli random variables with 
+common probability mass function: P (𝑋 = 1) = 12 
+and P(𝑋 = 0) = 12 . If z = XY then distrubtion of Z is  
+ (a) Bernaulli with P(𝑍 = 1) = 23 and P(Z = 0)  = 13 
+ (b) Bernaulli with P(𝑍 = 1) = 12 and P(Z = 0)  = 12 
+ (c) Bernaulli with P(𝑍 = 1) = 14 and P(Z = 0)  = 34 
+ (d) Bernaulli with P(𝑍 = 1) = 13 and P(Z = 0)  = 23 
+32. Given observations 10, 4, 11, 6, 17, 15, 9, 8, x and 
+mean = mode = median. find the value of x 
+ (a) 12   (b) 10 
+ (c) 9   (d) 11 
+33. Find Mode 
+Class Interval No. of Students. 
+20-25 8 
+25-30 14 
+30-35 20 
+35-40 18 
+40-45 10 
+45-50 6 
+ (a) 34.12   (b) 33.75 
+ (c) 31.67   (d) 32.14 
+34. BC = a, AC = b and AB = c are sides of ∆ABC and  
+∠C ≠ 
+𝜋
+2. Which of the following is not correct?  
+ (a) 
+𝑎−𝑏
+𝑎+𝑏 = 𝑐𝑜𝑡 (
+𝐴+𝐵
+2 ) 𝑡𝑎𝑛 (
+𝐴−𝐵
+2 ) 
+ (b) 
+𝑎−𝑏
+𝑎+𝑏 =
+𝑡𝑎𝑛(𝐴−𝐵2 )
+𝑡𝑎𝑛(𝐶2)  
+ (c) 
+𝑎−𝑏
+𝑎+𝑏 =
+𝑠𝑖𝑛 𝐴−𝑠𝑖𝑛 𝐵
+sin 𝐴+sin 𝐵 
+ (d) 
+𝑎
+𝑠𝑖𝑛𝐴 =
+𝑏
+𝑠𝑖𝑛𝐵 =
+𝑐
+𝑠𝑖𝑛𝐶 
+35. Which of the following is not same as  
+ (𝐴∆𝐵) ∩ 𝐶 
+ (a) (𝐴 ∩ 𝐶)∆(𝐵 ∩ 𝐶) 
+ (b) (𝐴 ∩ 𝐵 ∩ 𝐶)𝑐 ∩ ((𝐴 ∪ 𝐵) ∩ 𝐶)  
+ (c) ((𝐴 ∩ 𝐵𝑐) ∩ 𝐶) ∪ ((𝐵 ∩ 𝐴𝑐) ∩ 𝐶) 
+ (d) (𝐴 ∩ 𝐵)𝑐 ∩ 𝐶 
+36. The distance (in meter) for 7 throw of shotputter 
+are 14.5, 15.2, 16.8, 17.1, 15.9, 16.3, 14.7  calculate 
+sample mean and sample standard deviation  
+ (a) 14.79, 0.88  (b) 15.79, 1.02 
+ (c) 14.79, 1.15  (d) 15.79, 0.96 
+37. Which of the following equation represent 
+common tangent to parabola  
+y = −𝑥2 and y = (𝑥 − 2)2? 
+ (a) y = -5x + 
+25
+4   (b) y = -4x + 4 
+ (c) y = 4x + 4  (d) y = 5x + 
+25
+4   
+38. lim
+𝑥→0
+|𝑥|𝑙𝑜𝑔𝑒(1+|sin 2𝑥|)
+𝑥2(|𝑥|+3)  
+ (a) Do not exists  
+ (b) exists and is equal to 
+2
+3 
+ (c) exists and is equal to 
+1
+3 
+ (d) exists and is equal to 0 
+
+=== PAGE 5 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+39. Consider graph of function 
+𝑓(𝑥) = 2cos (𝑥2) + 3 , 𝑔(𝑥) = 4 
+The number of point of intersection of two graphs 
+in interval [0,4𝜋] is  
+ (a) 1   (b) 3 
+ (c) 2   (d) 4 
+40. Let 𝑥 − 𝑦 𝑡𝑎𝑛35 = 𝑡𝑎𝑛25(𝑦 + 𝑥 tan 35)  for some 
+𝑥, 𝑦 ∈ 𝑅 then which of the following is true. 
+ (a) 𝑥 < 𝑦   (b) 𝑥 > 𝑦 
+ (c) no such 𝑥, 𝑦 exists  (d) 𝑥 = 𝑦 
+41. 𝑥, 𝑦, 𝑧 are positive real number such that  
+√𝑥 + 𝑦 − 3√𝑦 + 𝑧 = 2 and 4𝑥 − 5𝑦 − 9𝑧 = 8.  
+Find √
+20𝑥+38𝑦+18𝑧+1
+9𝑧+9𝑦+2  
+ (a) 3   (b) 4 
+ (c) 5   (d) 6 
+42. An engine er standing at point P wishes to 
+determine the width of new rectangular pond. She 
+find distance to western most point A of Pond from 
+P to be 60 meter, while the distance to the northern 
+most point B of pond from P is 80 meter. If angle 
+between to lines of sight at P is 60° then width AB 
+in (meter) of pond is (AB not parallel to line of north-
+south)  
+ (a) 13√20  (b) 13√10 
+ (c) 20√13  (d) 10√13 
+43. For given sample the computed values of variance 
+and forth central movement are 3, 63 respectively. 
+Then underlying frequency distribution is classified 
+as  
+ (a) Lepetokurtic   (b) Mesokurtic 
+ (c) Platykurtic  (d) Normal  
+44. Coefficient of 𝑥10 in the expansion of  
+(𝑥2 + 1𝑥)12 + (𝑥 + 1𝑥2)12 
+ (a) 12   (b) 66 
+ (c) 112   (d) 0 
+45. Let (𝑥0, 𝑦0) ∈ 𝑍2 be point on staright line  
+8𝑥 − 3𝑦 = 11 which is equidistant from coordinate 
+axes. Then point (𝑥0, 𝑦0) will lie only in 
+ (a) II quadrant  (b) III quadrant 
+ (c) I quadrant  (d) IV quadrant 
+46. Define relation ~ on set {1,2, … … … . . , 10} by a ~ b 
+if a – 2b is divisible by 3 then  
+(a)  ~ is transitive but neither symmetric nor 
+reflexive  
+(b)  ~ is reflexive but neither symmetric nor 
+transitive   
+(c)  ~ is symmetric but neither reflexive nor 
+transitive 
+(d)  ~ is not symmetric not reflexive not transitive  
+47. For a ∈ R, consider real valued function defined  
+on (−1, 1)  
+𝑓(𝑥) = {
+(1+𝑥)1/3−(1+2𝑥)1/4
+𝑥 , 𝑥 ≠ 0
+𝑎, 𝑥 = 0
+ ,  
+if  𝑓 is differentiable at 𝑥 = 0 then value at a + f’(0) 
+is  
+ (a) 
+19
+72   (b) 
+7
+72 
+ (c) 
+31
+72   (d) −
+1
+6 
+COMPUTER 
+ 
+48. Consider the following statement about range of 
+number in 9 bit 1’s complement and 2’s 
+complement system.  
+I.  In 9 bits 1’s complements the range is -255 to 
++ 255 and their exist, two represent ation of 
+zero. 
+II.  In 9 bits 2’s complements the range is -256 to 
++255, both 1’s completments and 2’s 
+completments can represent  exactly 512 
+unique value  
+III.  The maximum positive number representable 
+is +255 in both 1’s completments and 2’s 
+completments 8 bit system  
+ (a) I, III    (b) II, III 
+ (c) I, II, III   (d) I, II 
+49. Which one of disadvantage of using dynamically 
+linked library (DLL) compared to using statically 
+linked library 
+(a)  A program can not take advantage of bug fixes 
+in DLL, long after the program written  
+(b)  Executable file size is larger with DLL 
+(c)  None of other option 
+(d)  RAM usage is larger with DLL  
+
+=== PAGE 6 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+50. Which about fetch decode execute cycle in CPU are 
+correct? 
+I. Program counter is incremented after each 
+instruction is fetched so the CPU move to the 
+next instruction. 
+II. The Control Unit is responsible for fetching 
+instruction and placing them in the instruction 
+register.  
+III.  The ALU is responsible for decoding 
+instruction and determining which operation 
+to perform. 
+IV. Register are used to permanently store 
+operating system’s files for fast access.  
+ (a) III, IV   (b) II, III 
+ (c) I, II, III   (d) I and II  
+51. When navigating to websie your computer send a 
+request to server. I f the server’s IP address is not 
+known which system is responsible for translating 
+the human readable URL into machine readable IP 
+address 
+ (a) HTTP   (b) SSD 
+ (c) DNS   (d) SMTP 
+52. Binary multiplication of 1100, 1011  
+ (a) 10000100  (b) 10000110 
+ (c) 10001000  (d) 11111100 
+53. Which component of web broser is responsible for 
+taking HTML, CSS, JAVA Script code and turning it 
+into visual page you interact with 
+ (a) Rendering Engine 
+ (b) Transport Layer Security protocal 
+ (c) Javascript Engine 
+ (d) Network Protocal Stack 
+54. The decimal  equivalent 8 -bit two’s complement 
+number 11010011 
+ (a) -211   (b) -45 
+ (c) -44   (d) +211 
+55. The order of memory increasing access speed  
+ (a) RAM → HD → Cache → CPU Register 
+ (b) Cache → RAM → CPU Register → HD 
+ (c) HD → Cache → RAM → CPU Register 
+ (d) HD → RAM → Cache → CPU Register 
+56. Which protocal is used specifically by email client 
+to read email from email server 
+ (a) ICMP   (b) DNS 
+ (c) SMTP   (d) IMAP 
+57. Cookies in context of wer browsing 
+(a)  Viruses that are used to steal user’s sensitive 
+data 
+(b)  The list of all website that user has visited in 
+previous browsing. 
+(c)  Small text file store on the user’s computer to 
+save site prefrences. 
+(d)  Deleting all your cookies will wipe your 
+browser’s history and permanently delete your 
+email drafts. 
+58. In standard machine language instruction which 
+component identifies the specific operation to be 
+performed such as addition or date movement 
+ (a) Register  (b) Opcode 
+ (c) Oprand  (d) Immediate Address 
+REASONING 
+ 
+59. Trains pass through Park Street station at regular 
+intervals of 45 minutes. 
+A man is standing at the station. He knows that the 
+previous train passed 15 minutes ago, and the next 
+train will arrive at 9:45 AM. 
+What is the current time? 
+(a) 9:00 AM   (b) 9:15 AM 
+(c) 9:30 AM  (d) 9:45 AM 
+60. Find the next term in the following sequence: 
+28, 327, 464, 5125, ? 
+(a) 6125   (b) 6216 
+(c) 7216   (d) 6126 
+61. Suresh first travels 18 km towards the West. He 
+then turns left and travels 14 km. After that, he 
+turns right and travels 11 km. He again turns right 
+and travels 7 km. Then he turns left and travels 16 
+km. Finally, he turns right and travels 9 km, where 
+he stops. 
+What is the final direction in which Suresh is 
+moving when he stops? 
+(a) North   (b) East 
+(c) South   (d) West 
+
+=== PAGE 7 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+62. Find the missing number (?) in the following 
+pattern: 
+4 5 3 2 0 
+7 3 4 4 21 
+6 4 4 5 22 
+9 6 5 5 ? 
+  
+(a) 44   (b) 42 
+(c) 34    (d) 45 
+63. In a family of seven members, namely P1, P2, P3, 
+P4, P5, P6, and P7, the following information is 
+known: 
+1. P4 is the sister of P7. 
+2. P2 is the mother of P6's wife. 
+3. P6 is the son-in-law of P3. 
+4. P5 and P7 are the grandsons of P3. 
+5. In the family, there are exactly: 
+2 fathers 
+2 mothers 
+2 brothers 
+1 sister 
+Based on the above information, what is the 
+relationship between P1 and P4? 
+(a) Brother and Sister 
+(b) Mother and Daughter 
+(c) Husband and Wife 
+(d) Father and Son 
+64. Study the following statements and conclusions 
+carefully. 
+Statements: 
+1. Some Professors are Doctors. 
+2. All Doctors are Patients. 
+Conclusions: 
+I. Some Professors are Patients. 
+II. No Doctor is a Professor. 
+Which of the following is correct? 
+(a) Only Conclusion I follows. 
+(b) Only Conclusion II follows. 
+(c) Both Conclusions I and II follow. 
+(d) Neither Conclusion I nor II follows. 
+65. Study the following statements and conclusions 
+carefully. 
+Statements: 
+1. All Polymers are Cakes. 
+2. Some Plastics are not Cakes. 
+3. All Plastics are Synthetic Fibers. 
+Conclusions: 
+I. Some Synthetic Fibers are not Cakes. 
+II. Some Cakes are Synthetic Fibers. 
+III. No Polymer is a Plastic. 
+IV. Some Polymers are Synthetic Fibers. 
+(a) Only I and III follow. 
+(b) Only I follows. 
+(c) Only I, II and III follow. 
+(d) Only I and IV follow. 
+66. In a survey, 70% of cat owners also own a dog, 
+while only 20% of dog owners also own a cat. 
+If there are 1001 dog owners, how many cat owners 
+are there? 
+(a) 453   (b) 254 
+(c) 771   (d) 286 
+67. Five years ago, A's age was three times B's age. 
+At present, A's age is twice B's age. 
+What is A's present age? 
+(a) 20 years   (b) 25 years 
+(c) 30 years  (d) 35 years 
+68. The sum of x, y, and z is 98. 
+The ratio of x : y = 2 : 3, and the ratio of y: z = 5: 8. 
+What is the value of y? 
+(a) 30   (b) 20 
+(c) 48    (d) 58 
+69. Study the following statements and conclusions 
+carefully. 
+Statements: 
+1. All Z are Y.  2. No Y is X. 
+3. Every X is W. 
+Conclusions: 
+I. Some W are Z.  II. Z are not X. 
+(a) Only Conclusion I follows. 
+(b) Only Conclusion II follows. 
+(c) Both Conclusions I and II follow. 
+(d) Neither Conclusion I nor II follows. 
+
+=== PAGE 8 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+70. In a group of people: 
+70 play only Hockey. 
+100 play only Football. 
+30 play both Hockey and Football. 
+150 play neither game. 
+What percentage of the people play Hockey? 
+(a) 28.57%  (b) 46.6% 
+(c) 66.6%   (d) 20% 
+71. The price of LPG increases by 16%. By what 
+percentage should consumption be reduced so 
+that the total expenditure remains the same? 
+(a) 13.79%  (b) 16.67% 
+(c) 13.30%  (d) 15.26% 
+72. Five persons P, Q, R, S, and T are standing one 
+above another in a vertical line. 
+Q is above R. 
+R is above S. 
+T is at the bottom. 
+P is directly above T. 
+S is above P. 
+Who is at the top? 
+(a) P    (b) Q 
+(c) R    (d) S 
+73. U, V, W, X, Y, Z are standing in line Y is in between 
+V and Z, W is immediate left of V. X is not on either 
+ends. U is right of Z if W is Far left then who is at 
+4th position from left. 
+ (a) U or V  (b) X or Y 
+ (c) V or W  (d) W or Z 
+74. Kritika has three solid objects cone, hemisphere, 
+cylinder. All have same base , radius, height then 
+the ratio of volume of  
+cylinder : cone : hemisphere 
+ (a) 1 : 2 : 3  (b) 1 : 1 : 1 
+ (c) 3 : 1 : 2  (d) 2 : 1 : 3 
+75. Indian Child are very talented but are instead weak 
+in Science and Mathematics  
+ Course of Action: 
+ I. Teaching and Text book are not available in 
+mother language  
+II. Education based on experiment in both subject is 
+lacking  
+ (a) Only II follows 
+ (b) Only I follows 
+ (c) neither I nor II follows 
+ (d) either I or II follows 
+76. 72, 69, 66, ……………. Number continue in same 
+pattern as long as they remain positive. What will 
+the maximum sum of terms.   
+ (a) 903   (b) 897 
+ (c) 900   (d) 882 
+77. Ten people went out for dinner. 
+Nine of them contributed ₹400 each, while the 
+tenth person contributed an amount that was *900 
+more than the average contribution of the entire 
+group. 
+How much did the tenth person contribute? 
+(a) ₹1000   (b) ₹1200 
+(c) ₹1300   (d) ₹1400 
+78. The sum of four numbers A, B, C, and Dis 10,600. 
+Without A, the average of B, C, and D is 1,000. 
+Without B, the average of A, C, and Dis 3,220. 
+Without C, the average of A, B, and D is 3,180. 
+Find the value of D. 
+(a) 880   (b) 7600 
+(c) 1000   (d) 1120 
+79. The sum of X, Y, W, and Z is 84. 
+The sum of Y, W, and Z is three times X. 
+The sum of X, W, and Z is 320% of Y. 
+W is 20% of the sum of X, Y, and Z. 
+Find the value of Z. 
+(a) 29   (b) 42 
+(c) 32    (d) 40 
+80. In a certain code language, 
+INDIA → JLGEF 
+Then how will ROME be written in that code 
+language? 
+(a) SMPA   (b) SNPA 
+(c) TMQA  (d) SLPB 
+81. In a certain code language, 
+FALSE is written as: 
+6, 1, 12, 19, 5 
+which represents the alphabetical positions of its 
+letters. 
+How will LOGIC be written in that code language? 
+(a) 12, 15, 7, 9, 3  (b) 11, 15, 8, 9, 3 
+(c) 12, 16, 7, 8, 3  (d) 13, 15, 7, 9, 2 
+
+=== PAGE 9 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+82. Arun pointed to a woman and said: 
+"She is the daughter of my father's only son." 
+What is the woman's relation to Arun? 
+(a) Sister   (b) Daughter 
+(c) Cousin  (d) Mother  
+83. Match the words in Column I with the most 
+appropriate words in Column II. 
+ Column I  Column II 
+A.  Conduct 1.  A Theory 
+B.  Refute 2.  A Study 
+C.  Propose 3.  Data 
+D.  Analyze 4.  An Argument 
+(a) A-2, B-4, C-1, D-3 
+(b) A-1, B-2, C-4, D-3 
+(c) A-2, B-1, C-3, D-4 
+(d) A-3, B-4, C-2, D-1 
+84. What is the synonym of Anthropogenic? 
+(a) Natural  (b) Super-induced 
+(c) Human-induced (d) Synthetic 
+85.  Simplify the Boolean expression:  
+(x+y'+z')(x+y'+z)(x+y+z') 
+(a)  x + y'z'  (b)  x + yz 
+(c)  x' + y'z'  (d)  xy' + z' 
+86.  RAM consists of 16GB, there are 100 processes, 
+each process is on an average of 100MB each. Will 
+virtual RAM be necessary? 
+(a)  No, because the total memory required 
+(approx. 10 GB) is less than the available 16 GB 
+physical RAM. 
+(b)  Yes, because the OS reserves 10GB by default, 
+leaving insufficient space. 
+(c)  Wrong Option 2: Yes, because 100 processes 
+exceed the multitasking thread limit of 
+physical RAM. 
+(d)  No, because virtual RAM is exclusively used 
+for hard disk storage space, not running 
+processes. 
+87.  There are 2 circular disks which have 4 surfaces in 
+total. There are 5000 tracks, 2000 each. How much 
+will the Reader read without moving? 
+(a) cylinder (or 4 tracks)  
+(b) 20,000 tracks  
+(c) 5,000 tracks   
+(d) 2 tracks  
+ 88.  Fetch - Decode - Execute cycle of CPU is called? 
+ (a) Instruction Cycle 
+ (b) Data Pipelining Cycle 
+ (c) Memory Allocation Cycle 
+ (d) Interrupt Handling Cycle 
+89.  Which of the following is a difference between 
+POP3 and IMAP? 
+(a)  POP3 downloads emails to one device and 
+deletes them from the server, while IMAP syncs 
+emails across devices and keeps them on the 
+server. 
+(b)  POP3 is used for sending emails, while IMAP is 
+used strictly for receiving them. 
+(c)  IMAP requires a continuous internet 
+connection to read downloaded emails, 
+whereas POP3 allows offline reading. 
+(d)  POP3 encrypts messages by default, whereas 
+IMAP sends messages in plain text format.  
+ 
+ 
+ANSWER KEY 
+1. 2. 3. 4. 5. 
+d b a c b 
+6. 7. 8. 9. 10. 
+c b d c d 
+11. 12. 13. 14. 15. 
+d b c c b 
+16. 17. 18. 19. 20. 
+a c b a d 
+21. 22. 23. 24. 25. 
+d b d d a 
+26. 27. 28. 29. 30. 
+c b d b c 
+31. 32. 33. 34. 35. 
+c b b b c 
+36. 37. 38. 39. 40. 
+b b b c b 
+
+=== PAGE 10 ===
+MAARULA CLASSES  
+  
+ 
+ 
+ 
+ 
+  
+   TARGET- NIMCET / CUET.PG   By: Amit Katiyar (MCA-JNU) 
+          
+     
+ ADDRESS: 117/466, O Block, Geeta Nagar, Sharda Nagar, NEAR: ANURAG HOSPITAL Kanpur, Uttar Pradesh 208025  
+  
+  9935985550 9554548576   
+  
+0512-3163515  website: www.question.maarula.in  
+NIMCET-2026 
+ 
+OFFICIAL PAPER 
+  
+ 
+  Scan the QR & Download Our App Now. 
+          
+     
+ 
+41. 42. 43. 44. 45. 
+a c a d d 
+46. 47. 48. 49. 50. 
+c b d c d 
+51. 52. 53. 54. 55. 
+d c c a b 
+56. 57. 58. 59. 60. 
+b c b b b 
+61. 62. 63. 64. 65. 
+a a b a b 
+66. 67. 68. 69. 70. 
+d a a b a 
+71. 72. 73. 74. 75. 
+a b d c a 
+76. 77. 78. 79. 80. 
+b d c a a 
+81. 82. 83. 84. 85. 
+a b a c a 
+86. 87. 88. 89. 90. 
+a a a a  
+91. 92. 93. 94. 95. 
+     
+96. 97. 98. 99. 100. 
+     
+101. 102. 103. 104. 105. 
+     
+106. 107. 108. 109. 110. 
+     
+111. 112. 113. 114. 115. 
+     
+116. 117. 118. 119. 120. 
+     
+121. 122. 123. 124. 125. 
+     
+  
+

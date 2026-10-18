@@ -1,0 +1,825 @@
+=== PAGE 1 ===
+www.impetusgurukul.com 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319 NIT ACTUAL 2017 |1
+SECTION-A (ENGLISH)
+Directions :Read the following passage and answer the
+question 1 to 5
+Anthropologists have placed together the little they
+known about the history of left - handedness and right -
+hand handedness from indirect  evidence .Though early
+men and women did not leave written record, they did
+leave tool bones and picture . Stone Age hand axes and
+hatches made from stone that were carefully chipped
+away made to from sharp cutting edges. In some , the
+pattern of chipping shows that these tools and weap-
+ons were made by right  handed people,designed to fit
+comfortably into a right hand .Other Stone Age imple-
+ment were made by or for left hander,Perhistoric pic-
+tures, painted on walls of caves, provider further clues
+to the handedness of ancient people. A right - hander
+ finds it easier to draw faces of people and animals
+ facing towards the left  wherea s a left - hander finds it
+easier to draw faces towards the right .Both kind of face
+have been found in ancient painting.On the whole , the
+evidence seems to indicate that  prehistoric people were
+either ambidextrous or about equally likely to be left or
+right handed. But in the Bronze Age.The picture changed
+The tool and wepon found from that Period are mostly
+made for right handed use .The predominance of right
+- handedness among humans today and apparently
+already been established.
+1. What is the indirect evidence through which the pre-
+ferred handedness of the Stone Age people could be
+understood ?
+(a) Pertified froms of vegetation
+(b) Patterns of stone chipping
+(c) Fossilized waste material
+(d) Fossilized foot prints
+2. According to the passage , a person who is right -
+handed is more likely to draw people and animals that
+are facing
+(a) Upwards  (b) Downwards
+(c) Towards the right (d)  Towards the left
+3. What does the wors “picture” mentioned with refrence
+to Bronze Age mean
+(a) Face of Animals and people
+(b) People’s  view from in side the cave
+(c) People’s tendency to work with either hand
+(d) The kinds of paint used on cave walls
+4. Which of the following development occored around the
+time of Bronze Age ?
+(a) The establishment written records
+(b) A change in the styles of cave painting
+(c) A increse in human skill in the handling of tools
+(d) The prevalence of right handedness
+5.  What is the main idea conveyed through the passage ?
+(a) The picture of ancient implements
+(b) The significance of prehistoric cave paintings
+NIMCET  -  (ACTUAL - 2017)
+(c) The history of right - handedness and left - handed
+-ness
+(d) The pattern of chipping ancient tools
+6. Which of the following refer to the idiom “under the
+sun” ?
+(a) Anything and everything
+(b)  Alarge number of things
+(c) A few things
+(d) Somthing
+7. Choose a phrasal verb to replaced the explanation in
+brackets :
+When we arrive at the station, we (deseced from) _____
+the train .
+(a) get down (b) stand down   (c) get off (d) stand out
+8. Choose the suitable word from the following and fill in
+the blank :
+The medal was awarded for the student’s _______
+conduct and courage
+(a) non receptive (b) exemplary
+(c) unrelible (d) dis[utable
+9.     Which of the following is a correctly spelt word ?
+(a) Hiderence (b) Hindrence
+(c) Hindarrence (d) Hindrance
+10. Which of following statements is grammatically correct?
+(a)  The earth revolves round the sun
+(b)  I have not seen him since four years
+(c) she met an one- eyed man
+(d) One of the books borrowed by the students are
+famous
+11. Choose the set of words from among the alternatives
+given , which when inserted in the sentence best suit
+the meaning of the sentence .
+The _______ of evidence was on the side of plaintif
+since all but one witnesses testify his story was ____
+ (a) paucity , accurate (b) prosperity , far- fetched
+(c) prepondenrance, correct   (d)accuracy, insufficient
+12. Choose the one which is nearest in meaning to the
+word “TURN UP”
+(a) Show up (b) Some up (c) Land up  (d) Crop up
+13.  The phase “Ready to believe” means
+(a) Credulous (b) Creditable
+(c) Credible (d)  Incredible
+14.   Choose the appropriate words from among the choices
+to fill in the blank in sentence :
+(a) impair (b) impede (c) impose   (d) impel
+=== PAGE 2 ===
+2| NIT ACTUAL 2017 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319         www.impetusgurukul.com
+15. Choose the set of words for each blanks that best fits
+the meaning of the following sentence as a whole :
+_______ green and black tea are obtained from the
+same plant , there are quite a few significant differences
+______ them .
+(a) Since , among (b) However, in
+(c) Though , between (d) Because , across
+16.  Choose the correct alternatives which can be subsituted
+for the given word / sentence :
+(a)  Hermit (b) Pilgrim (c) Saint (d) Medicant
+17. Pick out the most effective word from the give words to
+fill tn the blanks to make the sentence meaningfully
+complete :
+Some people _______ themselves into believing that
+they are indispensable to the organization they work for.
+(a) keep (b) fool  (c) delude (d) denigrate
+18. Fill  in the blanks with appropriate phase to make the
+sentence meaningfully complete ,
+(a) In case (b) In case of
+(c) In case to (d) In case from
+19.  In the following sentence , choose the most suitable
+one word for all expression
+“ A  book containing summarized information on all
+branches of knowledge ”
+(a) Dictionary (b) Anthology
+ (c) Encyclopedia  (d) Directory
+20. Pick out the most effictive word from the given word to fill
+in the blanks to make the sentence meaningful com-
+pletely
+The man was about to move his bike into the com-
+pound of his apatrment when a passer by ________
+down te motor cycle.
+(a) Forced     (b) Fell     (c) Turned   (d) Knocked
+SECTION-B ( COMPUTER)
+21. Which one of the following boolean algebraic rule is
+correct?
+(a) A .A’=1    (b) A+AB=A+B
+(c) A+A’B = A+B    (d)A(A+B)+B
+22. The representation of a floation point binary number
++1001.11 in 8 -bit fraction and 6-bit exponent formate is
+(a) Fraction : 01001110 exponent : 000100
+(b) Fraction : 00001001 exponent : 000011
+(c) Fraction : 10010000 ex0ponent : 110000
+(d)  Fraction 00100100 exponent :011000
+23. Which term is redudent is the expression AB+A’C+BC?
+(a) BC  (b)A’C  (c)AB (d)None
+24. Let the memory access time is 10 milliseconds and
+cache hit ratio 15 % .The effective memory access time
+is ?
+(a) 2 milli seconds (b) 1.5 milli seconds
+(c) 1.85 micro seconds  (d) 1.85 millu seconds
+25.    Which of the following is the representation of decimal
+number (- 147) in 2’s compliment notation on a 12-bit
+machine ?
+(a) 111101101100 (b) 110001001101
+(c)  111101101101 (d) 000001101101
+26. The first instructor of bootstrap loader program of an
+operating system is stored in
+(a) RAM (b) Hard Disk (c) BIOS (d) None
+27. Consider the equation yx )132()40(  in some
+bases x and y . Then a possible set of values of x and y
+are
+(a) 8 and 12  (b) 12 and 8 (c) 6 and 12 (d) 12 and 6
+28. The smallest integer that can be represented by an 8-
+bit number in 2’s complement form is
+(a) -256    (b) -128 (c)  127         (d) -255
+29. Which of the following is a functionally complete set of
+gates ?
+(i) NAND (ii) NOR
+(a)      I but not II (b) II but not I
+(c) Neither I not II (d) Both I and II
+30. The toal number of binary function that can be defined
+using n boolen variable is
+(a) 12 n (b) n2
+(c) 12 n (d) None
+SECTION-C (Reasoning )
+31. Two person S and M have made the following state-
+ment among themselves .
+ * S says that I am certainly not over 40 years .
+ * M says that I am 38 years and you are at least 5 years
+older then me .
+ *S says you are at least 39 yaers.
+If all the above statments are wrong , what are the ages
+of M and S ?
+(a) 36 and 40 (b) 36 and 41
+(c) 37 and 40  (d) cannot be determined
+32. What is the smallest number of positive integer to be
+picked up randomly so that the sum or difference of any
+two of the chosen number is divisible by 10  ?
+(a) 2 (b) 5 (c) 7  (d) 10
+=== PAGE 3 ===
+www.impetusgurukul.com 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319 NIT ACTUAL 2017 |3
+33. Five children were administered psychological tests to
+know their intellectual levels . In the report psychogists
+point that child A is less intelligent than child B . The
+child C is less intelligent then D , The child B is less
+intelligent then child C and child A is less intelligent
+than child E . Which child is most intelligent  ?
+(a) D only (b) E only
+(c) D or E  (d) Neither D and E
+34. From a group of 7 men and 6 women , a committee of 5
+person with more males than females is to be formed .
+In how many ways can this be done ?
+(a) 564 (b) 645 (c) 735  (d) 756
+35. A.,B,C,D,E and F are a group of friends from a club .
+There are two house wives , one lecturer , one architect
+, one accountant and one lawyer in the group . There
+are two married couples. The lawyer is married to D ,
+Who is a house wife . No lady is either an archirect or an
+accountant . C, the accountant is married to F , Who is a
+lecturer.If E is not a house wife ,What is the profession
+of E ?
+(a) Lawyer (b) Architect (c) Lecturer  (d)Accountant
+36. There are five books A,B,C,D and E placed on a table . If
+A is placed below E , C is placed above D , B is placed
+below A and D is placed above E , then which of the
+following books  touches the surface of the table .
+(a) C (b) B (c) A  (d) E
+37. The following series is obtained by considering repre-
+sentations of decimal 99 in different number systems .
+99, 90 , 83 , 78 ___ , ___
+(a) 71 , 69 (b)69, 57 (c)67 , 59  (d)69 , 63
+Directions : 38  to 40 are based on the following :
+* In the family of six person A, B, C , D , E and  F , there
+are two married couples .
+*  D is the grandmother of A and mother of B
+* C is wife of B and mother of F
+ * F is granddaughter of E
+38.     What is C to A ?
+(a) Daugher  (b) Mother
+(c) Father  (d) Can not be determined
+39. Which of the following is true ?
+(a) A is brother of F  (b) A is sister of F
+(c) B has two daughters  (d)None
+40. Who among the following is one of the couples ?
+(a) CD (b) DE (c) EB  (d) None
+41. The missing number in the following series 336, 210 ,
+120, 60 , ________, 6 is
+(a) 24 (b) 30 (c) 34  (d) 40
+42. If the day after the day after tomorrow is  three days
+before Friday , then today is
+(a) Tuesday     (b) Thrusday    (c) Saturday  (d) Monday
+43. Find the missing term of the following series?
+DCXW, HGTS, .........POLK , TSHG
+(a) KLOP (b) LKOP (c) KLPO (d) LKPO
+44.  Four passenger in a train find that they from an inter-
+esting group .Two of them are lawyers and the other two
+are doctor .Two of them speak Bengoli and the other
+two speak Hindi and no two of the same profession
+speak the same language . They also find two of them
+are Christions and two are muslims and non two of the
+same religion speak the same language. The Hindi
+speaking doctor is a Christian . Then which of the fol-
+lowing statement logically follows ?
+(a) The Bengali Spaeking lawyer  is a Muslim
+(b) The Christian lawyer speaks Bengali
+(c) The Bengali speaking doctor is a Christian
+(d) The Bengali speaking doctor is a Muslim
+Directions : 45  to 47 are based on the following :
+In an amusement park seven friends -Feroz , Gautam ,
+Harish , Javed , Kumar , Laxman and Mohan are decid-
+ing who will ride the roller coaster . There is time for only
+one ride before the park closes.
+*If Feroz rides  Gautam must ride
+*If Gautam and Harish both ride , javed cannot ride
+*If Harish and javad both ride , Laxman cannot ride
+*If javed rides , either kumar or Mohan must ride
+ kumar and Laxman cannot both ride, but one of them
+must ride .
+ *kumar and Mohan cannot both ride .
+45.  Which of the following is an acceptable combination of
+riders if only three people ride ?
+(a) Harish , javed and Laxman
+(b)  Harish , javed and kumar
+ (c) Feroz , Gautam and javed
+ (d) Gautam , kumar and Laxman
+46. If javed and Mohan both ride , which of the following is
+true
+(a) Gautam cannot ride     (b) Harish must ride
+(c) Feroz cannot ride     (d) Laxman must ride
+47. If Feroz  and harish both ride, what is the greatest num-
+ber of people who can ride ?
+(a) 5     (b) 7 (c) 4 (d) 6
+=== PAGE 4 ===
+4| NIT ACTUAL 2017 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319         www.impetusgurukul.com
+48. The number of square in the following 64  grid is
+(a) 36     (b)  44 (c) 50 (d) 54
+49. A Cube is made up of 125 one cm. square cubes placed
+on a table . How many squares are visible only on three
+sides ?
+(a) 4     (b) 8 (c) 12 (d) 16
+50.  Three thieves rob a bakery of bread , one after the other
+, Each thief takes half of what is present and half a
+bread . If 3 breads remains at the end , What is the
+number of breads that were presents initially ?
+(a) 24     (b) 31 (c) 37 (d) 41
+51. A caterpiller crawls up a pole of 75 inches high , stand-
+ing from the ground . Each day it crawls up 5 inches and
+each night it slides down 4 inches . When will it reach
+the top
+(a) At the end of 70 days (b)   At the end of 71 days
+(c) At the end of 72 days (d) At the end of 73 days
+52. A man’s investment doubles in every 5 years . If he in-
+vested Rs. 5000 in each of the years 1990 , 1995 , 2000
+and 2005 , then what was the total amount recieved by
+him in 2010?
+(a) Rs. 1,40,000 (b) 30,000 (c) 70,000 (d) 1,50,000
+Directions : 53  to 57 are based on the following :
+ A.B,C,D,E,F G and H are sitting around a circular table
+facing the center , Each one of them has a different
+profession viz .  doctor , engineer , architect, teacher ,
+clerk , shopkeeper , banker m and businessman
+* A sits third to right of teacher .
+* D sits seconds to left of G .
+* G is not an immediate neighbour of teacher ,
+* Only one person sits between B, the shopkeeper and
+the teacher .
+* The one who is an architect sits third to right of the
+teacher ,
+* H sits between architect and engineer  .
+ *E is not an immediate neighbour of H .
+*  Engineer sits third to the right of clerk .
+* Only  one person sits between the businessman and
+F .
+53. E is neither a businessman nor a doctor . Who amongst
+the following is the clerk ?
+(a) C     (b) D (c) E (d) G
+54. Which of the following is trues with respect to the given
+sitting arrangement ?
+(a) E is an immediate neighbour of the engineer ,
+(b) E is an architect
+(c) The clerk is an immediate neighbour of the banker
+(d) The teacher sits between H and the engineer
+55. What is the profession of H ?
+(a) Architect (b) Shopkeeper
+(c) Banker (d) Teacher
+56. Who sits exactaly between the architect and business-
+man ?
+(a) C and H  (b) Clerk
+ (c) Banker and Shopkeeper  (d) Doctor
+57. Who sits immediately right to the businessman ?
+(a) Teacher (b) Doctor  (c) Clerk   (d) Banker
+58. Raghav left his home for office in car . He drove 15 km
+straight towards North and then turned east wards and
+coverd 8 km . He then turned to left and coverd 1 km . He
+again turned left and drove for 20 km and reached of-
+fice. How far and in which direction is his office from the
+home ?
+(a) 20 km North - West (b) 15 km North - West
+(c) 30 km North - West  (d) 25 km North
+59. Johen is 20 years older than Steve . In 10 year , Steve” s
+age will be half that of John , What is steve’s age now ?
+(a)  2                   (b) 8 (c) 10 (d) 20
+60. Pointing to a boy , Aruna said to Pushpa . “The mother of
+his father wife of your maternal grand - father ”.How is
+pushpa related to that boy?
+(a) Sister (b)Niece   (c) Cousin sister (d) Wife
+61.  Which of the following pairs of number follow the num-
+bers in the series 2,4 ,12 , 24, 72 , ___, ___ ?
+(a) 144,432 (b) 288,332 (c) 332,288 (d) 432,144
+62. P , Q , R,S ,T and U are sitting in two rows , three in each
+row facing each other .
+* R is second to the left of P .
+* Q and T are facing each other .
+* S and P diagonally opposite to each other
+* Q is not a neighbour of R .
+Which of the following sitting in a row ?
+=== PAGE 5 ===
+www.impetusgurukul.com 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319 NIT ACTUAL 2017 |5
+(a) P ,Q,R (b)P ,U,S (c) U,T,S (d) P,T,R
+Directions : 63  to 66 are based on the following :
+There are six teacher A, B, C , D ,E and F in a school ,
+Each teacher has to teach two subjects , one compul-
+sory and the other optional . D’s optional is History ,
+while three others have it as a compulsory subject , E
+and F have Physics as one of their subjects , F ‘s com-
+pulsory subject in Mathematics , which is an optional
+subject of both C and E , History and Englilsh are A’s
+subject but in term of compulsory and optional subjects
+, they are reserved of D’s Chemistary is an optiional
+subject of one of the teachers . There is only one female
+teacher , who has English as her compusory subject ?
+63.     What is compulsory subject of C ?
+(a) Physics (b)Chemistary(c) Englilsh (d) History
+64. Who among the following , has chemistary as a sub-
+ject?
+(a) A (b) B (c) C (d) D
+65. Which of the following group of teacher has History as
+the compulsaory subject ?
+(a) B , C and D  (b) C and D
+ (c) A, B and C (d) A,C and D
+66. Disregrading which is compulsory or optional subject ,
+who has the same two subject combination as that of F
+?
+(a) B (b) E (c) D (d) A
+67. If TRANSFER is coded as RTNAFSRE , then ELEPHANT
+would be coded as ?
+(a) LEPEHATN (b) LEPEAHTN
+(c) LEEPAHTN (d) LEPEAHNT
+68. Which two of the following numbers comes next in the
+following sequence ? 61, 57 , 50 , 61, 43 , 36 , 61 .......
+(a) 29,61 (b)29,20 (c) 29,22 (d) 31,61
+69. How many minimum number of colors will be required
+to paint all the sides of a cube without the adjacent
+sides having the same colors ?
+(a) 3 (b) 4 (c) 5 (d) 6
+70. In the following sequence , which pair of number fill in
+the blanks ?
+1, 1, 3 , 2 , 8,  5 , 21 , 13 ___ , ____
+(a) 54,33 (b) 34,55 (c) 55,34 (d) 33,54
+SECTION-D (Mathematics)
+71. A and B are independent witnesses in a case, the
+chance that A speaks truth is x and B speaks truth is y ,
+If A and B agree on certain statements , the probability
+that the statement is true is
+(a) )1)(1( yxxy
+xy
+ (b) )1)(1( yx
+xy
+
+(c) )1)(1(
+)1)(1(
+yxxy
+yx
+
+
+(d) )1)(1( yxxy
+yx
+
+
+72. The harmonic mean of two number is 4 , Their arith-
+metic mean A and the geometric mean G satisfy the
+relation 272 2  GA  , then the two numbers are
+(a) 4 and 2 (b) 6 and 3 (c) 5 and 7        (d)  4 and 1
+73. In an entrance test there are multiple choice questions
+, with four possible answer to each question of which
+one is correct , The probability that a student knows the
+answer to a question is 90% , If the student gets the
+correct answer to a question , then the is probability that
+he was guessing is
+(a) 37/40 (b) 1/37 (c)36/37 (d) 1/9
+74. A man is known to speak the truth 2 out of 3 times . He
+threw a dice cube with 1 to 6 on its faces and reports
+that it is 1 . Then the probability that it is actually 1 is
+(a) 1/2 (b) 1/7 (c) 2/7 (d) 5/6
+75.   Let A and B be two events such that ?
+andBAPBAP ,41)(,61)(  41)( AP ,
+where A stands for complement of event A. Then the
+events BandA  are
+(a) independent but not equally likely
+(b) mutually exclusive and independent
+(c) equally likely and mutually excllisive
+(d) equally likely but not independent
+76.  The mean and variance of a random variable X having
+a binomial distributon are 4 and 2 respectively , The
+P(X=1) is?
+(a) 1/32 (b) 1/16 (c) 1/8 (d) 1/4
+77. If X  is the mean of a distribution of X  , then under
+usual notation 
+
+
+n
+i
+ii xxf
+1
+)(  is ?
+(a) Mean deviation about mean
+(b) Standard deviation (c)1 (d) 0
+78. If 21 EandE  are two events associated with a ran-
+dom experiment such that ,35.0)( 2 EP
+85.0)( 21 EorEP  and 15.0)( 21 EandEP
+then )( 1EP is ?
+(a) 0.25     (b) 0.35            (c) 0.65 (d) 0.75
+79. Find a matrix X such that 2A+ B+X=0 , where
+
+
+
+ 43 21A   51 23Band ?
+(a) 
+
+
+
+137
+21
+(b) 
+
+
+
+
+
+137
+21
+(c) 
+
+
+
+17
+213
+(d) 
+
+
+
+
+
+17
+213
+80. If in a triangle ABC , the altitudes from the vertices A,B ,C
+on opposite sides are in HP , then Sin A , Sin B , Sin C
+are in ?
+(a) HP (b) Arithmetico-Geometric progression
+=== PAGE 6 ===
+6| NIT ACTUAL 2017 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319         www.impetusgurukul.com
+(c) AP (d) GP
+81. ,  are the roots of an equation 1cos22  xx
+0 then the equation having n  and n  is ?
+(a) 01)cos2(2  xnx 
+(b) 01)cos2(2 2  xnx 
+(c) 01)cos2(2  xnx 
+(d) 01)cos2(2  xnx 
+82. The equation 0)()()( 333  cxbxax  has
+(a) All three real roots
+(b) One real and two imaginary root
+(c) Three real roots , namely czbyax  ,,
+(d) None of these
+83. Three positive number whose sum is 21 are in arith-
+metic progression , If 2,2,14 are added to them added
+to them respectively then resulting number are in geo-
+metric progression .Then which of the following is not
+among the three number  ?
+(a) 25 (b) 13 (c)1 (d)  7
+84.  If nbbSinaaSin 12121 tan21 21 2    then?
+(a) )1(
+)(
+ab
+ban  (b) )( )( aaabn 
+(c) )1(
+)(
+ab
+ban  (d) )1( )1( ababn 
+85.  The value of A that satisfies the equation
+cAbAa  cossin is equal to ?
+(a)    2211 costan ba cba
+(b)    2211 sintan ba abc
+(c)    2211 sintan ba cba
+(d) None
+86. If  22343tan  xandx , then the value of
+x2sin  is ?
+(a) 7/25 (b) -7/25 (c) 24/25 (d) -24/25
+87.  Fine the principal value of  3cot 1   ?
+(a) 
+2
+
+(b) 
+6
+
+(c) 
+6
+7
+(d)
+6
+5
+88.  If 
+5
+4cos  and 
+13
+12cos   , with  and  both in
+the fourth quardant , the value of )cos(   is ?
+(a)
+65
+16 (b)
+65
+33 (c) 
+65
+33
+(d) 
+65
+16
+89. The value of 36sin is ?
+(a)
+4
+5210
+(b) 
+4
+5210
+(c) 
+ 
+4
+15
+(d)  4 15
+90. Express  xx 7cos5cos  as a product of sines or
+cosines or sines and cosines .
+(a) xx cos4cos2 (b) xx sin4sin2
+(c) xxsin6sin2 (d) xx cos6cos2
+91. If non zero number a,b,c are in A.P , then the straight line
+01  cbyax  always passes through a fixed point ,
+then the point is
+(a) )2,1(  (b)  21,1 (c) )2,1( (d) None
+92. If the lines
+01)1(  yax and 012 2  yax
+are prepedicular, then the condition satisfied by a  is
+(a) 2a (b) 10  a
+(c) 01  a (d) 1a
+93. In a triangle ABC ,Let 2C  , If r is the inradius and
+R is circumradius of the triangle ABC ,then
+)(2 Rr  equals
+(a) ca (b) cba        (c) ba  (d) cb
+=== PAGE 7 ===
+www.impetusgurukul.com 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319 NIT ACTUAL 2017 |7
+94. If 06423 22  yxyxyx  represents a
+pair of straight lines , their point if intersection is
+(a) (0,0) (b)  (8,5)         (c) (8,-5)    (d) (-2,5)
+95. The equation of the tangent line to the curve
+xxy sin2  at the point   ,2 is
+(a) 22  xy  (b) xy 2
+(c) 22  xy (d) xy 2
+96. If the graph of 3)2( 2 xy is shifted by 5 units up
+along y -axis and 2 unit to the right along the x-axis, then
+the equation of the resultant graph is  ?
+(a) 22 xy (b) 5)2( 2 xy
+(c) 2)2( 2 xy (d) 2)4( 2 xy
+97. The direction cosines of the vector    kjia 52
+are ?
+(a) -2,1,-5 (b) 
+6
+5,61,31 
+(c) 
+30
+5,
+30
+1,
+30
+2
+(d) 
+30
+5,
+30
+1,
+30
+2 
+98. The equation of the hyperbola with center at the origin ,
+lenght of the transverse axis is 6 and one focus at(0,4)
+is ?
+(a) 179
+22
+ xy (b) 179 22  xy
+(c) 197
+22
+ xy (d) 197 22  xy
+99. If 
+
+cba ,,  are vectors such that 0
+
+cba  and
+3,5,7 
+
+cba  , then the angle between the
+vectors 
+
+b and 
+
+c is ?
+(a) 060 (b) 030 (c) 045 (d) 090
+100. If )1(,, 
+
+cbakcjikjbikjia
+are co- plananr, then the value of
+cba  1 11 11 1  is
+(a) -1 (b) -1/2 (c) 1/2 (d)1
+101. Let 
+
+candba, be three vector having magnitudes 1 ,
+1 and 2 respectively , If  0)( 
+
+bcba  then the
+acute angle between 
+
+a and  
+
+c  is
+(a) 4/ (b) 6/ (c) 3/ (d) None
+102. Let 
+
+cba ,, be vector such that
+5,3,2 
+
+cba and 0  cba The
+value of 
+
+ accbba ... is ?
+(a) 38 (b) -38 (c) 19 (d) -19
+103. If    kjia 32 and    kjib 23 then
+the angle between    ba and    ba is?
+(a) 3/ (b) 4/ (c) 2/ (d) 3/2
+104. The number if element in the power set P(S) of set
+S={2,{1,4}} is ?
+(a) 2 (b) 4 (c) 8 (d)10
+105. If ,.....)1( 2222102 nnn xaxaxaaxx 
+then naaaa 2420 ... is ?
+(a)
+2
+13 n
+(b) 
+2
+13 n
+(c) 
+2
+31 n
+(d) 
+2
+13 n
+106.  m dustinct animals of a circus have to be placed in m
+cages , one in each cage . There are n small cages and
+p small animals )( mpn   . The large anumals
+are so large that they do not fit in small cage , However
+, small animals can be put in any cage , The number of
+ways of putting the animals into cages is :
+(a) }}{{ )()()( pmpmpnm PP  (b) pnm C)( 
+(c) }}{{ )()()( pmpmpnm CC  (d) pnm P)( 
+107.  Let A  and B  two sets containing four and two ele-
+ments respectively , The number of subsets of the set
+BA  , each having at least three elements is :
+(a) 270 (b) 239 (c) 219 (d) 256
+=== PAGE 8 ===
+8| NIT ACTUAL 2017 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319         www.impetusgurukul.com
+108.The slop of the function
+
+
+
+
+
+
+
+
+
+0,0
+0,1sin)( 2
+x
+xxxxf  ?
+(a) 1 (b) 0 (c)  -1 (d)None
+109. What is the largest area of an isosceles tringle with two
+edges of length 3 ?
+(a) 3 (b) 3/2 (c)9 (d) 9/2
+110. The value of dxxx
+
+0
+3 sin is
+(a)  63 (b)  63
+(c)  63 (d)  63
+111. Let )(af  be a polynomial of degree four ,having
+extreme value at 1x and 2x .
+3)(1lim 20   x xfIf x then )2(f is ?
+(a) 0 (b) 4 (c)-8 (d) -4
+112.  The maximum value of
+2cos2sincos3sin4 22 xxx  is
+(a) 4 (b) 23 (c) 9 (d) 24
+113.   The solution of     dxeyydye xx 11  is .
+(a) )1)(1(  yece xy (b) 1 yee xy
+(c) )1)(1(  yey x (d) None
+114. Evaluate  
+1
+0
+)1( dxxx n .
+(a) )2)(1(
+1
+
+
+nn (b) )2)(1(
+1
+ nn
+(c) )2)(1(  nn (d) )2)(1(  nn
+115. The critical point and nature for the function
+2422),( 22  yyxxyxf is.
+(a) (1,1) Maximum (b) (1,-1) ,Maximum
+(c) (1,1) Minimum (d) (1,-1) Minimum
+116.  If
+dx
+dyfindxy ,cos 22  .
+(a) 222 cossin4 xxx (b) 22 sincos4 xxx
+(c) 22 cossin2 xxx (d) 22 sincos2 xxx
+117. The derivatives of )cot3( 3 xex xx  with respect
+to x is .
+(a) xecex xx 22 cos)3(log33 
+(b) xecex xx 22 cos)3(log33 
+(c) xex xx 22 sec)3(log33 
+(d) xex xx 22 sec)3(log33 
+118. The solution of the equation 
+yyx exedxdy 2  is
+(a) cxe yx 
+3
+3
+(b) cxee yx  
+3
+3
+(c) cxee yx  
+3
+3
+(d) None
+119. Differentiate }1),log(log{  xx with respect to x
+(a) )log/(1 xx (b) )/(log1 x
+(c) x/1 (d) xx log
+120. Evaluate )cos1(
+tanlim
+0 x
+xx
+x 
+(a) 1/2 (b) -1/2 (c) -2 (d)2
+=== PAGE 9 ===
+www.impetusgurukul.com 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319 NIT ACTUAL 2017 |9
+ANSWER KEY ( NIMCET - ACTUAL -2017 )
+1.   (b) 2.   (d) 3.   (c) 4.   (d) 5.   (c) 6.   (a) 7.   (c) 8.   (b) 9.   (d) 10.   (a)
+11.   (c) 12.   (a) 13.   (a) 14.   (a) 15.   (c) 16.   (b) 17.   (c) 18.   (b) 19.  (d) 20.   (d)
+21.   (c) 22.   (d) 23.   (d) 24.   (b) 25.   (c) 26.   (a) 27.   () 28.   (b) 29.   (d) 30.   (d)
+31.   (d) 32.   (b) 33.   (c) 34.   (d) 35.   () 36.   (b) 37.   (a) 38.   (b) 39.   (d) 40.   (b)
+41.   (a) 42.   (c) 43.   (d) 44.   (b) 45.   (b) 46.   (d) 47.   (a) 48.   (c) 49.   (a) 50.   (b)
+51.   (b) 52.   (d) 53.   (d) 54.   (c) 55.   (d) 56.   (d) 57.   (c) 58.   (a) 59.   (c) 60.   (c)
+61.   (a) 62.   (d) 63.   (d) 64.   (b) 65.   (c) 66.   (c) 67.   (b) 68.   (c) 69.   (a) 70.   (c)
+71.   (a) 72.   (b) 73.   (b) 74.   (c) 75.   (a) 76.   (a) 77.   (d) 78.   (c) 79.   (b) 80.   (c)
+81.   (a) 82.   (b)   83.   (a) 84.   (c) 85.   (a) 86.   (d) 87.   (d) 88.   (c) 89.   (b) 90.   (c)
+91.   (d) 92.   (d) 93.   (c) 94.   (c) 95.   (b) 96.   (d) 97.   (d) 98.   (b) 99.  (a) 100.   ()
+101.   (b) 102.   (d) 103.   (c) 104.   (b) 105.   (a) 106.   (a) 107.   (c) 108.   (b) 109.  (d) 110.   (a)
+111.   (a) 112.   (d) 113.   (a) 114.   (b) 115.   (d) 116.   (b) 117.   (a) 118.   (b) 119.  (a) 120.   (d)

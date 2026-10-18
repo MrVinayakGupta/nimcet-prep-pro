@@ -1,0 +1,5528 @@
+{
+  "year": 2022,
+  "title": "NIMCET 2022 Official Question Paper",
+  "totalQuestions": 120,
+  "overwrite": true,
+  "questions": [
+    {
+      "questionNumber": 1,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "Inverse of the function $f(x) = \\frac{10^x - 10^{-x}}{10^x + 10^{-x}}$ is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "$\\log_{10}(2 - x)$"
+        },
+        {
+          "id": "B",
+          "text": "$\\frac{1}{2}\\log_{10}\\left(\\frac{1+x}{1-x}\\right)$"
+        },
+        {
+          "id": "C",
+          "text": "$\\frac{1}{2}\\log_{10}(2x - 1)$"
+        },
+        {
+          "id": "D",
+          "text": "$\\frac{1}{4}\\log_{10}\\left(\\frac{2x}{2-x}\\right)$"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 1 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 1 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): ) log\u001d\u001e * \u001d\"+ \u001d +,.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 2,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra & 3D Geometry",
+      "questionText": "Le t 1, 3, 4 be distinct non-negative numbers. If the vectors 17\u0302 9 1:\u0302 9 4;<, 7\u0302 9 ;< and 47\u0302 9 4:\u0302 9 3;< lie in a plane, then 4 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "The Arithmetic Mean of 1 and 3"
+        },
+        {
+          "id": "B",
+          "text": "The Geometric Mean of 1 and 3"
+        },
+        {
+          "id": "C",
+          "text": "The Harmonic Mean of 1 and 3"
+        },
+        {
+          "id": "D",
+          "text": "Equal to zero"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 2 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 2 under Vectors (Vector Algebra & 3D Geometry).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): The Geometric Mean of 1 and 3.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 3,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "Th e correct expression for cos \u001d(\u001a\u2019) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "C ) \u2019 cos \u001d \u001a"
+        },
+        {
+          "id": "B",
+          "text": "D \u2019 cos \u001d \u001a"
+        },
+        {
+          "id": "C",
+          "text": "D 9 cos \u001d \u001a"
+        },
+        {
+          "id": "D",
+          "text": "C) 9 cos \u001d \u001a"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 3 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 3 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): D \u2019 cos \u001d \u001a.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 4,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "Su ppose that the temperature at a point (\u001a, F) on a metal plate is G(\u001a, F) \u001c 4\u001a) \u2019 4\u001aF 9 F), An ant, walking on the plate, traverses a circle of radius 5 centered at the origin. What is the highest temperature encountered by the ant?",
+      "options": [
+        {
+          "id": "A",
+          "text": "125"
+        },
+        {
+          "id": "B",
+          "text": "120"
+        },
+        {
+          "id": "C",
+          "text": "0"
+        },
+        {
+          "id": "D",
+          "text": "25"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 4 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 4 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 125.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 5,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability & Statistics",
+      "questionText": "Th e 10th and 50th percentiles of the observation 3 2, 49, 23, 29, 118 respectively are",
+      "options": [
+        {
+          "id": "A",
+          "text": "21, 32"
+        },
+        {
+          "id": "B",
+          "text": "23, 32"
+        },
+        {
+          "id": "C",
+          "text": "23, 33"
+        },
+        {
+          "id": "D",
+          "text": "22, 31"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 5 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 5 under Probability and Statistics (Probability & Statistics).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 23, 32.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 6,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "An gles of elevation of the top of a tower from three points (collinear) A, B and C on a road leading to the foot of the tower are 30\u00b0, 45\u00b0 and 60\u00b0 respectively. The ratio of AB and BC is",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u221a3: 1"
+        },
+        {
+          "id": "B",
+          "text": "\u221a3: 2"
+        },
+        {
+          "id": "C",
+          "text": "1: 2"
+        },
+        {
+          "id": "D",
+          "text": "2: \u221a3"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 6 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 6 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): \u221a3: 1.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 7,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "If the foci of the ellipse  +V )W 9 XV YV \u001c 1 and the  hyperbola  +V \u001d.. \u2019 XV Z\u001d \u001c \u001d )W are coincide, then the  value of 3) is",
+      "options": [
+        {
+          "id": "A",
+          "text": "25"
+        },
+        {
+          "id": "B",
+          "text": "16"
+        },
+        {
+          "id": "C",
+          "text": "64"
+        },
+        {
+          "id": "D",
+          "text": "49"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 7 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 7 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 16.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 8,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "A p article is at rest at the origin. It moves along the \u001a \u2019axis with an acceleration \u001a \u2019 \u001a), where \u001a is the distance of the particle at time [. The particle next comes to rest after it has covered a distance",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": ")"
+        },
+        {
+          "id": "C",
+          "text": "\\ )"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 8 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 8 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): \\ ).",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 9,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "If 1 ] 3, then ^ (|\u001a \u2019 1| 9 |\u001a \u2019 3|)Y\u2018 a\u001a is equal  to",
+      "options": [
+        {
+          "id": "A",
+          "text": "(Y \u2018)V )"
+        },
+        {
+          "id": "B",
+          "text": "(YV \u2018V) )"
+        },
+        {
+          "id": "C",
+          "text": "b\u2018c Ycd )"
+        },
+        {
+          "id": "D",
+          "text": "(3 \u2019 1))"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 9 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 9 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): (3 \u2019 1)).",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 10,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "Th e domain of the function \u0018(\u001a) \u001c efg!h +i +j is",
+      "options": [
+        {
+          "id": "A",
+          "text": "i\u20191,0) \u222a l1m"
+        },
+        {
+          "id": "B",
+          "text": "i\u20191,1j"
+        },
+        {
+          "id": "C",
+          "text": "i\u20191,1)"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 10 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 10 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): i\u20191,0) \u222a l1m.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 11,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra & 3D Geometry",
+      "questionText": "If the volume of the parallelepiped whose adjacent edges are 1 \u20d7 \u001c 27\u0302 9 3:\u0302 9 4;<, 3q\u20d7 \u001c 7\u0302 9 1:\u0302 9 2;<, 4 \u20d7 \u001c 7\u0302 9 2:\u0302 9 1;< is 15, then r is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "5/2"
+        },
+        {
+          "id": "C",
+          "text": "9/2"
+        },
+        {
+          "id": "D",
+          "text": "0"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 11 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 11 under Vectors (Vector Algebra & 3D Geometry).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 9/2.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 12,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "Le t 1 be the distance between the lines \u20192\u001a 9 F \u001c 2 and 2\u001a \u2019 F \u001c 2, and 3 be the distance between the lines 4\u001a \u2019 3F \u001c 5 and 6F \u2019 8\u001a \u001c 1, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "403 \u001c 11\u221a51"
+        },
+        {
+          "id": "B",
+          "text": "40 \u221a21 \u001c 113"
+        },
+        {
+          "id": "C",
+          "text": "11\u221a23 \u001c 401"
+        },
+        {
+          "id": "D",
+          "text": "11 \u221a21 \u001c 403"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 12 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 12 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 403 \u001c 11\u221a51.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 13,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "If 4tuv4 w \u2019 cot w \u001c 2, then the value of 4tuv4 w is",
+      "options": [
+        {
+          "id": "A",
+          "text": "W \\"
+        },
+        {
+          "id": "B",
+          "text": "\\ W"
+        },
+        {
+          "id": "C",
+          "text": ". W"
+        },
+        {
+          "id": "D",
+          "text": "W ."
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 13 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 13 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): W ..",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 14,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "Th e solutions of the equation 4 cos) \u001a 9 6 sin) \u001a \u001c 5 are",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u001a \u001c xD y C ."
+        },
+        {
+          "id": "B",
+          "text": "\u001a \u001c xD y C \\"
+        },
+        {
+          "id": "C",
+          "text": "\u001a \u001c xD y C )"
+        },
+        {
+          "id": "D",
+          "text": "\u001a \u001c xD y )C \\"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 14 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 14 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): \u001a \u001c xD y C ..",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 15,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "The function \u0018(\u001a) \u001c z(1 9 2\u001a) h \u001f, \u001a { 0 v), \u001a \u001c 0 , is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Differentiable at \u001a \u001c 0"
+        },
+        {
+          "id": "B",
+          "text": "Continuous at \u001a \u001c 0"
+        },
+        {
+          "id": "C",
+          "text": "Discontinuous at \u001a \u001c 0"
+        },
+        {
+          "id": "D",
+          "text": "Not differentiable at \u001a \u001c 0"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 15 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 15 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): Continuous at \u001a \u001c 0.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 16,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "W hich term of the series \u221aW\\ , \u221aW. , \u001d\u221aW , \u2026. is \u221aW\u001d\\?",
+      "options": [
+        {
+          "id": "A",
+          "text": "12"
+        },
+        {
+          "id": "B",
+          "text": "11"
+        },
+        {
+          "id": "C",
+          "text": "10"
+        },
+        {
+          "id": "D",
+          "text": "9"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 16 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 16 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 11.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 17,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra & 3D Geometry",
+      "questionText": "L et 1 ~ \u001c 2\u007f 9 2\u0080 9 ; and 3< be another vector  such that 1 ~. 3< \u001c 14 and 1 ~ \u0081 3< \u001c 3\u007f 9 \u0080 \u2019 8; the  vector 3<",
+      "options": [
+        {
+          "id": "A",
+          "text": "5\u007f 9 \u0080 9 2;"
+        },
+        {
+          "id": "B",
+          "text": "5\u007f \u2019 \u0080 \u2019 2;"
+        },
+        {
+          "id": "C",
+          "text": "5\u007f 9 \u0080 \u2019 2;"
+        },
+        {
+          "id": "D",
+          "text": "3\u007f 9 \u0080 9 4;"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 17 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 17 under Vectors (Vector Algebra & 3D Geometry).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 5\u007f 9 \u0080 9 2;.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 18,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability & Statistics",
+      "questionText": "T he first three moments of a distribution about  2 are 1, 16, -40 respectively. The mean and  variance of the distribution are",
+      "options": [
+        {
+          "id": "A",
+          "text": "(2, 16)"
+        },
+        {
+          "id": "B",
+          "text": "(2, 15)"
+        },
+        {
+          "id": "C",
+          "text": "(3, 15)"
+        },
+        {
+          "id": "D",
+          "text": "(1, 16)"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 18 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 18 under Probability and Statistics (Probability & Statistics).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): (3, 15).",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 19,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability & Statistics",
+      "questionText": "A survey is done among a population of 200  people who like either tea or coffee. It is found  that 60% of the population like tea and 72% of  the population like coffee. Let \u001a be the number  of people who like both tea & coffee. Let  \u0084 \u0085 \u001a \u0085 x, then choose the correct option.",
+      "options": [
+        {
+          "id": "A",
+          "text": "x \u2019 \u0084 \u001c 56"
+        },
+        {
+          "id": "B",
+          "text": "x \u2019 \u0084 \u001c 28"
+        },
+        {
+          "id": "C",
+          "text": "x \u2019 \u0084 \u001c 32"
+        },
+        {
+          "id": "D",
+          "text": "x 9 \u0084 \u001c 92"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 19 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 19 under Probability and Statistics (Probability & Statistics).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): x \u2019 \u0084 \u001c 56.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 20,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "T he value of cot *4tuv4 \u001d W\\ 9 tan \u001d )\\, is",
+      "options": [
+        {
+          "id": "A",
+          "text": "6/17"
+        },
+        {
+          "id": "B",
+          "text": "3/17"
+        },
+        {
+          "id": "C",
+          "text": "4/17"
+        },
+        {
+          "id": "D",
+          "text": "5/17"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 20 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 20 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 6/17.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 21,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability & Statistics",
+      "questionText": "I f 0 ] \u0086(\u0087) ] 1 and 0 ] \u0086(\u0088) ] 1, and  \u0086(\u0087 \u2229 \u0088) \u001c \u0086(\u0087)\u0086(\u0088), then",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u0086(\u0088|\u0087) \u001c \u0086(\u0088) \u2019 \u0086(\u0087)"
+        },
+        {
+          "id": "B",
+          "text": "\u0086(\u0087\u008a \u2019 \u0088\u008a) \u001c \u0086(\u0087\u008a) \u2019 \u0086(\u0088\u008a)"
+        },
+        {
+          "id": "C",
+          "text": "\u0086(\u0087 \u222a \u0088)\u008a \u001c \u0086(\u0087\u008a)\u0086(\u0088\u008a)"
+        },
+        {
+          "id": "D",
+          "text": "\u0086(\u0087|\u0088) \u001c \u0086(\u0087) \u2019 \u0086(\u0088)"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 21 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 21 under Probability and Statistics (Probability & Statistics).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): \u0086(\u0087 \u222a \u0088)\u008a \u001c \u0086(\u0087\u008a)\u0086(\u0088\u008a).",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 22,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "W hich of the following is NOT true?",
+      "options": [
+        {
+          "id": "A",
+          "text": "lim+\u2192\u008d + \u008e\u001f \u001c 0"
+        },
+        {
+          "id": "B",
+          "text": "lim +\u2192\u001e\" \u001d +\u008e h \u001f \u001c 0"
+        },
+        {
+          "id": "C",
+          "text": "lim+\u2192\u001e\" g\u008f\u0090 + \u001d\")+ \u001c 0"
+        },
+        {
+          "id": "D",
+          "text": "lim +\u2192\u001e\" efg + \u001d\")+ \u001c 0"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 22 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 22 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): lim +\u2192\u001e\" efg + \u001d\")+ \u001c 0.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 23,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "\u0018(\u001a) \u001c \u001a 9 |\u001a| is continuous for",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u001a \u2208 (\u2019\u221e, \u221e)"
+        },
+        {
+          "id": "B",
+          "text": "\u001a \u2208 (\u2019\u221e, \u221e) \u2019 l0m"
+        },
+        {
+          "id": "C",
+          "text": "only \u001a \u0093 0"
+        },
+        {
+          "id": "D",
+          "text": "No value for \u001a"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 23 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 23 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): \u001a \u2208 (\u2019\u221e, \u221e).",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 24,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "I f 1\u001d, 1), \u2026 . 1\u0094 are any real numbers and x is  any positive integer, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "x \u2211 1\u0096) ] (\u2211 1\u0096\u0094\u0096\u0097\u001d )\u0094\u0096\u0097\u001d )"
+        },
+        {
+          "id": "B",
+          "text": "x \u2211 1\u0096) \u0094\u0096\u0097\u001d \u0098 (\u2211 1\u0096\u0094\u0096\u0097\u001d ))"
+        },
+        {
+          "id": "C",
+          "text": "\u2211 1\u0096) \u0098 (\u2211 1\u0096\u0094\u0096\u0097\u001d )\u0094\u0096\u0097\u001d )"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 24 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 24 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): x \u2211 1\u0096) \u0094\u0096\u0097\u001d \u0098 (\u2211 1\u0096\u0094\u0096\u0097\u001d )).",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 25,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "I f \u0099 \u001c\u009a 1 1 1 1 2 9 \u001a 1 1 1 2 9 F \u009a for \u001a { 0, F { 0, then  \u0099 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "Divisible by \u001a and F"
+        },
+        {
+          "id": "B",
+          "text": "Divisible by \u001a but not by F"
+        },
+        {
+          "id": "C",
+          "text": "Divisible by (1 9 \u001a) and (1 9 F)"
+        },
+        {
+          "id": "D",
+          "text": "Divisible by (1 9 \u001a) but not (1 9 F)"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 25 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 25 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Divisible by (1 9 \u001a) and (1 9 F).",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 26,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "A rea of the parallelogram formed by the lines  F \u001c 4\u001a, F \u001c 4\u001a 9 1, \u001a 9 F \u001c 0 and \u001a 9 F \u001c 1 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "W"
+        },
+        {
+          "id": "B",
+          "text": ") W"
+        },
+        {
+          "id": "C",
+          "text": "5"
+        },
+        {
+          "id": "D",
+          "text": "10"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 26 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 26 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): W.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 27,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability & Statistics",
+      "questionText": "A four-digit number is formed using the digits  1, 2, 3, 4, 5 without repetition. The probability  that is divisible by 3 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\"
+        },
+        {
+          "id": "B",
+          "text": "."
+        },
+        {
+          "id": "C",
+          "text": "W"
+        },
+        {
+          "id": "D",
+          "text": "\u009b"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 27 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 27 under Probability and Statistics (Probability & Statistics).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): W.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 28,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "F or 1 \u2208 \u009d (the set of all real numbers),  1 { \u20191, lim\u0094\u2192\u008d (\u001d\u009e\")\u009e\"\u22ef\"\u0094\u009e) (\u0094\"\u001d)\u009e!hi(\u0094\u2018\"\u001d)\"(\u0094\u2018\"))\"\u22ef\"(\u0094\u2018\"\u0094)j \u001c \u001d \u009b\u001e. Then one of the values of 1 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "5"
+        },
+        {
+          "id": "B",
+          "text": "8"
+        },
+        {
+          "id": "C",
+          "text": "\u2019 \u001dW )"
+        },
+        {
+          "id": "D",
+          "text": "\u2019 \u001d\u00a0 )"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 28 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 28 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): \u2019 \u001d\u00a0 ).",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 29,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra & 3D Geometry",
+      "questionText": "If 1 ~ \u001c \u00a17\u0302 9 :\u0302 \u2019 2;<, 3< \u001c 7\u0302 9 \u00a1:\u0302 \u2019 2;<, 4\u0302 \u001c 7\u0302 9 :\u0302 9 ;<  and \u00a21 ~3<4\u0302\u00a3 \u001c 7, then the values of \u00a1 are",
+      "options": [
+        {
+          "id": "A",
+          "text": "2, -6"
+        },
+        {
+          "id": "B",
+          "text": "6, -2"
+        },
+        {
+          "id": "C",
+          "text": "4, -2"
+        },
+        {
+          "id": "D",
+          "text": "-4, 2"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 29 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 29 under Vectors (Vector Algebra & 3D Geometry).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 2, -6.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 30,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "T he function \u0018(\u001a) \u001c logb\u001a 9\u221a\u001a) 9 1d is",
+      "options": [
+        {
+          "id": "A",
+          "text": "an even function"
+        },
+        {
+          "id": "B",
+          "text": "an odd function"
+        },
+        {
+          "id": "C",
+          "text": "a periodic function"
+        },
+        {
+          "id": "D",
+          "text": "neither an even nor an odd function"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 30 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 30 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): an odd function.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 31,
+      "subject": "Mathematics",
+      "chapter": "Probability and Statistics",
+      "topic": "Probability & Statistics",
+      "questionText": "T he mean of 25 observations was found to be  38. It was later discovered that 23 and 38 were  misread as 25 and 36, then the mean is",
+      "options": [
+        {
+          "id": "A",
+          "text": "32"
+        },
+        {
+          "id": "B",
+          "text": "36"
+        },
+        {
+          "id": "C",
+          "text": "38"
+        },
+        {
+          "id": "D",
+          "text": "42"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 31 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 31 under Probability and Statistics (Probability & Statistics).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 38.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 32,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "T he area enclosed within the curve  |\u001a| 9 |F| \u001c 2 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "16 sq.unit"
+        },
+        {
+          "id": "B",
+          "text": "24 sq.unit"
+        },
+        {
+          "id": "C",
+          "text": "32 sq.unit"
+        },
+        {
+          "id": "D",
+          "text": "8 sq.unit"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 32 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 32 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): 8 sq.unit.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 33,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "I f * + \u2018, ) 9 * X Y, ) \u001c 1, (1 \u0093 3) and \u001a) \u2019 F) \u001c 4)  cut at right angles, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "1) 9 3) \u001c 24)"
+        },
+        {
+          "id": "B",
+          "text": "3 ) \u2019 1) \u001c 24)"
+        },
+        {
+          "id": "C",
+          "text": "1) \u2019 3) \u001c 24)"
+        },
+        {
+          "id": "D",
+          "text": "1 ) \u2019 3) \u001c 4)"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 33 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 33 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 1) \u2019 3) \u001c 24).",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 34,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "I f r, \u2044 are the roots of \u001a) \u2019 \u001a \u2019 1 \u001c 0, and  \u0087\u0094 \u001c r\u0094 9 \u2044\u0094, then Arithmetic mean of \u0087\u0094 \u001d  and \u0087\u0094 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2\u0087\u0094 \u2019 1"
+        },
+        {
+          "id": "B",
+          "text": ") \u0087\u0094\""
+        },
+        {
+          "id": "C",
+          "text": "2\u0087\u0094 \u2019 2"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 34 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 34 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): ) \u0087\u0094\".",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 35,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "I f 1\u001d, 1), \u2026 1\u0094, are in Arithmetic Progression  with common difference a, then the sum  (sin a)(4tuv4 1\u001d. 4tuv4 1) 9 4tuv4 1). 4tuv4 1\\ 9 \u22ef 9 4tuv4 1\u0094 \u001d. 4tuv4 1\u0094)  is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "cot 1\u001d \u2019 cot 1\u0094"
+        },
+        {
+          "id": "B",
+          "text": "sin 1 \u001d \u2019 sin 1\u0094"
+        },
+        {
+          "id": "C",
+          "text": "4tuv4 1\u001d \u2019 4tuv4 1\u0094"
+        },
+        {
+          "id": "D",
+          "text": "1 \u001d \u2019 1\u0094"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 35 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 35 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): cot 1\u001d \u2019 cot 1\u0094.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 36,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "S olutions of the equation tan \u001d \u221a\u001a) 9 \u001a9 sin \u001d \u221a\u001a) 9 \u001a 9 1\u001c C) are",
+      "options": [
+        {
+          "id": "A",
+          "text": "0, 1"
+        },
+        {
+          "id": "B",
+          "text": "1, -1"
+        },
+        {
+          "id": "C",
+          "text": "0, -1"
+        },
+        {
+          "id": "D",
+          "text": "0, -2"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 36 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 36 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 0, -1.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 37,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "I n a Harmonic Progression, pth term is q and  the qth term is p. Then pqth term is",
+      "options": [
+        {
+          "id": "A",
+          "text": "0"
+        },
+        {
+          "id": "B",
+          "text": "1"
+        },
+        {
+          "id": "C",
+          "text": "\u0192\u00a7"
+        },
+        {
+          "id": "D",
+          "text": "\u0192\u00a7(\u0192 9 \u00a7)"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 37 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 37 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 1.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 38,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "I f the roots of the quadratic equation  \u001a) 9 \u0192\u001a 9 \u00a7 \u001c 0 are tan 30\u00b0 and tan 15\u00b0  respectively, then the value of 2 9 \u0192 \u2019 \u00a7 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "1"
+        },
+        {
+          "id": "D",
+          "text": "2"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 38 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 38 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 1.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 39,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "A straight line through the point (4, 5) is such  that its intercept between the axes is bisected  at A, then its equation is",
+      "options": [
+        {
+          "id": "A",
+          "text": "3\u001a 9 4F \u001c 20"
+        },
+        {
+          "id": "B",
+          "text": "3\u001a \u2019 4F 9 7 \u001c 0"
+        },
+        {
+          "id": "C",
+          "text": "5\u001a \u2019 4F \u001c 40"
+        },
+        {
+          "id": "D",
+          "text": "5\u001a 9 4F \u001c 40"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 39 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 39 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): 5\u001a 9 4F \u001c 40.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 40,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "T he value of ^ b+V \u001dd\u00a4+ +c\u221a)+' )+V\"\u001d is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2\u201c2 \u2019 ) +V 9 \u001d +' 9 \u00ab"
+        },
+        {
+          "id": "B",
+          "text": "2\u201c2 9 ) +V 9 \u001d +' 9 \u00ab"
+        },
+        {
+          "id": "C",
+          "text": ") \u201c2 \u2019 ) +V 9 \u001d +' 9 \u00ab"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 40 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 40 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): ) \u201c2 \u2019 ) +V 9 \u001d +' 9 \u00ab.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 41,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "C oordinate of focus of the parabola  4F) 9 12\u001a \u2019 20F 9 67 \u001c 0 is",
+      "options": [
+        {
+          "id": "A",
+          "text": "*\u2019 W . , \u001d\u00a0 ) ,"
+        },
+        {
+          "id": "B",
+          "text": "*\u2019 \u001d\u00a0 ) , W .,"
+        },
+        {
+          "id": "C",
+          "text": "*\u2019 \u001d\u00a0 . , W ),"
+        },
+        {
+          "id": "D",
+          "text": "*\u2019 W ) , \u001d\u00a0 . ,"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 41 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 41 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): *\u2019 \u001d\u00a0 . , W ),.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 42,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "T here are two circles in \u001aF \u2019plane whose  equations are \u001a) 9 F) \u2019 2F \u001c 0 and  \u001a) 9 F) \u2019 2F \u2019 3 \u001c 0. A point (\u001a, F) is chosen  at random inside the larger circle. Then the  probability that the point has been taken from  smaller circle is",
+      "options": [
+        {
+          "id": "A",
+          "text": "\\"
+        },
+        {
+          "id": "B",
+          "text": ") \\"
+        },
+        {
+          "id": "C",
+          "text": ")"
+        },
+        {
+          "id": "D",
+          "text": "."
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 42 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 42 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): ..",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 43,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "In a triangle ABC, if the tangent of half the  difference of two angles is equal to one third of  the tangent of half the sum of the angles, then  the ratio of the sides opposite to the angles is",
+      "options": [
+        {
+          "id": "A",
+          "text": "2 : 1"
+        },
+        {
+          "id": "B",
+          "text": "1 : 2"
+        },
+        {
+          "id": "C",
+          "text": "3 : 1"
+        },
+        {
+          "id": "D",
+          "text": "1 : 1"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 43 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 43 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 2 : 1.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 44,
+      "subject": "Mathematics",
+      "chapter": "Calculus",
+      "topic": "Functions, Limits, Derivatives & Integrals",
+      "questionText": "I f \u001a\u2039F\u0094 \u001c (\u001a 9 F)\u2039\"\u0094, then \u00a4X\u00a4+ is",
+      "options": [
+        {
+          "id": "A",
+          "text": "+\"X +X"
+        },
+        {
+          "id": "B",
+          "text": "\u001aF"
+        },
+        {
+          "id": "C",
+          "text": "+ X"
+        },
+        {
+          "id": "D",
+          "text": "X +"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 44 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 44 under Calculus (Functions, Limits, Derivatives & Integrals).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): X +.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 45,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "I f cos \u001d +) 9 cos \u001d X\\ \u001c \u203a, then 9\u001a) \u2019 12\u001aF cos \u203a 9 4F) is equal to",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u201936 sin) \u203a"
+        },
+        {
+          "id": "B",
+          "text": "36 sin ) \u203a"
+        },
+        {
+          "id": "C",
+          "text": "36 cos) \u203a"
+        },
+        {
+          "id": "D",
+          "text": "36"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 45 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 45 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 36 sin ) \u203a.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 46,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "T he value of 3\\ \ufb01f\ufb02c W is",
+      "options": [
+        {
+          "id": "A",
+          "text": "W )"
+        },
+        {
+          "id": "B",
+          "text": ")\u00a0 W"
+        },
+        {
+          "id": "C",
+          "text": "\u00b0 W"
+        },
+        {
+          "id": "D",
+          "text": "W \u00b0"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 46 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 46 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): )\u00a0 W.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 47,
+      "subject": "Mathematics",
+      "chapter": "Algebra",
+      "topic": "Matrices, Determinants, Progressions & Sets",
+      "questionText": "T here are two sets A and B with |\u0087| \u001c \u0084 and  |\u0088| \u001c x. If |\u0086(\u0087)| \u2019 |\u0086(\u0088)| \u001c 112 then choose  the wrong option (where |\u0087| denotes the  cardinality of \u0087, and \u0086(\u0087) denotes the power  set of \u0087)",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u0084 9 x \u001c 11"
+        },
+        {
+          "id": "B",
+          "text": "2x \u2019 \u0084 \u001c 1"
+        },
+        {
+          "id": "C",
+          "text": "2\u0084 \u2019 x \u001c 1"
+        },
+        {
+          "id": "D",
+          "text": "3x \u2019 \u0084 \u001c 5"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 47 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 47 under Algebra (Matrices, Determinants, Progressions & Sets).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 2\u0084 \u2019 x \u001c 1.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 48,
+      "subject": "Mathematics",
+      "chapter": "Coordinate Geometry",
+      "topic": "Circles, Conics & Lines",
+      "questionText": "T he eccentricity of an ellipse, with its center at  the origin is  \u001d \\. If one of the directrices is \u001a \u001c 9,  then the equation of ellipse is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "9\u001a ) 9 8F) \u001c 72"
+        },
+        {
+          "id": "B",
+          "text": "8\u001a ) 9 9F) \u001c 72"
+        },
+        {
+          "id": "C",
+          "text": "8\u001a) 9 7F) \u001c 56"
+        },
+        {
+          "id": "D",
+          "text": "7\u001a ) 9 8F) \u001c 56"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 48 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 48 under Coordinate Geometry (Circles, Conics & Lines).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 8\u001a ) 9 9F) \u001c 72.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 49,
+      "subject": "Mathematics",
+      "chapter": "Trigonometry",
+      "topic": "Trigonometric Equations, Heights & Distances",
+      "questionText": "I f the angle of elevation of the top of a hill from  each of the vertices A, B and C of a horizontal  triangle is 1, then the height of the hill is",
+      "options": [
+        {
+          "id": "A",
+          "text": ") 3 tan 1 sec \u0088"
+        },
+        {
+          "id": "B",
+          "text": ") 3 tan 1 4tuv4 \u0087"
+        },
+        {
+          "id": "C",
+          "text": ") 4 tan 1 sin \u00ab"
+        },
+        {
+          "id": "D",
+          "text": ") 1 tan 1 4tuv4 \u0087"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 49 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 49 under Trigonometry (Trigonometric Equations, Heights & Distances).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): ) 1 tan 1 4tuv4 \u0087.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 50,
+      "subject": "Mathematics",
+      "chapter": "Vectors",
+      "topic": "Vector Algebra & 3D Geometry",
+      "questionText": "I f b1 ~ \u0081 3<d \u0081 4\u0302 \u001c 1 ~ \u0081b3< \u0081 4\u0302d, then",
+      "options": [
+        {
+          "id": "A",
+          "text": "1 ~ and 3< are collinear"
+        },
+        {
+          "id": "B",
+          "text": "1 ~ and 3< are perpendicular"
+        },
+        {
+          "id": "C",
+          "text": "1 ~ and 4\u0302 are collinear"
+        },
+        {
+          "id": "D",
+          "text": "1 ~ and 4\u0302 are perpendicular"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 50 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 50 under Vectors (Vector Algebra & 3D Geometry).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 1 ~ and 4\u0302 are collinear.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 51,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "T oday is Wednesday. What would be the day  after 61 days?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Tuesday"
+        },
+        {
+          "id": "B",
+          "text": "Monday"
+        },
+        {
+          "id": "C",
+          "text": "Sunday"
+        },
+        {
+          "id": "D",
+          "text": "Saturday"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 51 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 51 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): Monday.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 52,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "I dentify the fifth number in the series:  122, 144, 166, 188, ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "234"
+        },
+        {
+          "id": "B",
+          "text": "210"
+        },
+        {
+          "id": "C",
+          "text": "345"
+        },
+        {
+          "id": "D",
+          "text": "310"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 52 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 52 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 210.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 53,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "W hich of the following is the odd one from the  given alternatives?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Driving"
+        },
+        {
+          "id": "B",
+          "text": "Swimming"
+        },
+        {
+          "id": "C",
+          "text": "Sailing"
+        },
+        {
+          "id": "D",
+          "text": "Diving"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 53 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 53 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): Driving.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 54,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "F ill in the blank:  HEC, JGE, LIG, NKI, ______",
+      "options": [
+        {
+          "id": "A",
+          "text": "ONM"
+        },
+        {
+          "id": "B",
+          "text": "PMK"
+        },
+        {
+          "id": "C",
+          "text": "HGF"
+        },
+        {
+          "id": "D",
+          "text": "KMP"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 54 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 54 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): PMK.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 55,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "C hoose the word opposite in meaning to the  given word:  MITIGATE",
+      "options": [
+        {
+          "id": "A",
+          "text": "Alleviate"
+        },
+        {
+          "id": "B",
+          "text": "Tranquilize"
+        },
+        {
+          "id": "C",
+          "text": "Intensify"
+        },
+        {
+          "id": "D",
+          "text": "Abate"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 55 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 55 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Intensify.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 56,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "D NN, FQQ, HTT, _____, LZZ",
+      "options": [
+        {
+          "id": "A",
+          "text": "JXX"
+        },
+        {
+          "id": "B",
+          "text": "JVV"
+        },
+        {
+          "id": "C",
+          "text": "JWW"
+        },
+        {
+          "id": "D",
+          "text": "IWW"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 56 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 56 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): JWW.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 57,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "S elect the pair of words, which are related in  the same way as the capitalized words are  related to each other.  BUTTERFLY : FREEDOM",
+      "options": [
+        {
+          "id": "A",
+          "text": "Horse : Speed"
+        },
+        {
+          "id": "B",
+          "text": "Self-reliant : Buoyant"
+        },
+        {
+          "id": "C",
+          "text": "Chicken : Rooster"
+        },
+        {
+          "id": "D",
+          "text": "Frog : Water"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 57 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 57 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): Horse : Speed.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 58,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Select the pair of words, which are related in  the same way as the capitalized words are  related to each other.  Frugal : Extravagant",
+      "options": [
+        {
+          "id": "A",
+          "text": "Predecessor : Precursor"
+        },
+        {
+          "id": "B",
+          "text": "Hermit : Philosopher"
+        },
+        {
+          "id": "C",
+          "text": "Teacher : Philanthropist"
+        },
+        {
+          "id": "D",
+          "text": "Criticise : Advocate"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 58 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 58 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): Criticise : Advocate.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 59,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "I n the following figure, find the total number of  squares.",
+      "options": [
+        {
+          "id": "A",
+          "text": "18"
+        },
+        {
+          "id": "B",
+          "text": "24"
+        },
+        {
+          "id": "C",
+          "text": "36"
+        },
+        {
+          "id": "D",
+          "text": "20"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 59 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 59 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 24.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 60,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "D eepak, Rahul, Manoj, and Vinod are brothers.  Who is the heaviest?  I. Rahul is heavier than Deepak and Vinod,   but lighter than Manoj.  II. Deepak is lighter than Rahul and Manoj, but   heavier than Vinod.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Either I or II is sufficient"
+        },
+        {
+          "id": "B",
+          "text": "Statement II alone is sufficient, but  statement I alone is not sufficient"
+        },
+        {
+          "id": "C",
+          "text": "Statement I alone is sufficient, but  statement II alone is not sufficient"
+        },
+        {
+          "id": "D",
+          "text": "Data in both the statements together are  not sufficient"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 60 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 60 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Statement I alone is sufficient, but  statement II alone is not sufficient.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 61,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "W hich of the following diagrams correctly  represents lions, elephants and animals?  (A) (B)  (C)    (D)",
+      "options": [
+        {
+          "id": "A",
+          "text": "D"
+        },
+        {
+          "id": "B",
+          "text": "C"
+        },
+        {
+          "id": "C",
+          "text": "A"
+        },
+        {
+          "id": "D",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 61 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 61 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): A.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 62,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "R eplace the question mark with an appropriate  image to complete the analogous pair.",
+      "options": [
+        {
+          "id": "A",
+          "text": "D"
+        },
+        {
+          "id": "B",
+          "text": "C"
+        },
+        {
+          "id": "C",
+          "text": "A"
+        },
+        {
+          "id": "D",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 62 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 62 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): D.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 63,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "F ill in the blank:  JAK, KBL, LCM, MDN, _____",
+      "options": [
+        {
+          "id": "A",
+          "text": "NEO"
+        },
+        {
+          "id": "B",
+          "text": "PEQ"
+        },
+        {
+          "id": "C",
+          "text": "OEP"
+        },
+        {
+          "id": "D",
+          "text": "MEN"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 63 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 63 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): NEO.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 64,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "F ind the synonym that is most nearly similar in  meaning to the word:  DEBACLE",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dandy"
+        },
+        {
+          "id": "B",
+          "text": "Corker"
+        },
+        {
+          "id": "C",
+          "text": "Catastrophe"
+        },
+        {
+          "id": "D",
+          "text": "Opulence"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 64 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 64 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Catastrophe.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 65,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "I f in a certain language, KOLKOTA is coded as  LPMLPUB, how is MUMBAI coded in that code?",
+      "options": [
+        {
+          "id": "A",
+          "text": "NVNBCJ"
+        },
+        {
+          "id": "B",
+          "text": "NVNCBJ"
+        },
+        {
+          "id": "C",
+          "text": "NUNBCH"
+        },
+        {
+          "id": "D",
+          "text": "OVNBBH"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 65 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 65 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): NVNCBJ.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 66,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "S elect the related word from the given  alternatives.  MELT : LIQUID : : FREEZE : ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "SOLID"
+        },
+        {
+          "id": "B",
+          "text": "PUSH"
+        },
+        {
+          "id": "C",
+          "text": "ICE"
+        },
+        {
+          "id": "D",
+          "text": "CONDENSE"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 66 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 66 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): SOLID.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 67,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "L ooking at the portrait of a man, Manu said,  \"Her mother is the wife of my father's son and I  have no brother and sister.\" Whose portrait  was Manu looking at?",
+      "options": [
+        {
+          "id": "A",
+          "text": "His son"
+        },
+        {
+          "id": "B",
+          "text": "His father"
+        },
+        {
+          "id": "C",
+          "text": "His nephew"
+        },
+        {
+          "id": "D",
+          "text": "His daughter"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 67 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 67 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): His daughter.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 68,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "I dentify the sixth number in the series:  6, 11, 21, 36, 56, ?",
+      "options": [
+        {
+          "id": "A",
+          "text": "52"
+        },
+        {
+          "id": "B",
+          "text": "21"
+        },
+        {
+          "id": "C",
+          "text": "81"
+        },
+        {
+          "id": "D",
+          "text": "82"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 68 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 68 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 81.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 69,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "U, V, W, X and T are sitting on a bench. T is  sitting next to U, V is sitting next to W, W is not  sitting with X who is on the left end of the  bench. V is in the second position from the  right. T is to the right of U and X. T and V are  sitting together. In which position T is sitting?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Between V and X"
+        },
+        {
+          "id": "B",
+          "text": "Between U and V"
+        },
+        {
+          "id": "C",
+          "text": "Between U and W"
+        },
+        {
+          "id": "D",
+          "text": "Between X and W"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 69 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 69 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): Between U and V.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 70,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Comprehension:  I n each question below are given two statements  followed by two conclusions numbered I  and II. You have to take the given two statements  to be true even if they seem to be at  variance from commonly known facts.  Read the conclusion and then decide which of the  given conclusions logically follows from  the two given statements, disregarding commonly  known facts.  20. Statements:  N o women teacher can play.  Some women teachers are athletes.    Conclusions:  I . Male athletes can play.  II. Some athletes can play.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Neither I nor II follows"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion II follows"
+        },
+        {
+          "id": "C",
+          "text": "Either I or II follows"
+        },
+        {
+          "id": "D",
+          "text": "Only conclusion I follows"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 70 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 70 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): Neither I nor II follows.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 71,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Statements:  A ll mangoes are golden in colour.  No golden-coloured things are cheap.    Conclusions:  I . All mangoes are cheap.  II. Golden-coloured mangoes are not cheap.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion I follows"
+        },
+        {
+          "id": "B",
+          "text": "Either I or II follows"
+        },
+        {
+          "id": "C",
+          "text": "Only conclusion II follows"
+        },
+        {
+          "id": "D",
+          "text": "Neither I nor II follows"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 71 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 71 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Only conclusion II follows.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 72,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Statements:  A ll young scientists are open-minded.  No open-minded men are superstitious.    Conclusions:  I . No scientist is superstitious.  II. No young people are superstitious.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Only conclusion I follows"
+        },
+        {
+          "id": "B",
+          "text": "Only conclusion II follows"
+        },
+        {
+          "id": "C",
+          "text": "Neither I nor II follows"
+        },
+        {
+          "id": "D",
+          "text": "Either I or II follows"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 72 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 72 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Neither I nor II follows.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 73,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "S ix books are labelled A, B, C, D, E and F and are  placed side by side. Books B, C, E and F have  green covers while others have yellow covers.  Books A, B and D are new while the rest are old  volumes. Books A, B and C are law reports  while the rest are medical extracts. Which two  books are old medical extracts and have green  covers?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C and E"
+        },
+        {
+          "id": "B",
+          "text": "B and C"
+        },
+        {
+          "id": "C",
+          "text": "E and F"
+        },
+        {
+          "id": "D",
+          "text": "C and F"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 73 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 73 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): E and F.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 74,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "F ind out the wrong number in the FOLLOWING  series.  2, 5, 10, 17, 26, 38, 50, 65",
+      "options": [
+        {
+          "id": "A",
+          "text": "50"
+        },
+        {
+          "id": "B",
+          "text": "65"
+        },
+        {
+          "id": "C",
+          "text": "26"
+        },
+        {
+          "id": "D",
+          "text": "38"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 74 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 74 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): 38.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 75,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "F ind out the wrong number in the FOLLOWING  series.  30, -5, -45, -90, -145, -195, -255",
+      "options": [
+        {
+          "id": "A",
+          "text": "-145"
+        },
+        {
+          "id": "B",
+          "text": "-255"
+        },
+        {
+          "id": "C",
+          "text": "-195"
+        },
+        {
+          "id": "D",
+          "text": "-5"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 75 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 75 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): -145.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 76,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Comprehension:  T he following questions are based on the pie- charts given below.  Percentage-wise distribution of students studying  i n Arts and Commerce in seven different  institutions \u2013 A, B, C, D, E, F and G            26. What is the total number of students studying Arts  in Institutes A and G together?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1226"
+        },
+        {
+          "id": "B",
+          "text": "1206"
+        },
+        {
+          "id": "C",
+          "text": "1126"
+        },
+        {
+          "id": "D",
+          "text": "1026"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 76 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 76 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): 1026.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 77,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "How many students from Institute B study Arts and  Commerce?",
+      "options": [
+        {
+          "id": "A",
+          "text": "1208"
+        },
+        {
+          "id": "B",
+          "text": "1108"
+        },
+        {
+          "id": "C",
+          "text": "1018"
+        },
+        {
+          "id": "D",
+          "text": "1180"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 77 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 77 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 1018.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 78,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "The ratio of the number of students studying Arts to  that studying commerce in Institute E is.",
+      "options": [
+        {
+          "id": "A",
+          "text": "19 : 16"
+        },
+        {
+          "id": "B",
+          "text": "19 : 27"
+        },
+        {
+          "id": "C",
+          "text": "19 : 28"
+        },
+        {
+          "id": "D",
+          "text": "27 : 14"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 78 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 78 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 19 : 27.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 79,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Statement:  M any shops in the local market have extended  their shops and occupied most part of the  footpath in front of their shops.    Course of Action  I . The civic authority should immediately   activate a task force to clear all the   footpaths encroached by the shop owners.  II. The civic authority should charge hefty   penalty to the shop owners for occupying   the footpath  III. The civic authority should setup a   monitoring system so that encroachments   do not recur in future.",
+      "options": [
+        {
+          "id": "A",
+          "text": "None follows"
+        },
+        {
+          "id": "B",
+          "text": "I and II follows"
+        },
+        {
+          "id": "C",
+          "text": "II and III follow"
+        },
+        {
+          "id": "D",
+          "text": "All I, II and III follows"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 79 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 79 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): All I, II and III follows.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 80,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Statement:  T here is a significant increase in the number of  patients affected by some disease in a city    Course of action:  I . Municipal Corporation of the city should   take immediate action.  II. This problem should be raised in the   UNESCO.  III. Hospitals in the city should be equipped   properly for the treatment of the patients",
+      "options": [
+        {
+          "id": "A",
+          "text": "All follow"
+        },
+        {
+          "id": "B",
+          "text": "I and II follow"
+        },
+        {
+          "id": "C",
+          "text": "Only III follow"
+        },
+        {
+          "id": "D",
+          "text": "I and II follow"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 80 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 80 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): I and II follow.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 81,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Direction: Read the following information carefully  and answer the questions.  F ive Dramas A, B, C, D and E have to be staged in 6  hour where 1 hour needs to be given per drama.  (1) A break of 1 hour has to be taken in third or  four hour.  (2) Drama show cannot be started with A and  cannot end in C.  (3) D has to follow B immediately with no break in  between.  (4) A cannot be done immediately after D  (5) A has to precede E immediately with no break  in between.  31. W hich hour is a break hour?",
+      "options": [
+        {
+          "id": "A",
+          "text": "5th"
+        },
+        {
+          "id": "B",
+          "text": "2 nd"
+        },
+        {
+          "id": "C",
+          "text": "4th"
+        },
+        {
+          "id": "D",
+          "text": "3 rd"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 81 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 81 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): 3 rd.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 82,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Which is the drama to be staged first?",
+      "options": [
+        {
+          "id": "A",
+          "text": "None of these"
+        },
+        {
+          "id": "B",
+          "text": "B"
+        },
+        {
+          "id": "C",
+          "text": "D"
+        },
+        {
+          "id": "D",
+          "text": "A"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 82 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 82 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): B.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 83,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "W hich is the drama staged immediately after  the break?",
+      "options": [
+        {
+          "id": "A",
+          "text": "D"
+        },
+        {
+          "id": "B",
+          "text": "None of these"
+        },
+        {
+          "id": "C",
+          "text": "A"
+        },
+        {
+          "id": "D",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 83 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 83 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): None of these.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 84,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "W hich drama is staged immediately after D?",
+      "options": [
+        {
+          "id": "A",
+          "text": "E"
+        },
+        {
+          "id": "B",
+          "text": "C"
+        },
+        {
+          "id": "C",
+          "text": "B"
+        },
+        {
+          "id": "D",
+          "text": "None of these"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 84 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 84 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): C.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 85,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "W hich drama is staged immediately after E?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C"
+        },
+        {
+          "id": "B",
+          "text": "A"
+        },
+        {
+          "id": "C",
+          "text": "None of these"
+        },
+        {
+          "id": "D",
+          "text": "E"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 85 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 85 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): None of these.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 86,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "Running at the same constant rate, 6 identical  machines can produce a total of 270 bottles per  minute. At this rate, how many bottles could 10  such machines produce in 4 minutes?",
+      "options": [
+        {
+          "id": "A",
+          "text": "10800"
+        },
+        {
+          "id": "B",
+          "text": "648"
+        },
+        {
+          "id": "C",
+          "text": "1800"
+        },
+        {
+          "id": "D",
+          "text": "2700"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 86 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 86 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): 1800.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 87,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "A t what time, in minutes, between 3 o\u2019clock and  4 o\u2019clock, both the needles will coincide each  other?",
+      "options": [
+        {
+          "id": "A",
+          "text": "C"
+        },
+        {
+          "id": "B",
+          "text": "b"
+        },
+        {
+          "id": "C",
+          "text": "d"
+        },
+        {
+          "id": "D",
+          "text": "a"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 87 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 87 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): d.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 88,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "A is the brother of B  2. C is the father of A  3. D is brother of E.  4. E is the daughter of B  Then, the uncle of D is?",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "E"
+        },
+        {
+          "id": "C",
+          "text": "B"
+        },
+        {
+          "id": "D",
+          "text": "C"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 88 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 88 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): A.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 89,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "A person's present age is two-fifth of the age of  his mother. After 8 years, he will be onehalf of  the age of his mother. What is the present age  of the mother?",
+      "options": [
+        {
+          "id": "A",
+          "text": "40"
+        },
+        {
+          "id": "B",
+          "text": "30"
+        },
+        {
+          "id": "C",
+          "text": "60"
+        },
+        {
+          "id": "D",
+          "text": "50"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 89 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 89 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 40.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 90,
+      "subject": "Analytical Ability",
+      "chapter": "Logical Reasoning",
+      "topic": "Reasoning, Seating, Deductions & Puzzles",
+      "questionText": "T he greatest number which on dividing 1657  and 2037 leaves remainders 6 and 5  respectively is",
+      "options": [
+        {
+          "id": "A",
+          "text": "127"
+        },
+        {
+          "id": "B",
+          "text": "235"
+        },
+        {
+          "id": "C",
+          "text": "123"
+        },
+        {
+          "id": "D",
+          "text": "305"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 90 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 90 under Logical Reasoning (Reasoning, Seating, Deductions & Puzzles).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): 127.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 91,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "T he maximum and minimum value represented  in signed 16 bit 2's complement  representations are",
+      "options": [
+        {
+          "id": "A",
+          "text": "-16384 and 16383"
+        },
+        {
+          "id": "B",
+          "text": "0 and 32767"
+        },
+        {
+          "id": "C",
+          "text": "0 and 65535"
+        },
+        {
+          "id": "D",
+          "text": "-32768 and 32767"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 91 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 91 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): -32768 and 32767.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 92,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "T he minimum number of NAND gates required  for implementing the Boolean expression,  \u0087\u0088 9 \u0087\u0088\u00bf\u00ab 9 \u0087\u0088\u00bf \u00ab\u0305 is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "1"
+        },
+        {
+          "id": "B",
+          "text": "0"
+        },
+        {
+          "id": "C",
+          "text": "2"
+        },
+        {
+          "id": "D",
+          "text": "3"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 92 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 92 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 0.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 93,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "W hich of the following is equivalent to the  Boolean expression:  (` 9 K). (` 9 K\u00bf). (`\u00bf 9 K)",
+      "options": [
+        {
+          "id": "A",
+          "text": "`K"
+        },
+        {
+          "id": "B",
+          "text": "`K \u00bf"
+        },
+        {
+          "id": "C",
+          "text": "`\u00bfK"
+        },
+        {
+          "id": "D",
+          "text": "` \u00bfK\u00bf"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 93 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 93 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): `K.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 94,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "S uppose the largest n bit number requires \u2018d\u2019  digits in decimal representation. Which of the  following relations between \u2018n\u2019 and \u2018d\u2019 is  approximately correct",
+      "options": [
+        {
+          "id": "A",
+          "text": "a \u001c 2\u0094"
+        },
+        {
+          "id": "B",
+          "text": "x \u001c 2 \u00a4"
+        },
+        {
+          "id": "C",
+          "text": "a ] x log\u001d\u001e 2"
+        },
+        {
+          "id": "D",
+          "text": "a \u0093 x log\u001d\u001e 2"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 94 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 94 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): a \u0093 x log\u001d\u001e 2.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 95,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "I f a processor clock is rated as 2500 million  cycles per second, then its clock period is:",
+      "options": [
+        {
+          "id": "A",
+          "text": "2.50 \u0081 10 \u001d\u001e sec"
+        },
+        {
+          "id": "B",
+          "text": "4.00 \u0081 10 \u001d\u001e sec"
+        },
+        {
+          "id": "C",
+          "text": "1.00 \u0081 10 \u001d\u001e sec"
+        },
+        {
+          "id": "D",
+          "text": "None of the above"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 95 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 95 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 4.00 \u0081 10 \u001d\u001e sec.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 96,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "W rite the simplified form of the Boolean  expression (\u0087 9 \u00ab)(\u0087\u0099 9 \u0087\u0099\u02dc) 9 \u0087\u00ab 9 \u00ab:",
+      "options": [
+        {
+          "id": "A",
+          "text": "\u0087 9 \u00ab\u2032"
+        },
+        {
+          "id": "B",
+          "text": "\u0087 \u02dc 9 \u00ab"
+        },
+        {
+          "id": "C",
+          "text": "\u0087 9 \u0099"
+        },
+        {
+          "id": "D",
+          "text": "\u0087 9 \u00ab"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 96 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 96 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): \u0087 9 \u00ab.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 97,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "F FFF will be the last memory location in a  memory of size",
+      "options": [
+        {
+          "id": "A",
+          "text": "1k"
+        },
+        {
+          "id": "B",
+          "text": "64k"
+        },
+        {
+          "id": "C",
+          "text": "32k"
+        },
+        {
+          "id": "D",
+          "text": "16k"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 97 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 97 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): 64k.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 98,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "\u2018 Floating point representation\u2019 is used to  represent",
+      "options": [
+        {
+          "id": "A",
+          "text": "Integers"
+        },
+        {
+          "id": "B",
+          "text": "Whole Numbers"
+        },
+        {
+          "id": "C",
+          "text": "Real Numbers"
+        },
+        {
+          "id": "D",
+          "text": "Boolean Values"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 98 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 98 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Real Numbers.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 99,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "T he Boolean expression AB9 AB' 9 A'C 9 AC is  unaffected by the value of the Boolean variable",
+      "options": [
+        {
+          "id": "A",
+          "text": "A"
+        },
+        {
+          "id": "B",
+          "text": "None of these"
+        },
+        {
+          "id": "C",
+          "text": "C"
+        },
+        {
+          "id": "D",
+          "text": "B"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 99 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 99 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): B.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 100,
+      "subject": "Computer Awareness",
+      "chapter": "Computer Basics",
+      "topic": "Data Representation, Logic Gates & Architecture",
+      "questionText": "If a signal passing through a gate is inhibited by  sending a low into one of the inputs, and the  output is HIGH, the gate is a(n):",
+      "options": [
+        {
+          "id": "A",
+          "text": "NOR"
+        },
+        {
+          "id": "B",
+          "text": "AND"
+        },
+        {
+          "id": "C",
+          "text": "OR"
+        },
+        {
+          "id": "D",
+          "text": "NAND"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 100 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 100 under Computer Basics (Data Representation, Logic Gates & Architecture).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): NAND.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 101,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "W hat can you call a person who leads an  unconventional style of living?",
+      "options": [
+        {
+          "id": "A",
+          "text": "Altruist"
+        },
+        {
+          "id": "B",
+          "text": "Agnostic"
+        },
+        {
+          "id": "C",
+          "text": "Bohemian"
+        },
+        {
+          "id": "D",
+          "text": "Cynic"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 101 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 101 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Bohemian.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 102,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "\u201c Bite the bullet\u201d means",
+      "options": [
+        {
+          "id": "A",
+          "text": "to stop a conflict"
+        },
+        {
+          "id": "B",
+          "text": "to analyse your faults"
+        },
+        {
+          "id": "C",
+          "text": "to become mad"
+        },
+        {
+          "id": "D",
+          "text": "to accept something that is difficult or  unpleasant"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 102 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 102 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): to accept something that is difficult or  unpleasant.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 103,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "F ill in the banks with the correct option  Technical writing demands ______ use of  language.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Dramatic"
+        },
+        {
+          "id": "B",
+          "text": "Poetic"
+        },
+        {
+          "id": "C",
+          "text": "Figurative"
+        },
+        {
+          "id": "D",
+          "text": "Factual"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 103 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 103 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): Factual.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 104,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "S elect correct articles  He is\u2026.M.A. with PhD and teaches in  \u2026university.",
+      "options": [
+        {
+          "id": "A",
+          "text": "a, an"
+        },
+        {
+          "id": "B",
+          "text": "the, the"
+        },
+        {
+          "id": "C",
+          "text": "a, the"
+        },
+        {
+          "id": "D",
+          "text": "an, the"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 104 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 104 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): an, the.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 105,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "F ill in the blank with the most appropriate  option  Kedar__________ this project for a month and  now he is about to join a new project.",
+      "options": [
+        {
+          "id": "A",
+          "text": "guiding"
+        },
+        {
+          "id": "B",
+          "text": "guides"
+        },
+        {
+          "id": "C",
+          "text": "has been guiding"
+        },
+        {
+          "id": "D",
+          "text": "guided"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 105 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 105 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): has been guiding.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 106,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "S elect the correct form of verb/ Subject verb  agreement  The principal, along with his assistants,  ___________ the meeting.",
+      "options": [
+        {
+          "id": "A",
+          "text": "is attending"
+        },
+        {
+          "id": "B",
+          "text": "attending"
+        },
+        {
+          "id": "C",
+          "text": "attend"
+        },
+        {
+          "id": "D",
+          "text": "are attending"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 106 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 106 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): is attending.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 107,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Choose the correct alternative  T he country cleared this path and paved i t with  packed gravel, so they would have a peaceful place  to hike and bike.  7. W hich of the following alternatives to the  underlined portion would NOT be acceptable?",
+      "options": [
+        {
+          "id": "A",
+          "text": "path, paving"
+        },
+        {
+          "id": "B",
+          "text": "path and then paved"
+        },
+        {
+          "id": "C",
+          "text": "path before paving"
+        },
+        {
+          "id": "D",
+          "text": "path paved"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 107 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 107 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): path paved.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 108,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "COMPREHENSION:  R ead the following passage carefully and answer  the questions:  You might think you\u2019ve experienced VR, and you  might have been pretty impressed.  Particularly if you\u2019re a gamer, there are some great  experiences to be had out there (or rather, in  there) today. But over the next few years, in VR, as  in all fields of technology, we\u2019re going to see things  that make what is cutting-edge today look like  Space Invaders. And although the games will be  amazing, the effects of this transformation will be  far broader, touching on our work, education, and  social lives.  Today\u2019s most popular VR applications involve  taking total control of a user\u2019s senses (sight and  hearing, particularly) to create a totally immersive  experience that places the user in a fully virtual  environment that feels pretty realistic. Climb up  something high and look down, and you\u2019re likely to  get a sense of vertigo. If you see an object moving  quickly towards your head, you\u2019ll feel an urge to  duck out of the way.  Very soon, VR creators will extend this sensory  hijacking to our other faculties \u2013 for example,  touch and smell \u2013 to deepen that sense of  immersion. At the same time, the devices we use to  visit these virtual worlds will become cheaper and  lighter, removing the friction that can currently be  a barrier.  I believe extended reality (XR) \u2013 a term that covers  virtual reality (VR), augmented reality (AR), and  mixed reality (MR) \u2013 will be one of the most  transformative tech trends of the next five years. It  will be enabled and augmented by other tech  trends, including super-fast networking, that will  let us experience VR as a cloud service just like we  currently consume music and movies. And artificial  intelligence (AI) will provide us with more  personalized virtual worlds to explore, even giving      1 8, Zone-II, M.P. Nagar, Bhopal ( : 0755-4295319 | 1 0  us realistic virtual characters to share our  experiences with.  8. Th e passage states all the following about VR applications except",
+      "options": [
+        {
+          "id": "A",
+          "text": "Vertigo is a major feature of all AI applications"
+        },
+        {
+          "id": "B",
+          "text": "VR applications creates a virtual  environment that feels pretty realistic"
+        },
+        {
+          "id": "C",
+          "text": "Future AI will allow us to share our  experiences with realistic virtual characters"
+        },
+        {
+          "id": "D",
+          "text": "VR applications takes control of the user\u2019s  senses"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 108 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 108 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): Vertigo is a major feature of all AI applications.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 109,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "\u2018D uck out of something\u2019 means",
+      "options": [
+        {
+          "id": "A",
+          "text": "To hit something hard"
+        },
+        {
+          "id": "B",
+          "text": "To avoid doing something"
+        },
+        {
+          "id": "C",
+          "text": "To fall down"
+        },
+        {
+          "id": "D",
+          "text": "To meet with an accident"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 109 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 109 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): To avoid doing something.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 110,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Se lect an antonym for the word \u2018augment\u2019 from the options given below:",
+      "options": [
+        {
+          "id": "A",
+          "text": "Aggrandize"
+        },
+        {
+          "id": "B",
+          "text": "Reinforce"
+        },
+        {
+          "id": "C",
+          "text": "Curtail"
+        },
+        {
+          "id": "D",
+          "text": "Inflate"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 110 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 110 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Curtail.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 111,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Se lect the word which means the same as the following: To read something carefully",
+      "options": [
+        {
+          "id": "A",
+          "text": "Presume"
+        },
+        {
+          "id": "B",
+          "text": "Peruse"
+        },
+        {
+          "id": "C",
+          "text": "Perverse"
+        },
+        {
+          "id": "D",
+          "text": "Persiflage"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 111 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 111 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): Peruse.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 112,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Ch oose the correct alternative with the correct choice given below each statement: You are to conform ______________________ the rules of the institute.",
+      "options": [
+        {
+          "id": "A",
+          "text": "with"
+        },
+        {
+          "id": "B",
+          "text": "to"
+        },
+        {
+          "id": "C",
+          "text": "of"
+        },
+        {
+          "id": "D",
+          "text": "on"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 112 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 112 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): to.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 113,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Ch oose the antonym: BOLD",
+      "options": [
+        {
+          "id": "A",
+          "text": "Fearful"
+        },
+        {
+          "id": "B",
+          "text": "Coy"
+        },
+        {
+          "id": "C",
+          "text": "Timid"
+        },
+        {
+          "id": "D",
+          "text": "Nervous"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "easy",
+      "explanation": {
+        "summary": "Official solution for Question 113 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 113 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): Timid.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 114,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Se lect the one which best expresses the same sentence in indirect/direct speech: He said, \u201cI am glad to be here this evening.\u201d",
+      "options": [
+        {
+          "id": "A",
+          "text": "He said he was glad to be here this evening."
+        },
+        {
+          "id": "B",
+          "text": "He says he was glad to be here this evening."
+        },
+        {
+          "id": "C",
+          "text": "He asked he is glad to be here this evening"
+        },
+        {
+          "id": "D",
+          "text": "He said that he was glad to be there that evening"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 114 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 114 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): He said that he was glad to be there that evening.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 115,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "I dentify the word that is similar in meaning to the underlined word. Raghu made adulatory remarks about the waiter who served the food.",
+      "options": [
+        {
+          "id": "A",
+          "text": "Complimentary"
+        },
+        {
+          "id": "B",
+          "text": "Ironic"
+        },
+        {
+          "id": "C",
+          "text": "Slanderous"
+        },
+        {
+          "id": "D",
+          "text": "Derogatory"
+        }
+      ],
+      "correctAnswer": "A",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 115 of NIMCET 2022. Correct option is (A).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 115 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (A): Complimentary.",
+            "formula": "",
+            "calculation": "Correct option is (A)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 116,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "Wh ich of the phrase given below should replace the phrase printed in bold to make the sentence grammatically correct. He is addicted to smoke.",
+      "options": [
+        {
+          "id": "A",
+          "text": "used to smoke"
+        },
+        {
+          "id": "B",
+          "text": "addicted with smoking"
+        },
+        {
+          "id": "C",
+          "text": "addict of smoking"
+        },
+        {
+          "id": "D",
+          "text": "addicted to smoking"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 116 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 116 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): addicted to smoking.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 117,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "F ill in the blanks with the correct preposition Jagdish is waiting for me_____ the campus.",
+      "options": [
+        {
+          "id": "A",
+          "text": "In"
+        },
+        {
+          "id": "B",
+          "text": "On"
+        },
+        {
+          "id": "C",
+          "text": "At"
+        },
+        {
+          "id": "D",
+          "text": "Out"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 117 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 117 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): On.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 118,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "R ead the following sentence to find if there is any error in any part: (A) If I were him/ (B) I would teach/ (C) him a lesson/ (D) No error",
+      "options": [
+        {
+          "id": "A",
+          "text": "I would teach"
+        },
+        {
+          "id": "B",
+          "text": "If I were him"
+        },
+        {
+          "id": "C",
+          "text": "him a lesson"
+        },
+        {
+          "id": "D",
+          "text": "No error"
+        }
+      ],
+      "correctAnswer": "D",
+      "difficulty": "hard",
+      "explanation": {
+        "summary": "Official solution for Question 118 of NIMCET 2022. Correct option is (D).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 118 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (D): No error.",
+            "formula": "",
+            "calculation": "Correct option is (D)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 119,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "C hoose the synonym. LIBERAL",
+      "options": [
+        {
+          "id": "A",
+          "text": "Sober"
+        },
+        {
+          "id": "B",
+          "text": "Generous"
+        },
+        {
+          "id": "C",
+          "text": "Reactionary"
+        },
+        {
+          "id": "D",
+          "text": "Affectionate"
+        }
+      ],
+      "correctAnswer": "B",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 119 of NIMCET 2022. Correct option is (B).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 119 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (B): Generous.",
+            "formula": "",
+            "calculation": "Correct option is (B)."
+          }
+        ]
+      }
+    },
+    {
+      "questionNumber": 120,
+      "subject": "General English",
+      "chapter": "English Grammar & Comprehension",
+      "topic": "Comprehension, Vocabulary & Syntax",
+      "questionText": "F ill in the blank Neither Peter nor I ________ responsible for this blunder",
+      "options": [
+        {
+          "id": "A",
+          "text": "were"
+        },
+        {
+          "id": "B",
+          "text": "is"
+        },
+        {
+          "id": "C",
+          "text": "am"
+        },
+        {
+          "id": "D",
+          "text": "are"
+        }
+      ],
+      "correctAnswer": "C",
+      "difficulty": "moderate",
+      "explanation": {
+        "summary": "Official solution for Question 120 of NIMCET 2022. Correct option is (C).",
+        "stepByStep": [
+          {
+            "stepNumber": 1,
+            "title": "Problem Statement & Concept",
+            "content": "Review problem conditions for Question 120 under English Grammar & Comprehension (Comprehension, Vocabulary & Syntax).",
+            "formula": "",
+            "calculation": ""
+          },
+          {
+            "stepNumber": 2,
+            "title": "Evaluation",
+            "content": "Applying standard conceptual principles leads directly to option (C): am.",
+            "formula": "",
+            "calculation": "Correct option is (C)."
+          }
+        ]
+      }
+    }
+  ]
+}

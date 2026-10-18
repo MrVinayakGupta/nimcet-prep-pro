@@ -1,0 +1,906 @@
+=== PAGE 1 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+1. The tangent at the point (2 ,–2) to the curve
+)1(4222 yxyx   does not pass through the point
+_____
+(a) (–2, –7) (b) (–4, –9)  (c) )31,4( (d) (8, 5)
+2. The integral    20;)cot(coscot21 xdxxxecx
+(where C is a constant of integration) is equal to
+(a) Cx  2sinlog2 (b) Cx  2coslog2
+(c) Cx  2coslog4 (d) Cx  2sinlog4
+3. If all the words, with or without meaning, are written
+using the letters of the word QUEEN and are arranged
+as in English Dictonary, then the position of the word
+QUEEN is
+(a) 47th (b) 44th (c) 45th (d) 46th
+4. The curve satisfying the differential equation,
+0)3( 2  dyyxydx  and passing through the point
+(1, 1) also passes through the point ____
+(a)  21,41 (b)   21,41
+(c)   31,31 (d)   31,31
+5. 242
+33lim
+3 
+
+ x
+x
+x  is equal to
+(a) 3 (b) 23 (c) 22 1 (d) 21
+6. The mean of 5 observations is 5 and their variance is
+124. If three of the observations are 1, 2, 6, then the
+mean deviation from the mean of the data is
+(a) 2.5 (b) 2.6 (c) 2.8 (d) 2.4
+7. In a beauty contest, half the number of experts voted Mr.
+A and two thirds voted for Mr. B. 10 voted for both and 6
+did not for either. How many experts were there in all ?
+(a) 18 (b) 36 (c) 24 (d) None
+8. The value of non-zero scalars  and   such that for all
+vectors a  and b such that 0)4(2(  ababa    is
+(a) 2 , 1 (b) 2 , 3
+(c) 1 , 3 (d) 2 , 3
+9. A force of 78 grams acts at the point (2, 3, 5). The direction
+ratios of the line of action being 2, 2, 1. The magnitude
+of its moment about the line joining the origin to the
+point (12, 3, 4) is
+(a) 24 (b) 136 (c) 36 (d) 0
+10. Number of real solutions of the equation
+xxxe  55)sin(  is
+(a) 0 (b) 1     (c) 2 (d) Infinitely many
+11. For two circles 1622  yx  and 0222  yyx , there
+ is/are
+(a) One pair of common tangents
+(b) Two pairs of common tangents
+(c) Three common tangents
+(d) No common tangents
+12. Let RRf :  be defined by 
+
+
+
+
+
+
+
+
+
+0if0
+0if,1sin)(
+x
+xxxxf
+Then
+(a) f is nither continuous nor differentiable at x=0.
+(b) f is continuous and differentiable at x=0.
+(c) f is continuous but not differentiable at x=0.
+(d) f is not continuous but differentiable at x=0.
+13. A particle P starts from the point iz 210  , where
+1i . It moves first horizontally away from the origin
+ by 5 units and then vertically away from the origin by 3
+units to reach a point 1z . From 1z  the particle moves
+2  units in the direction of the vector ji ˆˆ  and, then it
+moves through an angle 2  in an anti-clockwise
+ direction on a circle with centre at the origin, to reach a
+point 2z . The point 2z  is given by
+(a) iˆ76  (b) iˆ67 
+(c) iˆ67  (d) iˆ76 
+14. If 22 )( cba  , where   is the area of the ABC ,
+then tan A equals
+(a) 16
+15
+(b) 15
+8
+(c)17
+8
+(d) 21
+15. Two numbers a and b are chosen at random from a set
+of first 30 natural numbers, then the probability that
+22 ba   is divisible by 3 is
+(a) 87
+47
+(b) 87
+15
+(c) 87
+12
+(d) 87
+9
+Nimcet Actual 2019
+
+=== PAGE 2 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+16. If  xxxxx 2sin2cotcostansin 22
+xx cottan1  ,
+),0( x , then x =
+(a) 125,123  (b) 127,125 
+(c) 1211,127  (d) 129,127 
+17. a  and b  are non-zero non-collinear vectors such that
+2|| a , 1. ba   and the angle between a  and b  is 3 .
+If r  is any vector satisfying ,8.2.  brar  ,
+6)).(102(  babar
+  and )(102 babar    , then
+  =
+(a) 21 (b) 2 (c) 34 (d) 3
+18. In a chess tournament, n men and 2 women players
+participated. Each player plays 2 games against every
+other player. Also, the total number of games played by
+the men among themselves exceeded by 66 the number
+of games that the men played against the women. Then
+the total number of players in the tournament is
+(a) 13 (b) 11 (c) 9 (d) 7
+19. Suppose 1A , 2A ..., 30A  are thirty sets each having 5
+elements with no common element across the sets
+and 1B , 2B , ... nB  are n sets each having 3 elements
+with no common element across the sets. Let
+SBUAU j
+n
+jii   1
+30
+1 , and each element of S belongs to
+exactly 10 of iA ’s and exactly 9 of jB ’s. The value of n is
+equal to
+(a) 15 (b) 30
+(c) 40 (d) 45
+20. Let 
+
+
+ 0,|| ;0],cos[)( xax xxxf , where [ x ] denotes the
+greatest integer x . If f should be continuous atx  = 0,
+then a must be
+(a) 0 (b) 1 (c) 2 (d) –1
+21. If S and S’ are foci of the ellipse 12
+2
+2
+2
+
+b
+y
+a
+x
+, B is the
+end of the minor axis and BSS’ is an equilateral triangle,
+then the eccentricity of the ellipse is
+(a) 21 (b) 31 (c) 41 (d) 51
+22. The equation of the circle passing through the point
+(4, 6) and whose diameters are along 052  yx  and
+013  yx  is
+(a) 0206222  yxyx
+(b) 0202622  yxyx
+(c) 0204222  yxyx
+(d) 0202422  yxyx
+23. In a parallelogram ABCD, P is the midpoint AD. Also, BP
+and AC intersect at Q. Then AQ : QC =
+(a) 1 : 3 (b) 3 : 1 (c) 2 : 1 (d) 1 : 2
+24. The median AD of ABC  is bisected at E  and BE is
+extended to meet the side AC in F. Then AF : FC =
+(a) 1 : 3 (b) 2 : 1 (c) 1 : 2 (d) 3 : 1
+25. Let )(xp  be a quadratic polynomial such that 1)0( p . If
+)(xp  leaves remainder 4 when divided by 1x  and it
+leaves remainder 6 when divided by 1x , then
+(a) p(–2) = 11 (b) p(2) = 11
+(c) p(2) = 19 (d) p(-2) = 19
+26. Solution set of the inequality
+7log21)2(log)4)(2(log 3313  xxx  is
+(a) (–2, –1) (b) (–2, 3) (c) (–1, 3) (d) (3,  )
+27. If a, b, c are in GP and log a – log 2b, log 2b – log 3c and
+log 3c – log a are in AP , then a, b, c are the lengths of the
+sides of a triangle which is
+(a) Acute angled (b) Obtuse angled
+(c) Right angled (d) Equilateral
+28. If 33,22,  xxx  are the first three terms of a geometric
+progression, then 4th term in the geometric progression
+is
+(a) –13.5 (b) 13.5
+(c) –27 (d) 27
+29. If 121222162 ...1)21( xaxaxaxx  , then the value
+of 12642 ... aaaa   is
+(a) 29 (b) 30 (c) 31 (d) 32
+30. If a and b are the greatest values of rnC2  and rn C)12( 
+respectively, then
+(a) a = 2b (b) b = 2a
+(c) a = b (d) 22 2ba 
+
+=== PAGE 3 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+31. The sum of infinite terms of a decreasing GP is equal to
+the greatest value of the function 93)( 3  xxxf  in
+the interval [–2, 3] and the difference between the first
+two terms is )0('f . Then the common ratio of the GP is
+(a) 3
+2 (b) 34 (c) 32 (d) 34
+32. Number of onto (surjective) functions from A to B if n(A)
+= 6 and n(B) = 3 is
+(a) 226  (b) 336 
+(c) 340 (d) 540
+33. If 13|| z , then |cos2| 2 zz   is
+(a) less than 2 (b) 13 
+(c) 13  (d) None of these
+34. A computer producing factory has only two plants 1T
+and 2T . Plant 1T  produces 20% and plant 2T  produces
+80% of the total computers produced. 7% of the
+computers produced in the factory turn out to be
+defective. It is known that P(computer turns out to be
+defective given that it is produced in plant 1T ) = 10 P
+(computer turns out to be defective given that it is
+produced in plant 2T ) . A computer produced in the factory
+is randomly selected and it does not turn out to be
+defective. Then the probability that it is produced in plant
+2T  is
+(a) 73
+36
+(b) 79
+47
+(c) 93
+78
+(d) 83
+75
+35. If A > 0, B > 0 and 6 BA , then the minimum value of
+tan A + tan B is
+(a) 23  (b) 324 
+(c) 3
+2
+(d) 32 
+36. A man takes a step forward with probability 0.4 and
+backwards with probability 0.6. The probability that at
+the end of eleven steps, he is one step away from the
+starting point is
+(a) 5)34.0(462 (b) 5)04.0(462
+(c) 5)14.0(462 (d) 5)24.0(462
+37. Let ix  i = 1, 2, .... n be n observations and kpxw ii  , i
+= 1, 2, ..., n where p and k are constants. If the mean of
+ix ’s is 48 and standard deviation is 12, whereas the
+mean of iw ’s is 55 and standard deviation is 15, then
+the values of p and k should be
+(a) p = 1.25, k = –5 (b) p = –1.25, k = 5
+(c) p = 2.5, k = –5 (d) p = 25, k = 5
+38. If x, y, z are distinct real numbers and 0
+2
+2
+2
+32
+32
+32
+
+
+
+
+zzz
+yyy
+xxx
+,
+then xyz =
+(a) 1 (b) –1 (c) 2 (d) –2
+39. Let f(x) be a polynomial satisfying f(0) = 2, f’(0) = 3 and
+f”(x) = f(x). Then f(4) is equal to
+(a) 4
+8
+2
+)1(5
+e
+e 
+(b) 4
+8
+2
+15
+e
+e 
+(c) 15
+2
+8
+4
+e
+e
+(d) )1(5
+2
+8
+4
+e
+e
+40. If ,...,,,,, 12321 naaaaa  b are in AP , ,...,,,, 1221 nbbba b are
+in GP and ,...,,,,, 12321 ncccca  b are in HP , where a, b are
+positive, then the equation 02  nnn cxbxa  has its
+roots
+(a) Real and equal
+(b) Real and unequal
+(c) Imaginary
+(d) One real and one imaginary
+41. Let U and V be two events of a sample space S and P(A)
+denote the probability of an event A. Which of the following
+statements is true ?
+(a) If P(U) = P(V) then U = V
+(b) If P(U) = 0 then SU c  .
+(c) If VU  then U and V are independent.
+(d) If U and V are independent, then so are cU  and cV .
+42. If a man purchases a raffle ticket, he can win a first prize
+of Rs. 5000 or a second prize of Rs. 2000 with
+probabilities 0.001 and 0.003 respectively. What should
+be a fair price to pay for the ticket ?
+(a) Rs. 11 (b) Rs. 15
+(c) Rs. 2000 (d) None of these
+
+=== PAGE 4 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+43. If the mean deviation of the numbers 1, 1 + d, 1 + 2d, ...
+1 + 100d from their mean is 255, then d is equal to
+(a) 10.1 (b) 10.2 (c) 10.3 (d) 10.4
+44. If andx
+n
+i
+i 80
+1
+
+
+
+
+
+n
+i
+ix
+1
+2 400 , then a possible value
+of n among the following is
+(a) 9 (b) 12 (c) 15 (d) 18
+45. Let S be the set }100:{   aZa . If the equation
+0tan][tan2  axx  has real roots (where [  ] is the
+greatest integer function), then the number of elements
+is S is
+(a) 10 (b) 8 (c) 9 (d) 0
+46. If x is real, then the minimum value of 1
+1
+2
+2
+
+
+xx
+xx
+ is
+(a) 21 (b) 2 (c) 3 (d) 31
+47. If dxxxx 5cos2coscos
+cxAxAxAxA  8sin6sin4sin2sin 4321 , then the
+value of 1A , 2A , 3A , 4A  are
+(a) 211 A , 412 A , 613 A , 814 A
+(b) 8
+1
+1 A , 1612 A , 2413 A , 3214 A
+(c) 6
+1
+1 A , 1212 A , 1813 A , 2414 A
+(d) 411 A , 812 A , 1213 A , 1614 A
+48. If  
+x
+x
+dx
+e2log 61
+1 
+, then x =
+(a) log 2 (b) 2 log 2
+(c) 3 log 2 (d) 4 log 2
+49. Equation of the tangent from the point (3, –1) to the
+ ellipse 392 22  yx  is
+(a) 0332  yx (b) 0332  yx
+(c) 032  yx (d) None of these
+50. The position vectors of the vertices A, B, C of a
+ tetrahedron ABCD are kji ˆˆˆ  ,iˆ  and iˆ3
+ respectively and the altitude for the vertex D to the
+opposite face ABC meets the face at E. If the length of
+the edge ED is 4 and the volume of the tetrahedron is
+3
+22 , then the length of DE is
+(a) 1 (b) 2 (c) 3 (d) 4
+ANALYTICAL ABLITY & LOGICAL REASONING
+51. 1. All chickens are birds.
+2. Some chickens are hens.
+3. Female birds lay eggs.
+If the above three statements are facts, which of the
+following statements must also be a fact ?
+I. All birds lay eggs.
+II. Hens are birds.
+III. Some chickens are not hens.
+(a) II only
+(b) II and III only
+(c) I, II and III
+(d) None of the statements is a known fact.
+52. The number that comes next inthe series 1, 2, 3, 6, 11,
+20, 37, 68, .... is
+(a) 105 (b) 124 (c) 125 (d) 126
+53. Using only 2, 5, 10, 25 and 50 paise coins, the smallest
+number of coins required to pay exactly 79 paise, 66
+paise, and Re. 1.01 to three different persons is
+(a) 17 (b) 20 (c) 19 (d) 18
+54. What pair comes next in the following sequence; 99,
+90, 83, 78, ....
+(a) 71, 69 (b) 69, 57 (c) 67, 59 (d) 69, 63
+55. A dealer offers a cash discount of 20% and still makes
+a profit of 20% when he further allows 16 articles to a
+dozen to a particularly sticky bargainer. How much above
+the actual price was the listed price of the article ?
+(a) 100% (b) 80% (c) 75% (d) 66%
+56. A clock is set right at 5 AM. The clock loses 16 m in 24 th.
+What will be the night time when the clock indicates 10
+pm on the 4th day ?
+(a) 11.15 PM (b) 11. 00 PM
+(c) 12.00 PM (d) 12.30 PM
+57. A train overtakes two persos who are walking in the
+same direction in which the train is moving at the rate of
+2kmph and 4kmph and passes them completely in 9
+and 10 seconds respectively. Then length of the train is
+(a) 72 m (b) 54 m
+(c) 50 m (d) 45 m
+
+=== PAGE 5 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+58. Decide which of the given conclusion logically following
+from the given statement(s) :
+Statements :
+All suns are moons.
+Some moons are planets.
+Conclusions :
+I. All moons are suns.
+II. At least some moons are planets.
+(a) Either conclusion I or II is true
+(b) Neither conclusion I nor II is true
+(c) Both conclusions I and II are true
+(d) Only conclusion II is true
+59. Ten points are marked on a straight line and eleven
+poins are marked on another straight line. How many
+triangles can be constructed with vertices from among
+the above points ?
+(a) 495 (b) 550
+(c) 1045 (d) 2475
+60. The greatest number which on dividing 1657 and 2037
+leaves remainders 6 and 5 respectively is
+(a) 123 (b) 127 (c) 235 (d) 305
+61. Which number replaces the question mark in the figure
+given below
+8 7
+1010
+12 12
+219
+4 1
+48
+(a) 11 (b) 6 (c) 3 (d) 21
+62. Statement - I :  Out of total of 200 readers, 100 read
+Indian Express, 120 read Times of India and 50 read
+Hindu.
+Statement - II : Out of a total of 200 readers, 100 read
+Indian Express, 120 reads Times of India and 50 read
+neither.
+How many people (from the group surveyed) read both
+Indian Express and Times of India ?
+(a) The question can be answered with the help of
+ Statement II, alone.
+(b) Both, statement I and statement II are needed to
+answer the question.
+(c) The questions can be answered with the help of
+statement I alone.
+(d) The question cannot be answered even with the
+help of both the statements.
+63. If 137 + 276 = 435, how much is 731 + 672 ?
+(a) 534 (b) 1403 (c) 1623 (d) 1531
+64. Study the information carefully and answer the quesions
+given below :
+If we arrange the alphabets in the word “RATE” in the
+English alphabetical order, word “AERT” is formed. Then
+the third alphabet from the left in this word is “R”.
+Similarly, from the word “OPEN” we get “ENOP ” and the
+third alphabet from left is - “O”. From the word “CHEF”
+we get -“CEFH” and the third alphabet from left is “F”
+From the word “TYER” we get - “ERTY” and the third
+alphabet from left is “T”. From the word “TOY” we get -
+“OTY” and the third alphabet from left is “Y”. If we use all
+these letters, then a meaningful English word “FORTY”
+can be formed.
+Now find which of the following word set DOES NOT
+give a meaningful word in the similar way.
+(a) SAME, ROOM, BEST, AUTO
+(b) GOAT, PEST, WATT, ARMY
+(c) MALE, FIND, LOST THAT
+(d) JUMP , LIME, DUMB, SOME
+65. Navjivan Express from Ahmedabad to Chennai leaves
+Ahmedabad at 6.30 AM and travels at 50 kmph towards
+Baroda situated 100 km away. At 7.00 AM Howrah-
+Ahmedabad Express leaves Baroda towards
+Ahmedabad and travels at 40 kmph. At 7.30 AM Mr. Shah,
+the traffic controller at Baroda, realizes that both the
+trains are running on the same track. How much time
+does he have to avert a head-on collision between the
+two trains ?
+(a) 15 min (b) 20 min
+(c) 25 min (d) 30 min
+66. If the points ),( 2 aaP  lie in the region corresponding to
+the acute angle between the lines and then
+(a) )6,2(a (b) )6,4(a
+(c) )4,2(a (d) )14,10(a
+67. Some friends planned to contribute equally to jointly
+buy a CD player. However, two of them decided to
+withdraw at the last minute. As a result, each of the
+others had to shell out one rupee more than what they
+had planned for. If the price (in Rs.) of the CD player is
+an integer between 1000 and 1100, find the number of
+friend who actually contributed ?
+(a) 44 (b) 23 (c) 21 (d) 46
+68. Two liquids A and B are in the ratio 5 : 1 in container 1
+and 1 : 3 in container 2 respectively. In what ratio should
+the contents of the two containers be mixed so as to
+obtain a mixture of A and B in the ratio 1 : 1 ?
+(a) 2  : 3 (b) 4 : 3 (c) 3 : 2 (d) 3 : 4
+
+=== PAGE 6 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+69. Each family in a locality has at most two adults, and no
+family has fewer than 3 children. Considering all the
+families together, there are more adults than boys, more
+boys than girls, and more girls than families. Then the
+minimum possible number of familes in the locality is
+(a) 4 (b) 3 (c) 2 (d) 5
+70. Fresh grapes contain 90% by weight while dired grapes
+contain 20% water by weight. What is the weight of dry
+grapes available from 20 kg of fresh grapes ?
+(a) 2.5 kg (b) 2.4 kg (c) 2 kg (d) 10 kg
+71. A grocer sells half of the eggs that he has and another
+half an egg to Anurag. Then he sells half of the balance
+eggs and another half an egg to Deepak. Then he sells
+half of the balance eggs and another half an egg to
+Shivani. In the end he is left with just 7 eggs and he
+claims that he never broke an egg. How many eggs did
+he start with ?
+(a) 65 (b) 63 (c) 67 (d) 69
+72. There are eight poets, namely, P , Q, R, S, T, U, V and W
+in respect of whom questions are being asked in the
+examination. The first four are ancient poets and the
+last four are modern poets. The question on ancient
+and modern poets is being asked in alternate years.
+Those who like W also like V, those who like S like R
+also. The examiner who sets question is not likely to
+ask question on S because he has written an article on
+him. But he likes S. Last year a question was asked on
+U. Considering these facts, on whom the question is
+most likely to be asked this year ?
+(a) Q (b) R (c) S (d) V
+73. A team must be selected from the ten probable players
+–  A, B, C, D, E, G, H, I and J. of these A, C, E and J are
+forwards, B, G and H are point guards and D, F and I are
+defenders. The team must have at least one forward,
+one point guard and one defender. If the team includes
+J it must also include F the team must include E or B ,
+but not both if the team inculdes G, it must also include
+F. The team must include exactly one among C, G and I.
+C and F cannot be members of the same team. D and
+H cannot be members of the same team. The team
+must include both A and D or neither of them. There is
+not restriction on the number of members in the team.
+What could be the maximum size of the team that
+includes G ?
+(a) 4 (b) 5          (c) 6      (d) More than 6
+74. How many 4-digit numbers can be formed from the
+digits 2, 3, 5, 6, 7 and 9, which are divisible by 5 and
+none of the digits is repeated ?
+(a) 216 (b) 60 (c) 24 (d) 25
+75. In a family of six person, there are people from three
+ generations. Each person has separate profession
+and also they like different colours. There are two
+couples in the family. Mohan is a CA and his wife is
+neither a Doctor nor likes Green colour. Mohini is mother-
+in-law of Savita and she likes the Orange colour.
+ Engineer likes Red colour and his wife is a Teacher.
+Deepak is grandfather of Titu. Titu, who- is a principal,
+like the Black colour Neeru is the granddaughter of
+Mohini and she likes blue colour. Nerru's mother likes
+the White colour. Savita is a
+(a) Doctor (b) Teacher
+(c) Housewife (d) None of these
+Questions 76, 77 and 78 are based on the following:
+Twelve classmates A, B, C, D, E, F, G, H, I, J, K and L are sitting
+on a square table with 3 persons on each side. ABC and GJK
+are sitting on opposite sides. A and L are adjacent to each
+other but not on the same side. D and E are on the same side
+but not adjacent to each other. K is sitting diagonally opposite
+to C.
+76. If F is sitting between D and E, who is sitting to the left of
+K?
+(a) H (b) I (c) H or I (d) None
+77. If H is sitting between I, and F. then he will be facing
+(a) D (b) E (c) G (d) I
+78. If G and E are facing C and H respectively, the neighbours
+of K are
+(a) J and H (b) J and E
+(c) H and J (d) H and E
+79. The integers 34041, and 32506 when divided by a 3-
+digit integer n leave the same remainder. What is the
+value of n?
+(a) 289 (b) 307 (c) 367 (d) 493
+80. The number of solid spheres, each of diameter 3cm
+that could be moulded to form a solid cylinder of height
+54cm and diameter 4cm is
+(a) 16 (b) 24 (c) 36 (d) 48
+81. How many positive integers less than 10,000 are such
+that the product of their digits is 210?
+(a) 36 (b) 42 (c) 48 (d) 54
+82. Each of the five people, K, L, M, P and Q is of a different
+weight. It is known that the number of people heavier
+than P is the same as the number of people lighter than
+Q. L is the heaviest and K is not the lightest. Who is the
+lightest?
+(a) M (b) L (c) Q (d) P
+83. John, Johny and Janardan participated in a race and
+each won a different medal among Gold, Silver and.
+Bronze, not necessarily in that order. Each person
+among them gives two replies to any question, one of
+which is true and the other is false (in any order). When
+asked about the details of medals obtained by them,
+following were their replies:
+John: I won the Gold medal. Johny won the Bronze
+medal.
+Johny:John won the Silver medal. I won the Gold medal.
+Janardan: Johny won the Silver medal. I won the Gold
+medal.
+Which among the following is the correct order of the
+
+=== PAGE 7 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+person who won the Gold medal, the Silver medal and
+the Bronze medal, respectively?
+(a) John, Johny, Janardan
+(b) Janardan, John, Johny
+(c) Johny, Janardan, John
+(d) Janardan, Johny, John
+84. Each of A, B and C is a different digit among 1 to 9. How
+many different values of the sum of A, B and C are
+possible, if ABA × AA = ACCA?
+(a) 1 (b) 3 (c) 7 (d) 8
+85. In a certain code language, if the word ‘BASKET’ is coded
+as ‘UFLTBC’, then how is the word ‘SIMPLE’ coded in
+that language?
+(a) FMQNJT  (b) FMQGNJ (c) FMQNJH (d) MFNQTJ
+DIRECTIONS FOR QUESTIONS 86 AND 87 ANSWER THE
+QUESTIONS  ON THE BASIS OF THE INFORMATION GIVEN
+BELOW:
+A, B, C, D, E, and F are a group of friends. There are two
+housewives, one professor, one engineer, one accountant
+and one lawyer in the group. There are only two married
+couples in the group. The lawyer is married to D, who is a
+housewife. No woman in the group is either an engineer or
+an accountant. C, the accountant, is married to F, who is a
+professor. A is married to a housewife. E is not a housewife.
+86. What is E's profession?
+(a) Accountant
+(b) Lawyer
+(c) Professor
+(d) Engineer
+87. How many members of the group are males?
+(a) 2 (b) 3
+(c) 4 (d) Can not be determined
+88. Wrong number in the series 7, 8, 18, 57, 228, 1165,
+6996
+(a) 228 (b) 18 (c) 57 (d) 8
+DIRECTIONS FOR QUESTIONS 89 AND 90
+Each of the questions given below consists of a statement
+and / or a question and two statements numbered I and II
+given below it. You have to decide whether the data provided
+in the statement(s) is / are sufficient to answer the given
+question. Read the both statements and
+• Give answer (U) if the data in Statement I alone are
+sufficient to answer the question, while the data in
+Statement II alone are not sufficient to answer the
+question.
+• Give answer (V) if the data in Statement II alone are
+sufficient to answer the question, while the data in
+Statement I alone are not sufficient to answer the
+question.
+• Give answer (W) if the data either in Statement I or in
+Statement II alone are sufficient to answer the question.
+• Give answer (X) if the data in both Statements I and II
+together are not sufficient to answer the question.
+• Give answer(Y) if the data in both Statements I and II
+together are necessary to answer the question.
+89. How much time will the leak take to empty the full cistern?
+I. The cistern is normally filled in 9 hours.
+II. It takes one hour more than the usual time to fill the
+cistern because of a leak in the bottom.
+(a) V (b) U (c) X (d) Y
+90. How long will it take to empty the tank if both the inlet
+ pipe P1 and the outlet pipe P 2 are opened
+ simultaneously?
+I. P1 can fill the tank in 16 minutes
+II. P2 can empty the full tank in 8 minutes
+(a) X (b) U
+(c) Y (d) V
+COMPUTER AWARENESS
+91. If N is a 16-bit signed integer, the 2's complement
+representation of N is (F87B)16. The 2's complement
+representation of 8* N is
+(a) (C3D8) 16 (b) (187B) 16
+(c) (F878)16 (d) (987B) 16
+92. The base (or radix) of the number system such that the
+following equation holds 312/20= 13.1 is
+(a) 3 (b) 4 (c) 5 (d) 6
+93. Which of the following represents (D4) 16 ?
+(a)(4E)16 – (5B)16 (b) (14E)16 – (7A)16
+(c) (15C)16 – (6D)16 (d) (1E4)16 – (A7)16
+94. How many Boolean expression can be formed with 3
+Boolean variables?
+(a)16 (b) 1024 (c) 32 (d) 256
+95. In an 8 bit representation of computer system the
+decimal number 47 has to be subtracted from 38 and
+the result in binary 2's complement is
+(a) 11110111 (b) 10001001
+(c) 11111001 (d) 11110001
+96. In IEEE single precision floating point representation,
+exponent is represented in
+(a) 8 bit Sign-magnitude representation
+(b) 8 bit 2's complement representation
+(c) Biased exponent representation with a bias value of
+127
+(d) Biased exponent representation with a bias value of
+128
+97. With 4-bit 2's complement arithmetic, which of the
+following addition will result in overflow?
+(a) 1111 + 1101 (b) 0110 + 0110
+(c) 1101 + 0101 (d) 0101 + 1011
+98. If we can generate a maximum of 4 Boolean functions
+using n Boolean variables, what will be the minimum
+value of n?
+(a) 65536 (b) 16 (c) 1 (d) 4
+
+=== PAGE 8 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+99. If the 2's complement representation of a number is
+ (011010)2, what is its equivalent hex-adecimal
+ representation?
+(a) (110)16 (c) (16)16 (b) (1A)16 (d) (26)16
+100. For the circuit shown below, the complement of the
+ output F is  _________
+(a) 0 (b) X (c) X' (d) 1
+GENERAL ENGLISH
+101. There are two blanks in the sentences given below.
+From the pairs of words given below the sentence,
+choose the pair that fills the blanks most appropriately.
+Private companies supplying 'breakfast cereals' have
+started  _________ in agriculture in poorer countries.
+This has _________  the spectre of land grabs and
+political conflicts.
+(a) Spending ... intensified (b)Dealing ... inflated
+(c) Ploughing ... increased (d)Investing ... raised
+102. Use the appropriate phrasal verb and complete the
+sentence given below. The new system in education is
+aimed at the differences between rich and poor.
+(a) Goof around (b) Evening out
+(c) Glossing over (d) Give over
+Read the following passage and answer questions Q.
+Nos.103, 104 and 105.
+I have, myself, full confidence that if all do their duty, if nothing
+is neglected, and if the best arrangements are made, as they
+are being made, we shall prove ourselves once again able to
+defend our Island home, to ride out the storm of war, and to
+outlive the menace of tyranny, if necessary for years, if
+necessary alone. At any rate, that is what we are going to try to
+do. That is the resolve of His Majesty's Government - every
+man of them. That is the will of Parliament and the nation. The
+British Empire and the French Republic, linked together in
+their cause and in their need, will defend to the death their
+native soil, aiding each other like good comrades to the utmost
+of their strength. Even though large tracts of Europe and many
+old and famous States have fallen or may fall into the grip of
+the Gestapo and all the odious apparatus of Nazi rule, we
+shall not flag or fail. We shall go on to the end, we shall fight
+in France, we shall fight on the seas and oceans, we shall
+fight with growing confidence and growing strength in the air,
+we shall defend our Island, whatever the cost may be, we
+shall fight on the beaches, we shall fight on the landing
+grounds, we shall fight in the fields and in the streets, we
+shall fight in the hills; we shall never surrender, and even if,
+which I do not for a moment believe, this Island or a large part
+of it were subjugated and starving, then our Empire beyond
+the seas, armed and guarded by the British Fleet, would carry
+on the struggle, until, in God's good time, the New World, with
+all its power and might, steps forth to the rescue and the
+liberation of the old.
+103. What does the term ride out the storm mean?
+(a) Handle a crisis successfully
+(b) Hide from a storm
+(c) Hide in some place where one cannot be found
+(d) Ride on a boat at the time of storm
+104. What does subjugate mean?
+(a) surrender (b) compare (c) Control (d) abandon
+105. “That is the resolve of His Majesty's Government.” What
+is their resolve?
+(a) Surrender to the Nazis
+(b) Negotiate with the Nazis
+(c) Run away from the Nazis
+(d) Fight the Nazis
+106. Select the most suitable antonym from the given choices
+for the word: “SANGFROID”:
+(a) Equanimity (b) Steadiness
+(c) Aplomb (d) Turbulence
+107. The word PIN is used in four different ways. Choose the
+option in which the usage of the word is incorrect or
+inappropriate.
+(a) She combed her hair backwards and secured it with
+a pin.
+(b) Jack managed to grab the thief and pin him against
+the wall until the police arrived on the scene.
+(c) It is imprudent to pin your hopes on someone to
+help you out of this situation.
+(d) You can't pin the blame at anyone without verifying
+facts
+108. Pick the most appropriate substitute to the capitalized
+word in the following sentence.
+The weapon inspector's report was not expected to
+provide INCONTROVERTIBLE evidence of weapons of
+mass destruction.
+(a) Conclusive (b) Disputable
+(c) Inconvenient (d) Indecisive
+109. In the sentence given below, a part of sentence is
+underlined. Four different ways of phrasing the
+underlined part are indicated as four choices. Choose
+the best alternative and mark its corresponding letter
+as your answer.
+A nation is built not by legislation but by the stirrings in
+the hearts of the people .
+(a) By legislation and by inspiration
+(b) Not by laws but by the excitement of the people
+(c) By law and by inciting the people
+(d) More by the passions in the hearts of the people
+than by laws
+
+=== PAGE 9 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+110. Select the most suitable synonym for the underlined
+work in the sentence. All the members of organization
+expressed implacable opposition to the move.
+(a) Indignant (b) Adamant (c) Unified (d) Quixotic
+111. Fill in the blank choosing the correct adjective: The
+phoenix is a_________ Bird.
+(a) Mythical (b) Ethical (c) Natural (d) Carnivorous
+112. Which of the following is the correct passive of the
+sentence. "JOHN HAS EATEN THE APPLES?"
+(a) The apples are being eaten by John
+(b) The apples are eaten by John
+(c) The apples have been eaten by John
+(d) The apples will be eaten by John.
+113. Choose one of the words that is most nearly same as
+meaning of the given word Indemnify
+(a) Insure (b) Compensate for loss
+(c) Assure (d) Sue for damages
+114. Select a word from the given alternatives which has the
+same meaning as the underlined word: He has a
+propensity for getting into debt.
+(a) Tendency (b) Aptitude (c) Characteristic (d) Quality
+115. Select the most suitable synonym from the given choices
+for the word: “ANTEDILUVIAN”:
+(a) Recluse (b) Maverick (c) Archaic (d) Bellicose
+116. Choose a phrasal verb to replace the explanation in
+brackets:
+"We must (be quick) ___________ or we'll be late for
+school”
+(a) Act up (b) Hurry up (c) Fasten on (d) Speed in
+117. Anne had to pay for everything because as usual, Peter
+his wallet at home.
+(a) had left (b) was leaving (c) Left (d) leave
+118. Extreme old age when a man behaves like a child.
+(a) Imbecility (b) senility (c) dotage (d) superannuation
+119. Identify the word that means “To try to achieve something
+in difficult circumstances despite of setbacks”.
+(a) Persuade (b) Persevere
+(c) Picturesque (d) Perspective
+120. In the following a part of the sentence is underlined.
+Four different ways of phrasing the underlined part are
+indicated below. Choose the best alternative among
+the four choices given. When he entered the house, it
+was in sixes and sevens.
+(a) It was six O' clock when he entered the house.
+(b) Inmates were eulogized when he entered.
+(c) House was in pandemonium.
+(d) House was blissful.
+
+=== PAGE 10 ===
+18, Zone-II, M.P . Nagar, Bhopal : 0755-4295319
+Nimcet 2019
+1. (a) 2. (a) 3. (d) 4. (c) 5. (d) 6. (c) 7. (c) 8. () 9. (b)         10. (a)
+11. ( ) 12. (c) 13. (d) 14. (b) 15. (a) 16. (c) 17. (b) 18.  (a) 19. (d) 20. (b)
+21. (a) 22. (c) 23. (d) 24. (c) 25. (d) 26. (b) 27. (b) 28. (a) 29. (c) 30. (a)
+31. (c) 32.  (d) 33.   (a) 34.  (c) 35.  (b) 36. (d) 37.  (a) 38.   (d) 39.   (b) 40.   (c)
+41. (d) 42.  (a) 43.   (a) 44.  (d) 45.  (c) 46. (d) 47.  (b) 48.   (b) 49.  (b) 50.  (d)
+51. (a) 52.  (c) 53.   ( ) 54.  (a) 55.  (a) 56. (b) 57.  (c) 58.   (d) 59.  (c) 60.  (b)
+61.  (c) 62. (a) 63. (c) 64. (d) 65. (b) 66. ( ) 67. (a) 68. (d) 69. (b) 70. (a)
+71. (b) 72. (b) 73. (c) 74. (b) 75. (d) 76. (c) 77. (d) 78. ( ) 79. (b) 80. (d)
+81. (d) 82. (a) 83. (b) 84. (c) 85. (a) 86. (d) 87. (b) 88. (a) 89. (d) 90. (c)
+91. (a) 92. (c) 93. (b) 94. (d) 95. (a) 96. (c) 97. (b) 98. (c) 99. (b) 100. (d)
+101.  (d) 102. (b) 103. (a) 104. (c) 105. (d) 106. (d) 107. (d) 108. (a) 109. (d) 110. (b)
+  111. (a) 112. (c) 113. (b) 114. (a) 115. (c) 116. (b) 117. (a) 118. (c) 119. (b) 120. (c)

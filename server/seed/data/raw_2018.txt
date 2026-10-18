@@ -1,0 +1,955 @@
+=== PAGE 1 ===
+www.impetusgurukul.com                          18, Zone-II, M.P . Nagar, Bhopal  : 0755-4295319                                 NIT  ACTUAL-2018
+Mathematics
+1. The point of intersection of circle
+051121022  yxyx  and the line 33  xy  is
+(a) (–6, 3) (b) (3, – 6)
+(c) (6, – 3) (d) (– 3, 6)
+2. The number of solutions of the equation sin
+x + sin 5x = sin 3x lying in the interval ],0[   is
+(a) 4 (b) 6 (c) 5 (d) 2
+3. In an acute angle ABC  the least value of
+sec A + sec B + sec C is
+(a) 6 (b) 8 (c) 3 (d) 2
+4. Let }cos2cossin:{  P  and
+}sin2cossin:{  Q  be two sets
+(a) QP   and  PQ (b) QP 
+(c) PQ  (d) QP 
+5. If 
+5
+tan
+3
+tan
+2
+tan zyx  and  zyx . then the
+value of zyx 222 tantantan   is
+(a) 3
+38
+(b) 38
+(c) 114 (d) None of these
+6. The circles whose equations are axcyx 2222  and
+02222  bycyx  will touch one another externally
+if
+(a) 222
+111
+acb
+ (b) 222
+111
+bac
+
+(c) 222
+111
+cba
+ (d) None of these
+7. The locus of the orthocenter of the triangle formed by
+the lines 0)1()1(  pppyxp ,
+0)1()1(  qqqyxq and y = 0 where qp , is
+(a) a hyperbola (b) a parabola
+(c) an ellipse (d) a straight line
+8. Equation of a common tangent with positive slope to
+the circle 0822  xyx as well as to the hyperbola
+149
+22
+ yx  is
+(a) 02052  yx (b) 0452  yx
+NIMCET -  (Actual -  2018 )
+(c) 0843  yx (d) 0434  yx
+9. The area enclosed between the curves xy 2 and
+|| xy   is
+(a) 2/3 sq. unit (b) 1 sq. unit
+(c) 1/6 sq. unit (d) 1/3 sq. unit
+10. Equation of the line perpendicular to 12  yx  and
+passing through (1, 1) is
+(a) 32  yx (b) 2 yx
+(c) 32  xy (d) 32  xy
+11. If  00 50A and 162 ...1)( xxxxf  , then f(A) =
+(a) 0 (b) 
+
+
+
+10
+51
+(c) 
+
+
+
+00
+51
+(d) 
+
+
+
+11
+50
+12. 9 balls are to be placed in 9 boxes and 5 of the balls
+cannot fit into 3 small boxes. The number of ways of
+arranging one ball in each of the boxes is
+(a) 18720 (b) 18270
+(c) 17280 (d) 12780
+13. Which of the following functions is inverse of itself ?
+(a) x
+xxf  11)( (b) xxf log3)( 
+(c) )1(3)(  xxxf (d) None of these
+14. A student council has 10 members. From this one
+President, one Vice-President, one Secretary, one Joint-
+Secretary and two Executive Committe members have
+to be elected. In how many ways this can be done ?
+(a) 151200 (b) 75600
+(c) 37800 (d) 18900
+15. IN a survey where 100 students reported which subjected
+they like, 32 students in total liked Mathematics, 38
+students liked Business and 30 students liked
+Literature. Moreover 7 students liked both Mathematics
+and Literature, 10 students liked both Mathematics and
+Business, 8 students liked both Business and
+Literature, 5 students liked all three subjects.
+Then the number of people who liked exactly one subject
+is
+(a) 60 (b) 65
+(c) 70 (d) 78
+16. The number of natural numbers which are smaller than
+2×108 and which contain only the digits 1 and 2 is
+=== PAGE 2 ===
+ NIT  ACTUAL-2018 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319                        www.impetusgurukul.com
+(a) 786 (b) 666
+(c) 766 (d) 1066
+17. If 
+2
+2
+2
+lim 1 e
+x
+b
+x
+a x
+x   , then the value of a and b are
+(a) 2,  bRa (b) Rba  ,1
+(c) RbRa  , (d) 2,1  ba
+18. If xxxf 35 sinsin)(  and xxxg 36 sincos)(  , then
+the value of dxxgxgxfxf 20 )]()([)]()([
+
+(a) 0 (b) > 1
+(c) 0 and 1 (d)  less than 0
+19. equals2
+2
+dy
+xd
+(a) 
+1
+2
+2 
+
+
+
+
+
+
+
+
+dx
+yd
+(b) 
+31
+2
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dx
+dy
+dx
+yd
+(c)
+2
+2
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+dx
+dy
+dx
+yd
+(d) 
+3
+2
+2 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dx
+dy
+dx
+yd
+20. Differential co-efficient of log 10 x w.r. to logx 10 is
+(a) 2
+2
+)10(log
+)(log x (b) 2210 )10(log )(log x
+(c) 2
+2
+)10(log
+)10(logx
+(d) 2
+2
+)(log
+)10(log
+x
+
+21. ||)( xxxf   is continuous for
+(a) ),( x (b) }0{),( x
+(c) Only x > 0 (d) No value of x
+22. If a, b and c are unit vectors, then
+222 |||||| accbba  does not exceed
+(a) 4 (b) 9 (c) 8 (d) 6
+23. The vector kjia ˆˆ2ˆ    lies in the plane of the
+vectors jib ˆˆ and kjc ˆˆ and bisects the angle
+between b  and c  . Then, which one of the following
+gives possible values of  and   ?
+(a) 2,2   (b) 2,1  
+(c) 1,2   (d) 1,1  
+24. Force kji 734   and kji 822  are acting on a
+particle and displace it from the point (5, 7, 1) to (2, 5,-6),
+then the work done by the force is
+(a) 25 (b) 9 (c) 15 (d) 7
+25. A bird is flying in a straight line with velocity vector
+kji ˆˆ6ˆ10  , measured in km/hr. If starting point is (1, 2,
+3), how much time does it take to reach a point in space
+that is 13 metre high from ground ?
+(a) 600 seconds (b) 360 seconds
+(c) 36 seconds (d) 60 seconds
+26. If A and B are two events and 6/5)(  BAP ,
+3/1)(  BAP , 2/1)( BP , then Aand B are two
+events which are
+(a) Dependent (b) Independent
+(c) Mutually exclusive (d) Equally likely
+27. If naaaa ....,,,, 321 are positive real numbers whose
+product is a fixed number C, then the minimum value of
+naaa 2...21   is
+(a) nCn
+1
+)2( (b) nCn
+1
+)1( 
+(c) nnC
+1
+2 (d) nCn
+1
+)2()1( 
+28. If a, b, c are the roots of the equation 0733 23  xxx
+is
+2
+2
+2
+222
+222
+222
+cabab
+abacc
+bcabc
+
+
+
+(a) 9 (b) 27
+(c) 81 (d) 0
+29. The coefficient of x n in the expansion of
+nxxx  )to....4321( 32  is
+(a) )!1(!
+!)2(
+nn
+n
+(b) 2])!1[(
+!)2(
+n
+n
+(c) 2)!(
+!)2(
+n
+n
+(d) None of these
+30. Let , be the roots of the equation 02  rpxx  and
+ 2,2  be the roots of the equation 02  rqxx .
+Then, the value of r is
+(a) )2()(92 pqqp  (b) )2()(92 pqpq 
+(c) )2()2(92 pqpq  (d) )2()2(92 pqqp 
+=== PAGE 3 ===
+www.impetusgurukul.com                          18, Zone-II, M.P . Nagar, Bhopal  : 0755-4295319                                 NIT  ACTUAL-2018
+31. The value of    32tan35coscot 11ec  is
+(a) 6/17 (b) 3/17
+(c) 4/17 (d) 5/17
+32. If )2(sin3sin   , then the value of tan
+ tan2)(   is
+(a) 3 (b) 2
+(c) -1 (d) 0
+33. In a triangle ABC,  90A  and D is mid-point of AC.
+The value of 22 BDBC   is equal to
+(a) 2AD (b) 22AD
+(c) 23AD (d) 24AD
+34. Through any point (x, y) of a curve which passes through
+the origin, lines are drawn parallel to the coordinate
+axes. The curve given that divides the rectangle formed
+by the two lines and the axes into two areas, one of the
+which is twice the other, represents a family of
+(a) circles (b) parabolas
+(c) hyperbolas (d) straight lines
+35. A lines through (4, 2) meets the coordinates axes at P
+and Q. Then the locus of the circumcenter of OPQ  is
+(a) 211  yx (b) 112  yx
+(c) 121  yx (d) 2111  yx
+36. 
+
+
+
+
+
+ ....
+2
+11
+2
+11
+2
+11
+2
+1log6
+4
+1
+(a) 6 (b) 2
+13
+(c) 4 (d) 4
+25
+37. The function   1log)( 2xxxf  is
+(a) An even function
+(b) An odd function
+(c) A periodic function
+(d) Neither an even nor an odd function
+38. Two persons A and B agree to meet on 20th April 2018
+between 6 P.M. and 7 P .M. with the understanding that
+they will wait no longer than 20 minutes for the other.
+What is the probability that they meet ?
+(a) 5/9 (b) 7/9
+(c) 2/9 (d) 4/9
+39. Three numbers a, b and c are chosen at random (without
+replacement) from among the numbers 1, 2, 3...., 99 .
+The probability that abccba 3333   is divisible by 3
+is
+(a)
+ 
+3
+99
+3
+1
+33
+3
+33.3
+C
+CC 
+(b) 
+ 
+3
+99
+3
+1
+33
+3
+33.3
+C
+CC 
+(c) 
+ 
+3
+99
+3
+1
+33
+3
+33.2
+C
+CC 
+(d) 
+ 
+3
+99
+3
+1
+33
+3
+33.2
+C
+CC 
+40. A and B play a game where each is asked to select a
+number from 1 to 25. If the two numbers match, both of
+them win a prize. The probability that they will not win a
+prize in a single trial is
+(a) 25
+1
+(b) 25
+24
+(c) 25
+2
+(d) None of these
+41. The quadratic equation whose roots are 18sin2  and
+36cos2  is
+(a) 011216 2  xx (b) 011216 2  xx
+(c) 011216 2  xx (d) 011016 2  xx
+42. Sum to infinity of a geometric progression is twice the
+sum of the first two terms. Then what are the possible
+values of the common ratio ?
+(a) 2
+1 (b)  21
+(c) 3
+1 (d) 31
+43. Suppose that m and n are fixed numbers such that the
+mth term am is equal to n and the n th term an is equal to
+)( nmm   then thnm )(   term is
+(a) mnnm /)(  (b) )(/ nmmn 
+(c) nnm /)(  (d) mnm /)( 
+44. If A is an invertible skew symmetric matrix, then A–1 is a
+(a) Symmetric matrix (b) Skew symmetric matrix
+(c) Zero matrix (d) Identity matrix
+45. If the mean of the squares of first n natural numbers be
+11, then n is equal to
+=== PAGE 4 ===
+ NIT  ACTUAL-2018 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319                        www.impetusgurukul.com
+(a) 2
+13 (b) 11 (c) 5 (d) 4
+46. The set of points, where ||1)( xxxf   is differentiable,
+is
+(a)     ,11, (b)   ,
+(c)  ,0 (d)     ,00,
+47. 
+
+0
+)(sin dxxxf  is equal to
+(a) 
+
+
+0
+)(sin dxxf (b) 
+2/
+0
+)(sin2
+
+ dxxf
+(c) 
+2/
+0
+)(cos
+
+ dxxf (d) 
+
+
+0
+)(cos dxxf
+48. Let RRf :  be defined by 
+
+
+ 0xif|2-x| 0if2)( xxxf .
+Find 
+
+3
+2
+)( dxxf .
+(a) 0.5 (b) 2.5 (c) 4.5 (d) 6.5
+49. Slope of two lines 0226 22  yxyx  differ by
+(a) 2
+5
+(b) 2
+7
+(c) 5
+7
+(d) – 1
+50. If the radius of a circle changes at the rate of sec/2 m ,
+at what rate does the circle’s area change when the
+radius is 10 m ?
+(a) sec/40 2m (b) sec/30 2m
+(c) sec/30 2m (d) sec/40 2m
+ANALYTICAL ABILITY AND LOGICAL REASONING
+51. Decide which of the assumptions is implicit in the
+statement and choose your answer accordingly.
+Statement : “Buy pure and natural honey of company
+X.” An advertisement in a newspaper.
+Assumptions : I. Artificial honey can be prepared.
+II. People do not mind paying more for pure and natural
+honey.
+III. No other company supplies pure honey.
+(a) Only I is implicit (b) Only I and II are implicit
+(c) Only I and III are implicit (d) All are implicit
+52. Choose the conclusion which logically follows from the
+given statement(s).
+Statement : All scientists working in America are
+talented. Some Indian scientists are working in America.
+Conclusions :
+1. None of Indian scientists is talented.
+2. Some talented Indian scientists have migrated to
+America.
+3. All talented scientists are Indians.
+4. Some Indian scientists are talented.
+The conclusion(s) correctly drawn is/are
+(a 1 only (b) 2 only (c) 2 and 3 (d) 2 and 4
+53. One New York publisher has estimated that 50,000 to
+60,000 people in the United States want an anthology
+that includes the complete works of W illiam
+Shakespeare. And what accounts for this renewed
+interest in Shakespeare ? As scholars point out, his
+psychological insights into both male and female
+characters are amazing even today.
+This paragraph best supports the statement that
+(a) Shakespeare’s characters are more interesting than
+fictional characters today
+(b) People even today are interested in Shakespeare’s
+work because of the characters
+(c) Academic scholars are putting together an anthology
+of Shakespeare’s work
+(d) New Yorkers have a renewed interested in the work
+of Shakespeare
+54. A runs 3
+21  times as fast as B. if A gives B a start  of 80 m,
+how far must the winning post be so that A and B might
+reach it at the same time ?
+(a) 200 m (b) 400 m (c) 300 m (d) 160m
+55. Two men and three boys can do a piece of work in ten
+days; while three men and two boys can do the same
+work in eight days. In how many days can two men and
+one boy do the work?
+(a) 12.5 (b)9 (c)9.5 (d) 8.5
+56. How many numbers between 1 and 1000 are divisible
+by all numbers 2, 3, 4, 5 and 6 ?
+(a) 16 (b) 32 (c) 17 (d) 33
+57. There are 8436 steel balls, each with a radius of 1
+centimeter, stacked in a pile, with 1  ball on top, 3 balls
+in the second layer, 6 in the third layer 10 in the fourth
+and so on. The number of horizontal layers in the pile is
+(a) 34 (b) 38 (c) 36 (d) 32
+58. A body travels from A to B in 10s with a speed of
+50 km/h and returns with a speed of 100 km/h in 5s.
+The average speed and the average velocity for the whole
+journey is
+=== PAGE 5 ===
+www.impetusgurukul.com                          18, Zone-II, M.P . Nagar, Bhopal  : 0755-4295319                                 NIT  ACTUAL-2018
+(a) 17.5 ms –1, 0 km/h (b) 16.5 ms –1, 0 km/h
+(c) 15.5 ms –1, 0 km/h (d) 18.5 ms –1, 0 km/h
+59. Find the odd one out.
+(a) DEHG (b) RSVU
+(c) JKNM (d) LMQP
+60. Find out the wrong number in the following series,
+15, 16, 34, 105, 424, 2124,12756
+(a) 16 (b) 34 (c) 424 (d) 2124
+61. My mother is twice as old as my brothers. I am five years
+younger to my brother out three years older to my sister.
+If my sister is twelve years of age, how old is my mother?
+(a) 24 (b) 30 (c) 40 (d) 50
+62. Find the missing term in the series..
+3, 20, 63, 144, 275, ______
+(a) 354 (b) 468 (c) 548 (d) 554
+Questions 63 to 65 are based on the following passage :
+Nine individuals Z, Y , X, W, V, U, T, S and R are the only
+candidates who can serve on three committees A, B and C
+and each candidate should serve on exactly one of the
+committees.
+Committee A should consist of exactly one member more
+than Committee B. It is possible that there are no members
+of Committee C. Among Z, Y and X none can serve on
+Committee A. Among W, V and U none can serve on
+Committee B. Among T, S and R none can serve on Committee
+C.
+63. In case T and Z are the individuals serving on
+Committee B, how many of the nine individuals should
+serve on Committee C ?
+(a) 3 (b) 4 (c) 5 (d) 6
+64. In case T, S and X are the only individuals serving on
+Committee B, the membership of Committee C should
+be
+(a) Z and Y (b) Z and W (c) Y and V (d) X and V
+65. In case R is the only individual serving on Committee B,
+which among the following should serve on Committee
+A?
+ (a) W and S (b) V and T (c) U and S (d) T and S
+66. In a city, 40% of the adults are illiterate while 85% of the
+children are literate. If the ratio of the adults to that of the
+children is 2 : 3, then what percent of the population is
+literate?
+(a) 20% (b) 25% (c) 50% (d) 75%
+67. There are 50 students admitted to a nursery class. Some
+students can speak only English and some can speak
+only Hindi, 10 students can speak both English and
+Hindi. If the number of students who can speak English
+is 21, then how many students can speak Hindi, how
+many can speak only Hindi, and how many can speak
+only English?
+(a) 21, 11 and 29 respectively
+(b) 28, 18 and 22 respectively
+(c) 37, 27 and 13 respectively
+(d) 39, 29 and 11 respectively
+68. The last digit of the number obtained multiplying the
+numbers 81 × 82 × 83 × 84 × 85 × 86 × 87 ×88 × 89 will
+be
+(a) 0 B)9 (c) 7 (d) 2
+69. It has been reported in recent years that a very large
+number of seats in the engineering colleges in the
+country remain vacant at the end of the admission
+session. Which of the following may be the probable
+cause of the above effect?
+(a) There has been a considerable decrease in hiring
+of engineering graduates due to economic
+slowdown in the recent years.
+(b) Students have always preferred to complete
+graduation in three years time instead of four years
+for engineering.
+(c) The govt. has recently decided to provide post
+qualification professional training to all engineering
+graduates at its own cost.
+(d) None of these
+70. At what time, in minutes, between 3 o’clock and
+4 o’ clock, both the needles will coincide each other?
+(a) 11
+"15 (b) 11"412
+(c) 11
+"413 (d) 11"416
+ 71. If log 32, log 3 (2 x – 5), log 3   272x are in arithmetic
+progression, then the value of x is equal to
+(a) 5 (b) 4 (c) 3 (d) 2
+72. Let n be the number of different 5 digit numbers, divisible
+by 4 that can be formed with the digits 1, 2, 3, 4, 5 and 6,
+with no digit being repeated. What is the value of n?
+(a) 144 (b) 168 (c) 192 (d) 222
+73. Let S be the set of integers x such that is
+i. 200100  x
+ii. x is odd and
+iii. x is divisible by 3 but not by 7
+How many elements does S contain ?
+(a) 16 (b) 12 (c) 11 (d) 13
+=== PAGE 6 ===
+ NIT  ACTUAL-2018 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319                        www.impetusgurukul.com
+74. Two pipes A and B can fill a cistern in 37.5 minutes and
+45 minutes respectively. Both pipes are opened. The
+cistern will be filled in just half an hour, if the B is turned
+off after
+(a) 5 minutes (b) 9 minutes
+(c) 10 minutes (d) 15 minutes
+75. Three persons A, B and C wear shirts of Black, Blue and
+Orange colours (not necessarily in the order) and pants
+of green, yellow and orange (not necessarily in that
+order). No person wore shirt and pant of the same colour.
+Furter, it is given r that,
+1. A did not wear shirt of black colour.
+2. B did not wear shirt of blue colour.
+3. C did not wear shirt of orange colour.
+4. A did not wear the pant of green colour.
+5. B wore pant of orange colour.
+What were the colours of the pant and shirt worn by C
+respectively?
+(a) Orange and Black (c) Yellow and Blue
+(b) Green and Blue (d) Yellow and Black
+76.
+Which one of the following figures fits into blank part of
+the above matrix?
+(a)
+ (b) 
+(c) 
+ (d) 
+77. Choose the picture that would go in the empty box so
+that the two bottom pictures are related in the same way
+as the top two are related.
+(a) 1 (b) 2 (c) 3 (d) 4
+78. Decide which of the given conclusions logically follow
+from the given statement(s)
+Statements : Some codes are secrets.
+      All secrets are puzzles.
+Conclusions : I. All secrets being codes is a possibility.
+      II. Atleast some puzzles are codes.
+A) Only conclusion I is true
+(b) Only conclusion II is true
+(c) Either conclusion I or II is true
+(d) Both conclusions I and II are true
+79. Decide which of the given conclusions logically follow
+from the given statement(s).
+Statements : Some metals are alloys,
+No metal is a stone.
+Conclusions : I. No alloy is stone.
+II. Atleast some alloys are metals.
+(a) Neither conclusion I nor II is true
+(b) Only conclusion II is true
+(c) Only conclusion I is true
+(d) Both conclusions I and II are true
+80. Find the number of triangles in the given picture.
+(a) 10 (b) 12 (c) 14 (d) 16
+81 . Statements :  All mangoes are golden in colour. No
+golden-coloured If in as are cheap
+Conclusions : I) All mangoes are cheap.
+II) Golden-coloured mangoes are not cheap.
+(a) Only conclusion I follows
+(b) Only conclusion II follows
+(c) Either I or II follows
+(d) Neither I nor II follows
+=== PAGE 7 ===
+www.impetusgurukul.com                          18, Zone-II, M.P . Nagar, Bhopal  : 0755-4295319                                 NIT  ACTUAL-2018
+82. By selling an article, what is the profit percent gained?
+I) 5% discount is given on list price.
+II) If discount is not given , 20% profit is gained.
+III) The cost price of the articles is Rs. 5,000.
+(a) Only I and II (b) Only II and III
+(c) Only I and III (d) All of I, II and III
+83. Decide which of the given conclusions logically follows
+from the given statement(s).
+Statements : All politicians are honest. All honest are
+fair.
+Conclusions : I) Some honest are politicians
+II) No honest is politician
+III) Some fair are politicians
+IV) All fair are politicians
+(a) None follows (b) Only I and IV follow
+(c) Only I and II follow D Only I and III follow
+84. Forty students watched films A, B and C over a week.
+Each student watched either only one film or all three,
+Thirteen students watched film A, sixteen students
+watched film B and nineteen students watched film C.
+How many students watched all three films?
+(a) 0 B)2 (c) 4 (d) 8
+85. Two bus tickets from city A to B and three tickets from city
+A to C cost Rs 77, but three tickets from city A to B and
+two tickets from city A to C cost Rs. 73. What are the
+fares for cities B and C from A?
+(a) Rs. 4, Rs. 23 (b) Rs. 13, Rs. 17
+(c) Rs. 15, Rs. 14 (d) Rs. 17, Rs. 13
+86. In the figure given below, if the area of parallelogram
+ABCD is 208 cm2, what is the height of the parallelogram
+ABEF?
+(a) 15 cm (b) 15.5 cm
+(c) 16 cm (d) 16.5 cm
+87. If the first and the third letters in the group DISTRIBUTION
+are interchanged and also the second and the fourth
+letter, the fifth and the seventh and so on, then which of
+the following would be the seventh letter from the left?
+(a) U (b) R (c) B (d) T
+88. In the below series, you will be looking at the letter
+pattern, diagram pattern or number pattern. Fill the blank
+in the end of the series.
+JAK, KBL, LCM, MDN,  ______.
+(a) OEP (b) NEO (c) MEN (d) PFQ
+89. A caterpillar crawls up a pole of 75 inches high, starting
+from the ground. Each day, it crawls up 5 inches and
+each night it slides down 4 inches. When will it reach
+the top of the pole?
+(a) End of 70 days (b) End of 71 days
+(c) End of 72 days (d) End of 73 days
+90. The time on the watch is quarter to three. If the minute
+hand points of North-East, in which direction does the
+hour hand point?
+(a) North-West (b) South -
+West
+(c) South -East (d) North - East
+COMPUTER
+91. What is the minimal form of Karnaugh map shown below
+? (Assume that x denotes a don’t care term)
+(a) bd (b) bd  + bc
+(c) bd + adcd (d) bd + bc + cd
+92. In order to store floating numbers in computers using
+the normalized representation and 32-bit single
+precision, the number of bits used for exponent and
+fraction are  ________, __________ respectively.
+(a) 11, 21 (b) 16, 15
+(c) 16, 16 (d) 8, 23
+93. Let the memory access time is 10 milliseconds and
+cache access time is 10 microseconds. Assume the
+cache hit ratio 15%. The effective memory access time
+is
+(a) 2 milliseconds
+(b) 1.5 milliseconds
+(c) 1.85 microseconds
+(d) 1.85 milliseconds
+94. What are the values of R 1 and R 1 respectively in the
+expression
+?)1065()565()235( 21 RR 
+(a) 8, 16 (b) 16, 8 (c)  8, 12 (d) 16, 12
+95. If a signal passing through a gate is inhibited by sending
+a low into one of the inputs and the output is high, the
+gate is
+(a) NOR (b) NAND (c) AND (d) OR
+=== PAGE 8 ===
+ NIT  ACTUAL-2018 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319                        www.impetusgurukul.com
+96. Given ,)13(,)224( rr   the value of the radix is
+(a) 10 (b) 8 (c) 5 (d) 6
+97. The out. t the combinational circuit given below is
+(a) A + B + C (b) A (B + C)
+(c) B (C + A) (d) C (A + B)
+98. Which one of the following expressions does NOT
+represent exclusive NOR of x and y?
+(a) yxxy  (b) yx
+(c) yx  (d) yx 
+99. What type of errors are not detected by assemblers?
+(a)  Syntax error (b) Run time error
+(c) Logical error (d) All of these
+100. Consider the equation (43) x (y3) 8 where x and y are
+unknown. The number of possible solutions is
+(a) 4 (b) 5
+(c) 6 (d) 7
+GENERAL ENGLISH
+101. Find the synonym that is most nearly similar in meaning
+to the word : DEBACLE.
+(a) Catastrophe (b) Dandy
+(c) Corker (d) Opulence
+102. Choose the phrasal verb that means “To spend time
+doing unimportant things instead of doing necessary
+things”.
+(a) fake out (b) fall about
+(c) fade out (d) fall apart
+103. Which of the following is close to the meaning of the
+word, IMPOLITIC?
+(a) Impolite (b) Intolerant
+(c) Incongruous (d) Injudicious
+104. Choose an option to replace the phrase given in bold.
+The bank has hired a consultant who will look into any
+issues which arise during the merger.
+(a) is looking over (b) will be looked over
+(c) will look out (d) no correction required
+105. The sentences given below when properly sequenced,
+form a coherent paragraph. Each sentence is labeled
+with a letter. Choose the most logical order of sentences
+from the given choices to construct a coherent paragraph.
+P : It refers to those times when there is no war or fight
+among nations.
+Q : Many people argue that war is a necessary evil and
+the only process of solving international disputes.
+R : Peace means complete freedom from disturbance.
+S : Once the world starts believing that wars are
+unnecessary, they decide to abolish war completely.
+T : But in reality, war happens only because people are
+not ready to settle disputes in a peaceful manner.
+(a) TSRQP (b) RTQPS
+(c) SPTQR (d) QTRPS
+Read the following passage and answer the questions 106
+to 108 based on it.
+I do not wish to cast aspersions on the corporate takeover. On
+the contrary, it is a key facilitator of creative destruction and
+doubtless the most effective remaining means by which
+shareholder voices can mold a corporation. But while change
+in management is often necessary, you cannot effectively run
+a corporation with differing authoritative voices espousing
+opposing corporate goals. It has to be one or the other. If the
+board is riven with conflicting interests, corporate governance
+will suffer. If directors cannot agree with the CEO’s strategy,
+they should replace him. Corporate dissonance, of course, is
+unavoidable in periods of transition. But it is not a value to be
+pursued for its own sake. A cacophony produces only red ink.
+106. What according to the author facilitates creative
+destruction?
+(a) Corporatism (b) Modernism
+(c) Terrorism (d) Cosmopolitanism
+107. Which of the following words used in the passage
+reinforces the idea contained in the word,
+ ‘DISSONANCE’?
+(a) Aspersions (b) Cacophony
+(c) Strategy (d) Transition
+108. What according to the author makes corporate
+governance suffer?
+(a) Conflicting strategies of executives
+(b) Conflicting interests of customers
+(c) Conflicting interests of statesmen
+(d) Conflicting interests of the board of directors
+109. Fill in the blank choosing the correct word.
+The vote will have to be laid______ until next week.
+ (a) on (b) in (c) over (d) from
+110. Fill in the blank choosing the correct question tag. He
+has done his duty,
+(a) Shouldn’t he? (b) Hasn’t he
+(c) Won’t he? (d) Has he?
+111. Choose one of the options that is most nearly same as
+meaning of the word Epitome.
+(a) Final verdict (b) Climax
+(c) Essence (d) Tombstone
+=== PAGE 9 ===
+www.impetusgurukul.com                          18, Zone-II, M.P . Nagar, Bhopal  : 0755-4295319                                 NIT  ACTUAL-2018
+112. Which collocation goes with the word AWARE?
+(a) rightly (b) fully
+(c) nearly (d) exactly
+113. Change the speech : “If you don’t keep quite I shall
+shoot you”, he said calm voice,
+(a) He warned her to shoot if she didn’t keep quite
+calmly
+(b) He said calmly that I shall shoot you if you don’t be
+quite
+(c) He warned her calmly that he would shoot her if she
+didn’t keep quite
+(d) Calmly he warned her that be quite o; else he will
+have to shoot her
+114. Choose the correct spelling for the word given below.
+(a) Cieling (b) Cealing
+(c) Ceiling (d) Ceeling
+115. Select the pair of words, which are re at d in the same
+way as the capitalized words are related to each other
+BUTTERFLY : FREEDOM
+(a) Frog : Tadpole (b) Self reliant : Buoyant
+(c) Alga : Lichens (d) Chicken : Rooster
+116. Which of the following is the closest in closest in
+meaning to the word, CLOWN?
+(a) idiot (b) Dunce
+(c) Don (d) Jester
+117. Identify the underlined part which has an error.
+He couidn’t cope up with the hot climate of the piece any
+longer.
+(a) couldn’t (b) cope up
+(c) climate (d) any longer
+118. The_____ pittance the widow receives from the
+government cannot keep her from poverty.
+(a) Meagre (b) Indulgent
+(c) Meticulous (d) Magnanimous
+119. The other boys or Henry  _____  to blame
+(a) is (b) are
+(c) were (d) will
+120. In the question the word “Echo” is usual in four different
+ways, numbered A to D. Choose the option in which the
+usage of the word is inappropriate.
+(a) The crowd cheered to the echo in the foot ball match
+(b) I started to feel nostalgic as i stood in the old
+neighbourhood that echoed with childhood
+(c) A loud thunder echo hit the tallest building
+(d) My thoughts echoed with the sounds of spring
+=== PAGE 10 ===
+ NIT  ACTUAL-2018 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319                        www.impetusgurukul.com
+Answer Key
+(NIMCET- ACTUAL - 2018
+)
+1.   (a) 2.   (b) 3.   (a) 4.   (b) 5.   (d) 6.   (c) 7.   (d) 8.   (b) 9.   (c) 10.   (d)
+11.   (b) 12.   (c) 13.   (a) 14.   (b) 15.   (b) 16.   (c) 17.   (b) 18.   (a) 19.   (d) 20.   (a)
+21.   (a) 22.   (d) 23.   (d) 24.   ( ) 25.   (c) 26.   (b) 27.   (a) 28.   (d) 29.   (c) 30.   (d)
+31.   (a) 32.   (d) 33.   (c) 34.   (b) 35.   (b) 36.  (b) 37.  (b) 38.   (a) 39.   (a) 40.   (b)
+41.   (a) 42.   (a) 43.   (b) 44.   (b) 45.   (c) 46.   (d) 47.   (c)         48.   (c) 49.   (b) 50.   (d)
+51.   (a) 52.   (d) 53.   (b) 54.   (a) 55.   (a) 56.   (a) 57.   (c) 58.   (d) 59.   (d) 60.   (d)
+61.   (c) 62.   (b) 63.   (b) 64.   (a) 65.   (d) 66.   (d) 67.   (d) 68.   (a) 69.   (a)         70.   (d)
+71.   (c) 72.   (c) 73.   (d) 74.   (b) 75.   (b) 76.   (b) 77.   (b) 78.   (d) 79.   (b) 80.   (c)
+81.   (b) 82.   (a) 83.   (d) 84.   (c) 85.   (b) 86.   (c) 87.   (b) 88.   (b) 89.   (b) 90.   (b)
+91.   (b) 92.   (d) 93.   (d) 94.   (b) 95.   (b) 96.   (c) 97.   (c) 98.   (d) 99.   (c) 100.   (b)
+101.   (a) 102.   (b) 103.   (d) 104.   (d) 105.   (d) 106.   (a) 107.   (b) 108.   (d) 109.   (c) 110.   (b)
+111.   (c) 112.   (b) 113.   (c) 114.   (c) 115.   (b) 116.   (d) 117.   (b) 118.   (a) 119.   (a) 120.   (c)

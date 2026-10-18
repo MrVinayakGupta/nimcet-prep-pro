@@ -1,0 +1,1023 @@
+=== PAGE 1 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 1 
+1.   333 	
+ is equal to 
+(a) 
+
+( )   (b) 
+
+( )   
+(c) 
+
+( )   (d) 
+
+( )   
+ 
+2.  If " # tan %& ’%
+&%( , *
+&
+√ , 
+ ,
+&
+√, then 
+./ 
+.  
+(a) *
+&
+&01  (b) 
+
+&01 
+(c) 
+
+2&01  (d) 
+&
+2&01 
+ 
+3.  A polygon has 44 diagonals. Then number of sides are 
+(a) 9  (b) 10 
+(c) 11  (d) 12 
+ 
+4.  If = # >1,2,3,4, ? and @ # >3,4,5?, then the number of 
+elements in (A ∪ B) X (A ∩ B) X (A∆B) is 
+(a) 18  (b) 20 
+(c) 24  (d) 30 
+ 
+5.  The value of tan 9° * tan 27° * tan 63°  tan 81° is equal 
+to 
+(a) 5  (b) 3 
+(c) 4  (d) 6 
+ 
+6.  If a variable takes values 0, 1, 2, ……, 50 with frequencies 
+1, 50 C1, 50 C2, ….., 50 C50 , then the A.M. is 
+(a) 50  (b) 25 
+(c) 
+QRS 
+TU   (d) 51 
+ 
+7.  In a triangle, if the sum of two sides is 
+ and their 
+product is y such that (
+  V)(
+ * V) # ", where V is the 
+third side of the triangle, then the triangle is 
+(a) Equilateral (b) Right angled 
+(c) Isosceles  (d) Obtuse angled 
+ 
+8.  If the vectors Z[ ⃗  ] ⃗  ^_⃗, [ ⃗  ‘] ⃗  ^_⃗, [ ⃗  ] ⃗  ^_⃗, (Z, ‘,  a
+1) are coplanar, then 
+&
+&%b 
+&
+&%c 
+&
+&%d # 
+(a) 0  (b) 1 
+(c) 2  (d) 3 
+ 
+9.  If in a triangle ABC Z cos Q eQ   cos Q fQ # cQ , then the 
+sides of the triangle are in 
+(a) A.P.  (b) G.P. 
+(c) H.P.  (d) None of the above 
+ 
+10.  If the position vector of = and @ relative to O be 
+[ ⃗ * 4] ⃗  3^_⃗ and *[ ⃗  2] ⃗ * ^_⃗, respectively, then the 
+median through O of ∆ABC is: 
+(a) *2] ⃗  2^_⃗ (b) *] ⃗  ^ _⃗ 
+(c) *[ ⃗ * ] ⃗  ^_⃗ (d) *] ⃗ * ] ⃗ * ^ _⃗ 
+ 
+11.  If |^| # 5 and 0° m 360°, then the number of different 
+solutions of 3 cos n  4 sin n # ^ is 
+(a) 0  (b) 1 
+(c) 2  (d) Infinite 
+ 
+12.  If o(1,2), p(4,6), q(5,7) and r(Z, ‘) are the vertices of a 
+parallelogram PQRS, then 
+(a) Z # 2, ‘ # 3 (b) Z # 3, ‘ # 4 
+(c) Z # 2, ‘ # 4 (d) Z # 3, ‘ # 5 
+13.  If the system of equations 3
+ * "  4V # 3, 
+  2" *
+3V # *2,6
+  5"  uV # *3 has atleast one solution, 
+then λ # 
+(a) -5  (b) 3 
+(c) 5  (d) 6 
+ 
+14.  Let Z ⃗ # 2[̂  ]̂  2^z, ‘_⃗ # [̂ * ]̂  2^z and  ⃗ # [̂  ]̂ * 2^z are 
+three vectors. Then, a vector in the plane of Z ⃗ and  ⃗ 
+whose projection on ‘_⃗ is of magnitude &√| is 
+(a) 3[̂ * 2]̂  (b) 3[̂  2]̂ 
+(c) 2[̂  3]̂ * ^z (d) 3[̂  2]̂  ^ z 
+ 
+15.  The lines }
+  ~" # 1 and ~
+  }" # 1 are respectively 
+the sides AB, AC of the triangle ABC and the base BC is 
+bisected at (p, q). Equation of the median of the triangle 
+through the vertex A is 
+(a) (2}~ * 1)(~
+  }" * 1) * (}Q  ~Q * 1)(}
+  ~" *
+1) # 0 
+(2}~ * 1)(}
+  ~" * 1)  (}Q  ~Q * 1)(~
+  }" * 1)
+# 0 
+(c) (2}~ * 1)(}
+  ~" * 1) * (}Q  ~Q * 1)(~
+  }" *
+1) # 0 
+(d) (2}~ * 1)(~
+  }" * 1)  (}Q  ~Q * 1)(}
+  ~" *
+1) # 0 
+ 
+16.  If " # sin %&  10&2&010 (
+  0), then ./ . # 
+(a) 
+1%&
+010&  (b) 
+10&
+010& 
+(c) 
+1%&
+%10&  (d) 
+10&
+%10& 
+ 
+17.  The four geometric means between 2 and 64 are 
+(a) 
+&
+ ,
+&
+ ,
+&
+&| ,
+&
+Q  (b) 4, 8, 16, 32 
+(c) 4√2, 8,16 √2, 32 (d) None of the above 
+ 
+18.  The general value of θ, satisfying the equation, 
+sin n # *
+&
+Q , tan n #
+&
+√ is: 
+(a)  
+
+| ,  ∈  (b)   (*1) ’| ( ,  ∈  
+(c) 2 
+
+| ,  ∈  (d) 2 
+&&
+| ,  ∈  
+ 
+19.  There are 50 questions in a paper. Find the number of 
+ways in which a student can attempt one or more 
+questions: 
+(a) 2TU * 1  (b) 2 TU  1 
+(c) 2TU * 2  (d) 2 TU  2 
+ 
+20.  The probability of occurrence of two events E and F are 
+0.25 and 0.50, respectively. The probability of their 
+simultaneous occurrence is 0.14. The probability that 
+neither E nor F occurs is 
+(a) 0.61  (b) 0.11 
+(c) 0.39  (d) 0.89 
+ 
+21.  If θ is the acute angle between the pair of lines 
+
+Q * 7
+"  12"Q # 0, then 
+2 cos n  3 sin n
+4 sin n  5 cos n# 
+(a) 
+Q 
+|   (b) 
+|& 
+  
+(c) 
+ 
+|&   (d) 
+| 
+Q  
+=== PAGE 2 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 2 
+22.  If (n) # 
+cos n * sin n 0
+sin n cos n 0
+0 0 1
+, then (n)() is equal to 
+(a) (n)  (b)  ’
+
+( 
+(c) (n  ) (d) (n * ) 
+ 
+23.  Angle between Z ⃗ and ‘_⃗ is 120°. If ‘_⃗ # 2|Z ⃗| and the 
+vectors Z ⃗  
+‘_⃗, Z ⃗ * ‘_⃗ are at right angles, then 
+ # 
+(a) 
+&
+  (b) 
+&
+T 
+(c) 
+Q
+  (d) 
+Q
+T 
+ 
+24.  The standard deviation of20 numbers is 30. If each of the 
+numbers is increased by 4, then the new standard 
+deviation will be 
+(a) 24  (b) 34 
+(c) 30  (d) 20 
+ 
+25.  The number of common tangent to the circles 
+
+Q  "Q # 4 and 
+Q  "Q * 6
+ * 8" # 24 is 
+(a) 0  (b) 1 
+(c) 3  (d) 4 
+ 
+26.  lim → ’
+0
+0Q(
+0T
+ equal to 
+(a) T  (b)  %T 
+(c) Q  (d)  %Q 
+ 
+27.  The probability that a man who is x years old will die in a 
+year is }. Then, amongst n persons =&, =Q, … … , = each x 
+years old now, the probability that =&, will die in one 
+year is 
+(a) 
+&
+1  (b) 1 * (1 * }) 
+(c) 
+&
+1 1 * (1 * }) (d) & 1 * (1 * }) 
+ 
+28.  Consider the following frequency distribution table. 
+Class Interval  10 -20  20 -30  30 -40  40 -50  50 -60  60 -70  70 -80  
+Frequency  180  & 34  180  135  Q 50  
+If the total frequency is 686 and the median is 42.6, then 
+the value of & and Q are 
+(a) 81, 25  (b) 82, 24 
+(c) 83, 23  (d) 84, 22 
+ 
+29.  The function (
+) # &0   , 0 m 
+ m
+
+Q is maximum 
+when 
+(a) 
+ # sec 
+ (b) 
+ # tan 
+ 
+(c) 
+ # cos 
+ (d) None of the above 
+ 
+30.  If Z cos n  ‘ sin n # 2 and Z sin n * ‘ cos n # 3, then 
+ZQ  ‘Q # 
+(a) 6  (b) 5 
+(c) 13  (d) 10 
+ 
+31.  If 
+!
+Q!(%Q)! and 
+!
+!(%)! are in the ratio 2 : 1, then the value 
+of n is 
+(a) 0  (b) 2 
+(c) 4  (d) 5 
+ 
+32.  If log (1 * 
+  
+Q) # Z&
+  ZQ
+Q  Z
+  ⋯. Then 
+Z  Z|  Z  ⋯ is equal to 
+(a) log 2  (b) 
+Q
+ log 2 
+(c) 
+&
+ log 2  (d) 2 log 2 
+ 
+33.  If n is an integer between 0 to 21, then find a value of n 
+for which the value of !(21 * )! is minimum. 
+(a) 9  (b) 10 
+(c) 12  (d) 21 
+ 
+34.  For what value of }, the polynomial 
+ * 3
+  2}
+Q * 6 
+is exactly divisible by (
+ * 1) 
+(a) 2  (b) 4 
+(c) 6  (d) 8 
+ 
+35.  If 32 tan  n # 2 cos Q  * 3 cos  and 3 cos 2n # 1, then 
+the general value of α for  ∈ ⁄ is 
+(a)  
+
+  (b) 2 
+Q
+  
+(c) 2 
+
+  (d)  
+Q
+  
+ 
+36.  The area of the triangle formed by the vertices whose 
+position vectors are 3[̂  ]̂, 5[̂  2]̂  ^z, [̂ * 2]̂  3^z is 
+(a) √21 sq.units (b) √23 sq.units 
+(c) √33 sq.units (d) √29 sq.units 
+ 
+37.  If  ⃗& # (1,1,1) and  ⃗Q # (1,1, *1) and Z ⃗ and ‘_⃗ are two 
+vectors such that  ⃗& # 2Z ⃗  ‘_⃗ and  ⃗Q # Z ⃗  2‘_⃗, then the 
+angle between Z ⃗ and ‘_⃗ is 
+(a) cos %& ’* && ( (b) cos %& ’ && ( 
+(c) cos %& ’( (d) cos %& ’|√Q&& ( 
+ 
+38.  In a ∆ABC, if tan Q fQ  tan Q ¥Q  tan Q eQ # ^, then ^ is always 
+(a) 1  (b) ≥1 
+(c) # 2  (d) # 1 
+ 
+39.  If X and Y are two sets, then ¤ ∩ '“ ∩ (¤ ∪ ')′ is 
+(a) ¤′  (b) '′ 
+(c) ϕ  (d) None of the above 
+ 
+40.  In three throws of three dice, the probability of throwing 
+triplets not more than twice is 
+(a) 1 *
+&
+|1  (b) 1 *
+&
+| 
+(c) 1 *
+&
+| 1  (d) 1 *
+&
+|  
+ 
+41.  The eccentric angles of the extremities of latus rectum of 
+the ellipse 
+1
+b1 
+/1
+c1 # 1 are given by 
+(a) tan %& ’ b› c ( (b) tan %& ’ c› b ( 
+(c) tan %& ’ cb› ( (d) tan %& ’ bc› ( 
+ 
+42.  If : q → q is defined by 
+(
+) # ﬁ
+0Q
+100Q ﬂ 
+ ∈ q * >*1, *2?
+*1 ﬂ 
+ # *2
+0 ﬂ 
+ # *1
+  
+then(
+) is continuous on the set 
+(a) R  (b) q * >*2? 
+(c) q * >*1? (d) q * >*1, *2? 
+=== PAGE 3 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 3 
+43.  Let Z ⃗ # [̂  ]̂ and ‘_⃗ # 2[̂ * ^z. Then, the point of 
+intersection of the lines ° ⃗ – Z ⃗ # ‘_⃗ – Z ⃗ and ° ⃗ – ‘_⃗ # Z ⃗ – ‘_⃗ 
+is 
+(a) *[̂  ]̂  ^z (b) 3[̂ * †  ^ z 
+(c) [̂ * ]̂ * ^z  (d) 3[̂  ]̂ * ^ z 
+ 
+44.   (sinh 
+  cosh 
+)	
+ #? 
+(a)  sech 
+  · (b)   cosh 
+  · 
+(c) sinh 2
+  · (d) cosh 2
+  · 
+ 
+45.  If  a ß and Q # 5 * 3, ßQ # 5ß * 3, then the equation 
+whose roots are 
+
+ß and 
+ß
+ is 
+(a) 3
+Q * 25
+  3 # 0 
+(b) 3
+Q  5
+  3 # 0 
+(c) 3
+Q * 5
+  3 # 0 
+(d) 3
+Q * 19
+  3 # 0 
+ 
+46.  The locus of the point of intersection of tangents to the 
+ellipse 
+1
+b1 
+/1
+c1 # 1 which meet at right angle is 
+(a) a circle  (b) a parabola 
+(c) an ellipse (d) a hyperbola 
+ 
+47.  If ¶&, ¶Q, … . , ¶ are n harmonic means between a and 
+‘(a Z), then •‚0b•‚%b  •„0c•„%c # 
+(a) 2  (b)   1 
+(c)  * 1  (d) 2  1 
+ 
+48.  The area of the region bounded by the ¤ * Z
+ﬂ” and the 
+curves defined by " # tan 
+ , *
+
+ m 
+ m
+
+ and 
+" # cot 
+ ,
+
+| m 
+ m
+
+Q  is 
+(a) *
+&
+Q log 2  (b) 
+&
+Q log 2 
+(c) log 2  (d) None of the above 
+ 
+49.  Suppose that =&, =Q, … . , =U  are 30 sets each having 5 
+elements and @&, @Q, … . , @ are  sets such that 
+⋃ =… # ⋃ @‰‰¾&U …¾& # ”. If each element of S belongs to 
+exactly ten of the =…′” and exactly nine of the @‰“”, then 
+ # 
+(a) 15  (b) 45 
+(c) 75  (d) 90 
+ 
+50.  If a number x is selected from natural numbers 1, 2, ……, 
+100, then the probability for 
+ 
+&UU 
+  29 is 
+(a) 
+ 
+TU   (b) 
+ 
+TU  
+(c) 
+& 
+TU   (d) 
+ 
+TU  
+ 
+51.  Choose the odd one: 
+(a) Zebra  (b) Hyena 
+(c) Rhinoceros (d) Giraffe 
+ 
+Insert the missing number: 
+52.  16, 33, 65, 131, 261, ? 
+(a) 523  (b) 521 
+(c) 613  (d) 721 
+ 
+53.  8, 7, 11, 12, 14, 17, 17, 22, ? 
+(a) 27  (b) 20 
+(c) 22  (d) 24 
+Read the information given below and answer the following 
+question: 
+I. In a family of six persons A, B, C, D, E and F, there are two 
+married couples. 
+II. D is grandmother of A and mother of B. 
+III. C is wife of B and mother of F. 
+IV. F is the granddaughter of E. 
+54.  Who among the following is one of the couples? 
+(a) CD  (b) DE 
+(c) EB  (d) None of these 
+ 
+55.  What is C to A? 
+(a) Daughter (b) Grandmother 
+(c) Mother  (d) Cannot be determined 
+ 
+56.  Which of the following is true? 
+(a) A is brother of F. 
+(b) A is sister of F. 
+(c) D has two grandsons. 
+(d) None of these 
+ 
+57.  How many male members are there in the family? 
+(a) Three 
+(b) Two 
+(c) Cannot be determined 
+(d) None of these 
+ 
+Study the following table carefully and answer the following 
+question. 
+Subjects  
+(Full marks 50)  
+40 and 
+above  
+30 and 
+above  
+20 and 
+above  
+10 and 
+above  
+0 and 
+above  
+Physics  9 32  80  92  100  
+Chemistry  4 21  66  81  100  
+Aggregate 
+average  7 27  73  87  100  
+58.  If it is known that at least 3 students were eligible for a 
+Symposium on Chemistry, the minimum qualifying 
+marks in Chemistry for eligibility to Symposium would 
+lie in the range: 
+(a) 30 - 40  (b) 20 - 30 
+(c) Below 20 (d) Cannot be determined 
+ 
+59.  What is the difference between the number of students 
+passed with 30 as cut-off marks in Chemistry and those 
+passed with 30 as  cut-off marks in aggregate? 
+(a) 3  (b) 4 
+(c) 5  (d) 6 
+ 
+60.  If at least 60% marks in Physics are required for 
+pursuing higher studies in Physics, how many students 
+will be eligible to pursue higher studies in physics? 
+(a) 27  (b) 32 
+(c) 34  (d) 41 
+ 
+61.  The number of students scoring less than 40% marks in 
+aggregate is: 
+(a) 13  (b) 19 
+(c) 20  (d) 27 
+ 
+Choose the missing term: 
+62.  BTCX : DWEV :: FUGT : ? 
+(a) EHIJ  (b) GHIJ 
+(c) HSIR  (d) SRHS 
+=== PAGE 4 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 4 
+63.  Q1F, S2E, U6D, W21C, ? 
+(a) Y66B  (b) Y44B 
+(c) Y88B  (d) Z88B 
+ 
+64.  7 : 56 :: 9 : ? 
+(a) 63  (b) 81 
+(c) 90  (d) 99 
+ 
+65.  If ‘A3T15R’ stands for ‘ACTOR’ and ‘D1T5’ stands for 
+DATE, how will you code ‘ROTATE’ 
+(a) R16T1T5 (b) R15T1T5 
+(c) R15T1T16 (d) R15C1&7 
+ 
+66.  COUNSEL is to BITIRAK, so also GUIDANCE is to ________? 
+(a) EOHYZKBB (b) FOHYZJBB 
+(c) FPHZZKAB (d) HOHYBJBA 
+ 
+A company produces five different products. The sales of 
+these five products (in lakh number of packs) during 2005 
+and 2010 are shown in the following bar-graph. Question is 
+based on this graph. 
+Sales (in lakh number of packs) of five different products of a 
+company during 2005-2010 
+ 
+67.  The sales have increased by nearly 55% from 2005 to 
+2010 in case of: 
+(a) Product A (b) Product B 
+(c) Product C (d) Product D 
+ 
+68.  The sales of Product A in 2010 was by what percent 
+more than the sales of Product B in 2010? (rounded off 
+to the nearest integer) 
+(a) 33%  (b) 31% 
+(c) 28%  (d) 22% 
+ 
+69.  During the period 2005-2010, the minimum rate of 
+increase in sales in the case of: 
+(a) Product A (b) Product B 
+(c) Product D (d) Product E 
+ 
+70.  Choose the pair of number that comes next: 
+1 10 7 20 13 30 19 
+(a) 25 22  (b) 26 24 
+(c) 26 23  (d) 25 23 
+ 
+71.  In this series looking at the letter pattern fill the blank in 
+the middle of the series: 
+ELFS, GLHA, ILJA, ______, MLNA 
+(a) OLPA  (b) KLMA 
+(c) LLMA  (d) KLLA 
+ 
+Read the following information carefully and then answer the 
+following question: 
+I. P ψ Q means P is mother of Q 
+II. P ∈ Q means P is sister of Q 
+III. P $ Q means P is father of Q 
+IV. P # Q means P is brother of Q 
+72.  Which of the following means R is brother of T? 
+(a) R ψ S # U $ T (b) U ψ R # S # T 
+(c) U ψ R ∈ S ψ T (d) T # S $ Q ∈ R 
+ 
+73.  Which of the following means N is definitely daughter of 
+K? 
+(a) K $ L # M # N (b) M ψ K $ N ∈ L 
+(c) K ψ M # L ∈ N (d) L ψ K $ N # M 
+ 
+74.  If K ψ L ∈ M # N, then how K is related with N? 
+(a) Mother  (b) Aunt 
+(c) Great Aunt (d) Grandmother 
+ 
+75.  Choose the word that is a necessary part of the 
+underlined word: harvest 
+(a) autumn  (b) crop 
+(c) stockpile  (d) tractor 
+ 
+76.  There are six members in a family. A is the father of D, E 
+is the grandfather of D. B is the daughter-in-law of C. F is 
+the uncle of D. What is the relationship of C with F? 
+(a) Sister  (b) Mother-in-law 
+(c) Nephew  (d) Data inadequate 
+ 
+77.  Find the matching term for music : Guitar : Performer. 
+(a) Dance : Tune : Instrument 
+(b) Food : Recipe : Cook 
+(c) Patient : Medicine : doctor 
+(d) Trick : Rope : Acrobat 
+ 
+78.  If it is Saturday on January 1, 2000, then January 1, 2001 
+would have been 
+(a) Monday  (b) Sunday 
+(c) Tuesday  (d) Friday 
+ 
+79.  Choose the word which has the same relationship among 
+the given three words: Yellow, Blue, Red 
+(a) Black  (b) Orange 
+(c) White  (d) Paint 
+ 
+80.  Choose the correct option for the remainder when X # 1! 
+ 2!  3!  ….  100! is divided by 24 
+(a) 9  (b) 11 
+(c) 152  (d) 13 
+ 
+81.  Which word does NOT belong with the others? 
+(a) wing  (b) fin 
+(c) beak  (d) rudder 
+ 
+82.  If 9 – 3  8 # 24, 10 – 2  7 # 35 and 80 – 40  3 # 6, 
+then find the value of 12 – 4  3 # ? 
+(a) 7  (b) 9 
+(c) 12  (d) 16 
+ 
+83.  How many times in a day are the hands of a clock 
+pointing opposite to each other? 
+(a) 4  (b) 20 
+(c) 22  (d) 24 
+
+=== PAGE 5 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 5 
+84.  Choose the number pair or group that is different from 
+others? 
+(a) 15 : 46  (b) 12 : 37 
+(c) 9 : 28  (d) 8 : 33 
+ 
+85.  Choose the pair that best represents a similar 
+relationship to the one expressed in the original pair of 
+words: PULSATE : THROB 
+(a) walk : run 
+(b) tired : sleep 
+(c) examine : scrutinize 
+(d) ballet : dancer 
+ 
+86.  In a certain code language, “do re me” means “he is late”; 
+“fa me la” means “she is early” and “so ti do” means “he 
+leaves soon”. Which word in the language means ‘late”? 
+(a) la  (b) do 
+(c) me  (d) re 
+ 
+87.  In a class of 50 students, Raghu’s rank is twice that of 
+Paul. There are 10 students who have ranked worse than 
+that of Raghu. Paul’s rank in the class is: 
+(a) 5 th  (b) 10 th  
+(c) 15 th  (d) 20 th  
+ 
+88.  Choose the pair that best represents a similar 
+relationship to the one expressed in the original pair of 
+words: WAITRESS : RESTAURANT 
+(a) doctor : diagnosis 
+(b) actor : role 
+(c) driver : truck 
+(d) teacher : school 
+ 
+89.  Radha is twice as old as Rita was 2 years ago. If 
+difference between their ages is 2 years, how old is 
+Radha today? 
+(a) 6  (b) 8 
+(c) 10  (d) 12 
+ 
+90.  If Z # 52 and ACT # 48, then BAT will be equal to 
+(a) 46  (b) 39 
+(c) 44  (d) 41 
+ 
+DIRECTIONS : 
+It is said with truth that the function of a univer sity is to 
+prepare the young to take their place in human soci ety. It 
+must provide its members with the knowledge and ski ll 
+necessary to make them efficient citizens. But is t he whole 
+duty of man exhausted by the acquisition of knowled ge and 
+professional training? Is a university only an inst itution for 
+higher learning, a factory which churns out clerks and 
+technicians able to run the machinery of the State?  Mere 
+knowledge which gratifies curiosity is different fr om culture 
+which refines personality. Culture is not remembering a mass 
+of serious details about the dates of birth of the great heroes 
+of the world or the interesting names of the fastes t ships 
+which cross the Atlantic or entertaining odds and e nds 
+gathered from the latest who's who. A well-known institution 
+of this country has for its motto savidyayavimuchyate: that is, 
+knowledge which is designed for salvation, for the 
+development of the soul, is the best. Such an idea is not 
+merely an Indian idiosyncrasy. Plato said long ago that the 
+culture of soul is "the first and fairest thing tha t the best of 
+men can ever have. According to Goethe, the object of 
+education is to form tastes and not simply to commu nicate 
+knowledge. A man's culture is not judged by the amo unt of 
+tabulated information which he has at his command, but by 
+the quality of mind which he brings to bear on the facts of 
+life. Education is not cramming the mind with a hos t of 
+technical details, putting sight, as it were, into blind eyes. The 
+eye of the soul is never blind, only its gaze may b e turned to 
+the false and the fleeting. Too often the vision ma y be 
+dragged downwards by the "leaden weights" of pride and 
+prejudice, of passion and desire. The function of t he teacher 
+is not to add to the "leaden weights" but remove th em and 
+liberate the soul from the encumbrance so that it m ay follow 
+its native impulse to soar upwards. The student at a 
+university does not merely learn something, but bec omes 
+something by being exposed, in the most elastic per iod of his 
+life, to transforming influences, such as the const ant clash of 
+mind with mind, the interchange of ideas, the testi ng of 
+opinions, and the growth of knowledge of human nature. 
+ 
+91.  What is a man’s culture judged by? 
+(a)  By the quality of mind which he brings to bear on the 
+facts of life. 
+(b)  By man’s social skill. 
+(c)  By the variety of books he reads. 
+(d)  By money and influence. 
+ 
+92.  What are the hindering factors in the liberation and 
+development of the soul? 
+(a) Power and wealth 
+(b) Passion and desire, pride and prejudice 
+(c) Money and influence 
+(d) Greed and envy 
+ 
+93.  What is the function of education according to the 
+ancient Indian philosophers? 
+(a)  Education is the development of mind. 
+(b)  Education brings about salvation and development 
+of the soul. 
+(c)  Education is the cultivation of culture. 
+(d)  Education aims at the inculcation of generosity. 
+ 
+94.  What is the object of education according to Goathe? 
+(a) It teaches social manners. 
+(b) It teaches courtesy. 
+(c) It communicates knowledge. 
+(d) It forms taste. 
+ 
+95.  What is meant by “leaden weights”? 
+(a) Weights made of leaden 
+(b) Cold scientific knowledge 
+(c) Hindering factors, of pride and prejudice, passion and 
+desire, in the liberation of the soul. 
+(d) Social and family responsibilities. 
+ 
+96.  The function of university is: 
+(a) To enable the young to gather facts about the world. 
+(b) To learn to do his job. 
+(c) To prepare the young to take their place in society. 
+(d) To enable them to learn to talk with others. 
+=== PAGE 6 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 6 
+97.  Mere knowledge and culture may be distinguished from 
+each other in that: 
+(a)  The former widens the mental horizon, the latter 
+enlarges the heart. 
+(b)  The former gratifies curiosity, the latter refines 
+personality. 
+(c)  The former is concerned with facts, the latter with 
+fiction. 
+(d)  The former adds to power, the latter adds to 
+prestige. 
+ 
+98.  According to the passage, the function of the teacher is: 
+(a)  To remove leaden weights of pride and prejudice, 
+passion, and desire to liberate the soul. 
+(b)  To instill facts into the minds of the students. 
+(c)  To teach humanity. 
+(d)  To foster brotherhood. 
+ 
+Fill in the blank with the most appropriate word given in the 
+options: 
+99.  The ____________ with which he is able to wield the paint 
+brush is really remarkable. 
+(a) ease  (b) practice 
+(c) sweep  (d) gait 
+ 
+100.  The State Transportation Corporation has ________ a 
+loss of 5 crore INR this year. 
+(a) derived  (b) incurred 
+(c) performed (d) formulated 
+ 
+101.  The tall prefers rooms with _______ ceilings. 
+(a) tall  (b) long 
+(c) higher  (d) high 
+ 
+102.  I cannot _________ it to you right now; tomorrow we 
+will discuss about it. 
+(a) demand  (b) disturb 
+(c) explain  (d) expect 
+ 
+103.  The car driver was arrested for rash driving and his 
+license was __________ by the police. 
+(a) impounded (b) flown 
+(c) penalized (d) banned 
+ 
+Write one word for the following: 
+104.  An uncivilized/primitive person. 
+(a) barbarian (b) ascetic 
+(c) bourgeois (d) altrust 
+ 
+105.  One who does not save for future. 
+(a) incorporeal (b) inedible 
+(c) improvident (d) implacable 
+ 
+Choose the most suitable antonym of the given word: 
+106.  NEGLIGENCE 
+(a) diligence (b) meticulousness 
+(c) integrity  (d) honesty 
+ 
+107.  ERUDITE 
+(a) scholarly (b) unfamiliar 
+(c) illiterate  (d) arrogant 
+ 
+Choose the most suitable synonym of the given word: 
+108.  RECUPERATE 
+(a) recapture (b) reclaim 
+(c) recover  (d) recur 
+ 
+109.  SCINTILLATING 
+(a) touching  (b) nagging 
+(c) glittering (d) warning 
+ 
+110.  BLAND 
+(a) pleasant  (b) harsh 
+(c) irritating (d) tasteless 
+ 
+111.  Consider a computer system with speed of 10 6 
+instructions per second. A program P, having 2n² steps is 
+run on this system, where n is the input size. If n # 
+10000, what is the execution time for P? 
+(a) 2 seconds (b) 20 seconds 
+(c) 100 seconds (d) 200 seconds 
+ 
+112.  To fetch data from the secondary memory which one 
+of the following register is used 
+(a) MAR  (b) PC 
+(c) IR  (d) MBR 
+ 
+113.  One TeraByte (TB) # ____________ GB and One 
+ExaByte(EB) # _________ GB 
+(a) 2&U  GB, 2 16  GB (b) 2 10  GB, 2 20  GB 
+(c) 2 10 Gb, 2 24  GB (d) 2 10  GB, 2 30  GB 
+ 
+114.  The cache memory is more effective because of 
+(a) Memory localization 
+(b) Locality of reference 
+(c) Memory size 
+(d) None of the mentioned 
+ 
+115.  To access the I/O devices the status flags is 
+continuously checked in 
+(a) Program controlled I/O 
+(b) Memory mapped I/O 
+(c) I/O mapped 
+(d) None of the above 
+ 
+116.  Which of the following is the fastest means of 
+memory access for CPU? 
+(a) Registers (b) Cache 
+(c) Main memory (d) Stack 
+ 
+117.  The process when processor fetch or decode another 
+instruction during the execution of current instruction is 
+called 
+(a) Supercomputing (b) Pipelining 
+(c) Cloud computing (d) Grid computing 
+ 
+118.  Which of the following is used by ALU to store the 
+intermediate results? 
+(a) Stack  (b) Heap 
+(c) Registers (d) Accumulators 
+ 
+119.  The number (2217) 8 is equivalent to 
+(a) (608) 16  (b) (028F) 16  
+(c) (048F) 16  (d) (2297) 10  
+ 
+120.  The binary multiplication 00*11 will give 
+(a) 11  (b) 00 
+(c) 01  (d) 10 
+=== PAGE 7 ===
+                                   
+NIMCET -2021  
+ 
+ 18, Zone-II, M.P. Nagar, Bhopal  : 0755-4295319  | 7 
+ANSWER KEY: NIMCET -2021 -ACTUAL PAPER  
+1.   d 2.   b 3.   c 4.   d 5.   c 6.   b 7.   d 8.   b 9.   a 10.   b 
+11.   c 12.   a 13.   a 14.   b 15.   c 16.   a 17.   b 18.   c 19.   a 20.   c 
+21.   a 22.   c 23.   d 24.   c 25.   b 26.   a 27.   d 28.   b 29.   c 30.   c 
+31.   d 32.   b 33.   b 34.   b 35.   b 36.   d 37.   a 38.   b 39.   c 40.   d 
+41.   c 42.   c 43.   d 44.   b 45.   d 46.   a 47.   a 48.   c 49.   b 50.   b 
+51.   b 52.   a 53.   b 54.   b 55.   c 56.   d 57.   c 58.   b 59.   d 60.   b 
+61.   d 62.   c 63.   c 64.   c 65.   b 66.   b 67.   d 68.   c 69.   c 70.   c 
+71.   d 72.   b 73.   b 74.   a 75.   b 76.   d 77.   d 78.   a 79.   b 80.   a 
+81.   c 82.   b 83.   c 84.   d 85.   c 86.   d 87.   d 88.   d 89.   b 90.   a 
+91.   a 92.   b 93.   b 94.   d 95.   c 96.   c 97.   b 98.   a 99.   a 100.  b 
+101.  d 102.  c 103.  a 104.  a 105.  c 106.  b 107.  c 108.  c 109.  c 110.  d 
+111.  d 112.  a 113.  d 114.  b 115.  a 116.  a 117.  b 118.  d 119.  c 120.  b 
+ 
+                                   
+NIMCET -2021  
+ANSWER KEY: NIMCET -2021 -ACTUAL PAPER  
+1.   d 2.   b 3.   c 4.   d 5.   c 6.   b 7.   d 8.   b 9.   a 10.   b 
+11.   c 12.   a 13.   a 14.   b 15.   c 16.   a 17.   b 18.   c 19.   a 20.   c 
+21.   a 22.   c 23.   d 24.   c 25.   b 26.   a 27.   d 28.   b 29.   c 30.   c 
+31.   d 32.   b 33.   b 34.   b 35.   b 36.   d 37.   a 38.   b 39.   c 40.   d 
+41.   c 42.   c 43.   d 44.   b 45.   d 46.   a 47.   a 48.   c 49.   b 50.   b 
+51.   b 52.   a 53.   b 54.   b 55.   c 56.   d 57.   c 58.   b 59.   d 60.   b 
+61.   d 62.   c 63.   c 64.   c 65.   b 66.   b 67.   d 68.   c 69.   c 70.   c 
+71.   d 72.   b 73.   b 74.   a 75.   b 76.   d 77.   d 78.   a 79.   b 80.   a 
+81.   c 82.   b 83.   c 84.   d 85.   c 86.   d 87.   d 88.   d 89.   b 90.   a 
+91.   a 92.   b 93.   b 94.   d 95.   c 96.   c 97.   b 98.   a 99.   a 100.  b 
+101.  d 102.  c 103.  a 104.  a 105.  c 106.  b 107.  c 108.  c 109.  c 110.  d 
+111.  d 112.  a 113.  d 114.  b 115.  a 116.  a 117.  b 118.  d 119.  c 120.  b 
+ 
+                                   
+NIMCET -2021  
+ANSWER KEY: NIMCET -2021 -ACTUAL PAPER  
+1.   d 2.   b 3.   c 4.   d 5.   c 6.   b 7.   d 8.   b 9.   a 10.   b 
+11.   c 12.   a 13.   a 14.   b 15.   c 16.   a 17.   b 18.   c 19.   a 20.   c 
+21.   a 22.   c 23.   d 24.   c 25.   b 26.   a 27.   d 28.   b 29.   c 30.   c 
+31.   d 32.   b 33.   b 34.   b 35.   b 36.   d 37.   a 38.   b 39.   c 40.   d 
+41.   c 42.   c 43.   d 44.   b 45.   d 46.   a 47.   a 48.   c 49.   b 50.   b 
+51.   b 52.   a 53.   b 54.   b 55.   c 56.   d 57.   c 58.   b 59.   d 60.   b 
+61.   d 62.   c 63.   c 64.   c 65.   b 66.   b 67.   d 68.   c 69.   c 70.   c 
+71.   d 72.   b 73.   b 74.   a 75.   b 76.   d 77.   d 78.   a 79.   b 80.   a 
+81.   c 82.   b 83.   c 84.   d 85.   c 86.   d 87.   d 88.   d 89.   b 90.   a 
+91.   a 92.   b 93.   b 94.   d 95.   c 96.   c 97.   b 98.   a 99.   a 100.  b 
+101.  d 102.  c 103.  a 104.  a 105.  c 106.  b 107.  c 108.  c 109.  c 110.  d 
+111.  d 112.  a 113.  d 114.  b 115.  a 116.  a 117.  b 118.  d 119.  c 120.  b 
+ 

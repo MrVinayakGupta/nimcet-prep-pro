@@ -1,0 +1,468 @@
+.roadmapContainer {
+  padding: 2rem 2.5rem;
+  max-width: 1300px;
+  margin: 0 auto;
+  color: var(--text-primary);
+}
+
+.hero {
+  background: linear-gradient(135deg, rgba(79, 70, 229, 0.12) 0%, rgba(147, 51, 234, 0.08) 100%);
+  border: 1px solid rgba(79, 70, 229, 0.25);
+  border-radius: 1.25rem;
+  padding: 2.5rem 2rem;
+  margin-bottom: 2rem;
+  position: relative;
+  overflow: hidden;
+}
+
+.heroTag {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--color-primary);
+  color: #fff;
+  font-size: 0.8rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 4px 12px;
+  border-radius: 9999px;
+  margin-bottom: 1rem;
+}
+
+.heroTitle {
+  font-size: 2.25rem;
+  font-weight: 800;
+  line-height: 1.25;
+  margin-bottom: 0.75rem;
+  background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 50%, #ec4899 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.heroSubtitle {
+  font-size: 1.05rem;
+  color: var(--text-secondary);
+  max-width: 850px;
+  line-height: 1.6;
+  margin-bottom: 1.5rem;
+}
+
+.statsRow {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+  margin-top: 1.5rem;
+}
+
+.statCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  padding: 1rem 1.25rem;
+  border-radius: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.statIcon {
+  font-size: 1.75rem;
+  background: rgba(79, 70, 229, 0.1);
+  color: var(--color-primary);
+  width: 48px;
+  height: 48px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.5rem;
+}
+
+.statInfo h4 {
+  font-size: 1.25rem;
+  font-weight: 800;
+  margin: 0;
+  color: var(--text-primary);
+}
+
+.statInfo p {
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  margin: 0;
+}
+
+/* Progress Tracker */
+.progressCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.progressHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+
+.progressHeader h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.progressPercent {
+  font-weight: 800;
+  color: var(--color-primary);
+  font-size: 1.1rem;
+}
+
+.progressBarContainer {
+  width: 100%;
+  height: 10px;
+  background: var(--border-color);
+  border-radius: 9999px;
+  overflow: hidden;
+}
+
+.progressBarFill {
+  height: 100%;
+  background: linear-gradient(90deg, #4f46e5 0%, #10b981 100%);
+  border-radius: 9999px;
+  transition: width 0.4s ease;
+}
+
+/* Cheat codes grid */
+.cheatCodesSection {
+  margin-bottom: 2.5rem;
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 1.25rem;
+}
+
+.sectionTitle {
+  font-size: 1.4rem;
+  font-weight: 800;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.cheatCodesGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.25rem;
+}
+
+.cheatCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.25rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.cheatCard:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+}
+
+.cheatNumber {
+  font-size: 0.75rem;
+  font-weight: 800;
+  color: var(--color-primary);
+  background: rgba(79, 70, 229, 0.1);
+  display: inline-block;
+  padding: 3px 8px;
+  border-radius: 4px;
+  margin-bottom: 0.75rem;
+}
+
+.cheatTitle {
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 0.5rem;
+}
+
+.cheatDesc {
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.5;
+  margin-bottom: 0.75rem;
+}
+
+.cheatFormula {
+  background: var(--bg-primary);
+  border: 1px dashed var(--border-color);
+  padding: 0.6rem 0.8rem;
+  border-radius: 0.5rem;
+  font-family: monospace;
+  font-size: 0.82rem;
+  color: #10b981;
+}
+
+/* Resource rationale */
+.rationaleCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+.rationaleGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.rationaleItem {
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  padding: 1rem;
+  border-radius: 0.75rem;
+}
+
+.teacherName {
+  font-weight: 700;
+  color: var(--color-primary);
+  font-size: 0.95rem;
+  margin-bottom: 4px;
+}
+
+.teacherRole {
+  font-size: 0.78rem;
+  color: var(--text-secondary);
+  margin-bottom: 6px;
+  font-weight: 600;
+}
+
+.teacherWhy {
+  font-size: 0.84rem;
+  color: var(--text-primary);
+  line-height: 1.45;
+}
+
+/* Tabs */
+.tabsBar {
+  display: flex;
+  gap: 0.5rem;
+  overflow-x: auto;
+  padding-bottom: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.tabBtn {
+  background: var(--card-bg);
+  color: var(--text-secondary);
+  border: 1px solid var(--border-color);
+  padding: 0.6rem 1.1rem;
+  border-radius: 0.6rem;
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: all 0.2s ease;
+}
+
+.tabBtn:hover {
+  background: var(--card-bg-hover);
+  color: var(--text-primary);
+}
+
+.tabBtn.activeTab {
+  background: var(--color-primary);
+  color: #fff;
+  border-color: var(--color-primary);
+}
+
+/* Days List */
+.daysList {
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.dayCard {
+  background: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 1rem;
+  padding: 1.5rem;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.dayCard.completedDay {
+  border-color: #10b981;
+  background: rgba(16, 185, 129, 0.02);
+}
+
+.dayHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.dayMeta {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.dayBadge {
+  background: var(--color-primary);
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 800;
+  padding: 4px 10px;
+  border-radius: 6px;
+}
+
+.phaseBadge {
+  font-size: 0.75rem;
+  color: var(--text-secondary);
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  padding: 3px 8px;
+  border-radius: 4px;
+  font-weight: 600;
+}
+
+.dayTitle {
+  font-size: 1.25rem;
+  font-weight: 800;
+  color: var(--text-primary);
+  margin-top: 4px;
+}
+
+.checkboxLabel {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  user-select: none;
+  background: var(--bg-primary);
+  border: 1px solid var(--border-color);
+  padding: 6px 12px;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
+}
+
+.checkboxLabel.checked {
+  background: rgba(16, 185, 129, 0.1);
+  color: #10b981;
+  border-color: #10b981;
+}
+
+.topicsList {
+  font-size: 0.92rem;
+  color: var(--text-secondary);
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
+.triggerBox {
+  background: rgba(245, 158, 11, 0.08);
+  border-left: 4px solid #f59e0b;
+  padding: 0.85rem 1rem;
+  border-radius: 0 0.5rem 0.5rem 0;
+  margin-bottom: 1.25rem;
+}
+
+.triggerHeader {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: #d97706;
+  margin-bottom: 4px;
+}
+
+.triggerContent {
+  font-size: 0.88rem;
+  color: var(--text-primary);
+  line-height: 1.5;
+}
+
+.actionRow {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  border-top: 1px solid var(--border-color);
+  padding-top: 1rem;
+}
+
+.videoLinks {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+
+.videoBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #ff0000;
+  color: #fff;
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: opacity 0.2s ease;
+}
+
+.videoBtn:hover {
+  opacity: 0.9;
+}
+
+.videoBtnSecondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  border: 1px solid var(--border-color);
+  font-size: 0.82rem;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+}
+
+.videoBtnSecondary:hover {
+  background: var(--card-bg-hover);
+}
+
+.practiceBtn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--color-primary);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 700;
+  padding: 7px 16px;
+  border-radius: 0.5rem;
+  text-decoration: none;
+  transition: background 0.2s ease;
+}
+
+.practiceBtn:hover {
+  background: var(--color-primary-hover);
+}

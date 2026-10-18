@@ -1,0 +1,352 @@
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.setupCard, .resultCard {
+  background-color: var(--card-bg);
+  padding: 2.5rem;
+  border-radius: 1.5rem;
+  box-shadow: var(--shadow-md);
+  border: 1px solid var(--border-color);
+  text-align: center;
+}
+
+.setupCard h2, .resultCard h2 {
+  font-size: 2rem;
+  margin-bottom: 2rem;
+  color: var(--text-primary);
+}
+
+.formGroup {
+  margin-bottom: 2rem;
+  text-align: left;
+}
+
+.formGroup label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.75rem;
+  color: var(--text-primary);
+}
+
+.options {
+  display: flex;
+  gap: 1rem;
+}
+
+.optBtn {
+  flex: 1;
+  padding: 1rem;
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-weight: 500;
+  transition: all 0.2s;
+}
+
+.activeOpt {
+  background-color: var(--color-primary);
+  color: white;
+  border-color: var(--color-primary);
+}
+
+.select {
+  width: 100%;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid var(--border-color);
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: 1rem;
+  outline: none;
+}
+
+.startBtn {
+  background: linear-gradient(135deg, var(--color-primary), #A855F7);
+  color: white;
+  border: none;
+  padding: 1rem 2.5rem;
+  font-size: 1.1rem;
+  font-weight: 600;
+  border-radius: 2rem;
+  cursor: pointer;
+  box-shadow: var(--shadow-sm);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.startBtn:hover {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+
+/* Test Phase */
+.testContainer {
+  display: grid;
+  grid-template-columns: 1fr 300px;
+  gap: 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+  height: calc(100vh - 120px);
+}
+
+.mainArea {
+  display: flex;
+  flex-direction: column;
+  background-color: var(--card-bg);
+  border-radius: 1rem;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.topBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background-color: var(--bg-secondary);
+  border-bottom: 1px solid var(--border-color);
+}
+
+.timer {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--text-primary);
+}
+
+.timerWarning {
+  color: var(--color-danger);
+  animation: pulse 1s infinite;
+}
+
+@keyframes pulse {
+  0% { opacity: 1; }
+  50% { opacity: 0.7; }
+  100% { opacity: 1; }
+}
+
+.submitBtnTop {
+  background-color: var(--color-danger);
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+
+.questionArea {
+  flex: 1;
+  padding: 2rem;
+  overflow-y: auto;
+}
+
+.qHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.qNum {
+  font-weight: 600;
+  color: var(--text-secondary);
+  font-size: 1.1rem;
+}
+
+.reviewBtn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: var(--text-secondary);
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  background-color: var(--bg-primary);
+}
+
+.activeReview {
+  color: var(--color-warning);
+  background-color: rgba(245, 158, 11, 0.1);
+}
+
+.qText {
+  font-size: 1.25rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.optionsGrid {
+  display: grid;
+  gap: 1rem;
+}
+
+.optionBtn {
+  display: flex;
+  align-items: center;
+  text-align: left;
+  padding: 1.25rem;
+  border: 1px solid var(--border-color);
+  border-radius: 0.75rem;
+  background-color: var(--bg-primary);
+  color: var(--text-primary);
+  font-size: 1.1rem;
+  transition: all 0.2s;
+}
+
+.optionBtn:hover {
+  border-color: var(--color-primary);
+}
+
+.selectedOption {
+  border-color: var(--color-primary);
+  background-color: rgba(99, 102, 241, 0.1);
+  box-shadow: inset 0 0 0 1px var(--color-primary);
+}
+
+.optLabel {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background-color: var(--bg-secondary);
+  margin-right: 1rem;
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.selectedOption .optLabel {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 2rem;
+  background-color: var(--bg-secondary);
+  border-top: 1px solid var(--border-color);
+}
+
+.navBtn {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1.5rem;
+  background-color: var(--color-primary);
+  color: white;
+  border-radius: 0.5rem;
+  font-weight: 600;
+}
+
+.navBtn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.sidePanel {
+  background-color: var(--card-bg);
+  border-radius: 1rem;
+  border: 1px solid var(--border-color);
+  box-shadow: var(--shadow-sm);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+}
+
+.sidePanel h3 {
+  margin-bottom: 1.5rem;
+  font-size: 1.1rem;
+  color: var(--text-primary);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  overflow-y: auto;
+}
+
+.navCell {
+  aspect-ratio: 1;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 1rem;
+  border: 2px solid transparent;
+}
+
+.navCellActive {
+  border-color: var(--text-primary);
+}
+
+.navUnanswered {
+  background-color: var(--bg-secondary);
+  color: var(--text-secondary);
+}
+
+.navAnswered {
+  background-color: var(--color-success);
+  color: white;
+}
+
+.navReview {
+  background-color: var(--color-warning);
+  color: white;
+}
+
+.navReviewAnswered {
+  background-color: var(--color-primary);
+  color: white;
+}
+
+/* Result Phase */
+.scoreCircle {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: 8px solid var(--color-primary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 2rem;
+  background-color: var(--bg-secondary);
+}
+
+.scoreCircle span {
+  font-size: 4rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  line-height: 1;
+}
+
+.statsRow {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.statBox {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+
+@media (max-width: 900px) {
+  .testContainer {
+    grid-template-columns: 1fr;
+    height: auto;
+  }
+}
