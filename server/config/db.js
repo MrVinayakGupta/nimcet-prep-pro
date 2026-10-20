@@ -8,7 +8,13 @@ try {
   // If setServers is restricted or fails, continue
 }
 
+let isConnected = false;
+
 const connectDB = async () => {
+  if (isConnected || mongoose.connection.readyState >= 1) {
+    return;
+  }
+
   let uri = process.env.MONGO_URI || 'mongodb://127.0.0.1:27017/nimcet_prep';
 
   // Automatically ensure database name is specified for Atlas clusters
@@ -28,6 +34,7 @@ const connectDB = async () => {
       connectTimeoutMS: 25000
     });
     console.log(`✅ MongoDB Connected to database: ${conn.connection.host}`);
+    isConnected = true;
 
     // Auto-check if questions collection is empty; if so, populate automatically
     try {
