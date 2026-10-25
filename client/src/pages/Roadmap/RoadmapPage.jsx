@@ -56,6 +56,26 @@ const TEACHER_RATIONALE = [
   }
 ];
 
+// Real MongoDB ObjectIds for chapter-level drill navigation
+// Subjects: Mathematics=6ac3cf03802e37c9c45fc2f4, Analytical=6ac3cf03802e37c9c45fc2f6, Computer=6ac3cf03802e37c9c45fc2f8, English=6ac3cf03802e37c9c45fc2fa
+const MATH_SUBJECT = '6ac3cf03802e37c9c45fc2f4';
+const CH = {
+  SETS:         '6ac3cf04802e37c9c45fc2fc', // Set Theory & Relations
+  FUNCTIONS:    '6ac3cf04802e37c9c45fc2fe', // Functions
+  TRIG:         '6ac3cf04802e37c9c45fc300', // Trigonometry
+  ALGEBRA:      '6ac3cf04802e37c9c45fc302', // Algebra (Quadratic Equations, Complex Numbers)
+  MATRICES:     '6ac3cf04802e37c9c45fc304', // Matrices & Determinants
+  SEQUENCES:    '6ac3cf04802e37c9c45fc306', // Sequences & Series (AP, GP, HP)
+  DIFF_CALC:    '6ac3cf04802e37c9c45fc308', // Differential Calculus (Limits, Continuity, Derivatives)
+  INT_CALC:     '6ac3cf04802e37c9c45fc30a', // Integral Calculus
+  DIFF_EQ:      '6ac3cf04802e37c9c45fc30c', // Differential Equations
+  PROB_STATS:   '6ac3cf04802e37c9c45fc30e', // Probability & Statistics
+  LINEAR_PROG:  '6ac3cf04802e37c9c45fc310', // Linear Programming
+  COORD_GEOM:   '6ac3cf04802e37c9c45fc312', // Coordinate Geometry (2D & 3D)
+  VECTORS:      '6ac3cf04802e37c9c45fc314', // Vectors
+  NUMBER_SYS:   '6ac3cf04802e37c9c45fc316', // Number System & Divisibility
+};
+
 const DAYS_DATA = [
   // PHASE 1
   {
@@ -66,7 +86,7 @@ const DAYS_DATA = [
     trigger: 'Total subsets of set with n elements = 2ⁿ. Non-empty proper subsets = 2ⁿ - 2. Reflexive relation has min n ordered pairs.',
     primaryVideo: { title: 'Sets & Relations One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=Sets+and+relations+one+shot+neha+agrawal' },
     secondaryVideo: { title: 'Sets for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=sets+relations+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.SETS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 2,
@@ -76,7 +96,7 @@ const DAYS_DATA = [
     trigger: 'Contrapositive of p → q is always ∼q → ∼p. Substitute True/False values directly into proposition options rather than drawing large 8-row tables.',
     primaryVideo: { title: 'Mathematical Reasoning Super Tricks', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=mathematical+reasoning+tricks+neha+agrawal' },
     secondaryVideo: { title: 'Logic for MCA Entrance', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=mathematical+logic+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.SETS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 3,
@@ -86,7 +106,7 @@ const DAYS_DATA = [
     trigger: 'To find equation with reciprocal roots (1/α, 1/β), swap first and last coefficients: cx² + bx + a = 0. If roots in ratio p:q, then b²(pq) = ac(p+q)²',
     primaryVideo: { title: 'Quadratic Equations One Shot', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=quadratic+equations+mohit+tyagi' },
     secondaryVideo: { title: 'Quadratic Equations NIMCET Tricks', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=quadratic+equations+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.ALGEBRA}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 4,
@@ -96,7 +116,7 @@ const DAYS_DATA = [
     trigger: '1 + ω + ω² = 0 and ω³ = 1. Any three consecutive powers of ω sum to 0: ωᵏ + ωᵏ⁺¹ + ωᵏ⁺² = 0. Parallelogram identity: |z₁+z₂|² + |z₁-z₂|² = 2(|z₁|² + |z₂|²).',
     primaryVideo: { title: 'Complex Numbers & Cube Roots of Unity', channel: 'Unacademy JEE', url: 'https://www.youtube.com/results?search_query=complex+numbers+cube+roots+of+unity+unacademy+jee' },
     secondaryVideo: { title: 'Complex Numbers NIMCET Marathon', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=complex+numbers+nimcet+aspire+study' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.ALGEBRA}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 5,
@@ -106,7 +126,7 @@ const DAYS_DATA = [
     trigger: 'If T_p = 1/q and T_q = 1/p in an AP, then T_pq = 1 and S_pq = (pq+1)/2. For AP test (1,2,3), GP test (1,2,4), HP test (2,3,6).',
     primaryVideo: { title: 'Sequence and Series One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=sequence+and+series+neha+agrawal' },
     secondaryVideo: { title: 'AP GP HP Shortcuts for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=ap+gp+hp+tricks+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.SEQUENCES}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 6,
@@ -116,7 +136,7 @@ const DAYS_DATA = [
     trigger: 'Total ways to distribute n identical objects among r distinct persons (each getting at least 1) = C(n-1, r-1).',
     primaryVideo: { title: 'Permutations & Combinations One Shot', channel: 'PW JEE Wallah', url: 'https://www.youtube.com/results?search_query=permutations+and+combinations+one+shot+pw' },
     secondaryVideo: { title: 'P&C MCA Entrance Special', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=permutations+and+combinations+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.PROB_STATS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 7,
@@ -126,7 +146,7 @@ const DAYS_DATA = [
     trigger: 'To find sum of all coefficients in (ax + by)ⁿ, set x = y = 1. Maximum binomial coefficient occurs at middle term.',
     primaryVideo: { title: 'Binomial Theorem One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=binomial+theorem+one+shot+neha+agrawal' },
     secondaryVideo: { title: 'Binomial Theorem Tricks', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=binomial+theorem+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.ALGEBRA}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 8,
@@ -136,7 +156,7 @@ const DAYS_DATA = [
     trigger: 'Orthogonal matrix: A·Aᵀ = I implies det(A) = ±1. |adj(adj(A))| = |A|^{(n-1)²}. For 3×3 matrix, |adj(A)| = |A|².',
     primaryVideo: { title: 'Matrices & Determinants One Shot', channel: 'Unacademy JEE', url: 'https://www.youtube.com/results?search_query=matrices+determinants+one+shot+unacademy+jee' },
     secondaryVideo: { title: 'Matrices NIMCET Shortcuts', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=matrices+determinants+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.MATRICES}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 9,
@@ -146,7 +166,7 @@ const DAYS_DATA = [
     trigger: 'Homogeneous system has non-trivial solutions iff det(A) = 0. Inconsistent system has det(A)=0 with at least one Δ_i ≠ 0.',
     primaryVideo: { title: 'System of Linear Equations (Cramer\'s Rule)', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=system+of+linear+equations+cramers+rule+mohit+tyagi' },
     secondaryVideo: { title: 'Determinants NIMCET Marathon', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=determinants+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.MATRICES}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 10,
@@ -168,7 +188,7 @@ const DAYS_DATA = [
     trigger: 'sin(θ)sin(60-θ)sin(60+θ) = 1/4 sin(3θ). cos(θ)cos(60-θ)cos(60+θ) = 1/4 cos(3θ). tan(θ)tan(60-θ)tan(60+θ) = tan(3θ).',
     primaryVideo: { title: 'Trigonometry Formulas & Shortcuts', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=trigonometry+tricks+formulas+neha+agrawal' },
     secondaryVideo: { title: 'Trigonometry for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=trigonometry+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.TRIG}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 12,
@@ -178,7 +198,7 @@ const DAYS_DATA = [
     trigger: 'Substitute n = 0 or n = 1 from options directly into equation to eliminate wrong options in 15 seconds.',
     primaryVideo: { title: 'Trigonometric Equations One Shot', channel: 'PW JEE', url: 'https://www.youtube.com/results?search_query=trigonometric+equations+one+shot+pw' },
     secondaryVideo: { title: 'Trig Equations Shortcuts', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=trigonometric+equations+nimcet+aspire+study' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.TRIG}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 13,
@@ -188,7 +208,7 @@ const DAYS_DATA = [
     trigger: 'If options are numerical or independent of variables, substitute x = 1 or x = 0 directly.',
     primaryVideo: { title: 'Inverse Trigonometric Functions', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=inverse+trigonometric+functions+neha+agrawal' },
     secondaryVideo: { title: 'ITF Tricks for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=inverse+trigonometry+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.TRIG}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 14,
@@ -198,7 +218,7 @@ const DAYS_DATA = [
     trigger: 'Substitute an Equilateral Triangle (A=B=C=60°, a=b=c=1) or a 3-4-5 Right Triangle to verify identity instantly.',
     primaryVideo: { title: 'Properties of Triangles SOT One Shot', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=properties+of+triangle+sot+mohit+tyagi' },
     secondaryVideo: { title: 'SOT NIMCET PYQs', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=properties+of+triangle+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.TRIG}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 15,
@@ -208,7 +228,7 @@ const DAYS_DATA = [
     trigger: 'In 30°-60°-90° triangle, sides are in ratio 1 : √3 : 2. For angles 30° and 60°, distance between points is double the distance to base.',
     primaryVideo: { title: 'Heights and Distances Super Tricks', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=heights+and+distances+tricks+impetus+gurukul' },
     secondaryVideo: { title: 'Heights & Distances PYQ Marathon', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=heights+and+distances+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.TRIG}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 16,
@@ -218,7 +238,7 @@ const DAYS_DATA = [
     trigger: 'Review questions with formula flashcards. Reinforce inverse cancellation rules.',
     primaryVideo: { title: 'Trigonometry Formula Cheat Sheet', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=trigonometry+formula+cheat+sheet+neha+agrawal' },
     secondaryVideo: { title: 'Trig Marathon NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=trigonometry+marathon+nimcet' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.TRIG}&subjectId=${MATH_SUBJECT}`
   },
 
   // PHASE 3
@@ -230,7 +250,7 @@ const DAYS_DATA = [
     trigger: 'Perpendicular pair of lines in ax² + 2hxy + by² = 0 iff a + b = 0 (sum of coefficients of x² and y² is 0).',
     primaryVideo: { title: 'Straight Lines Complete One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=straight+lines+one+shot+neha+agrawal' },
     secondaryVideo: { title: 'Straight Lines for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=straight+lines+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.COORD_GEOM}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 18,
@@ -240,7 +260,7 @@ const DAYS_DATA = [
     trigger: 'Circle passing through origin has constant c = 0. Orthogonal circles condition: 2g₁g₂ + 2f₁f₂ = c₁ + c₂.',
     primaryVideo: { title: 'Circles One Shot', channel: 'PW JEE Wallah', url: 'https://www.youtube.com/results?search_query=circles+one+shot+pw+jee' },
     secondaryVideo: { title: 'Circles Shortcuts for NIMCET', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=circles+nimcet+aspire+study' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.COORD_GEOM}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 19,
@@ -250,7 +270,7 @@ const DAYS_DATA = [
     trigger: 'Tangents at extremities of focal chord always intersect at 90° on the directrix.',
     primaryVideo: { title: 'Parabola Conic Sections', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=parabola+conic+sections+mohit+tyagi' },
     secondaryVideo: { title: 'Parabola NIMCET PYQs', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=parabola+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.COORD_GEOM}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 20,
@@ -260,7 +280,7 @@ const DAYS_DATA = [
     trigger: 'Locus of intersection of perpendicular tangents is Director Circle: Ellipse x²+y²=a²+b², Hyperbola x²+y²=a²-b².',
     primaryVideo: { title: 'Ellipse and Hyperbola in One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=ellipse+and+hyperbola+neha+agrawal' },
     secondaryVideo: { title: 'Ellipse Hyperbola NIMCET', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=ellipse+hyperbola+nimcet+aspire+study' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.COORD_GEOM}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 21,
@@ -270,7 +290,7 @@ const DAYS_DATA = [
     trigger: 'Point of contact for tangent y = mx + c to y² = 4ax is (a/m², 2a/m).',
     primaryVideo: { title: 'Conics Tangents & Normals Mastery', channel: 'Unacademy JEE', url: 'https://www.youtube.com/results?search_query=conics+tangents+and+normals+unacademy+jee' },
     secondaryVideo: { title: 'Conics Shortcuts NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=conics+shortcuts+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.COORD_GEOM}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 22,
@@ -280,7 +300,7 @@ const DAYS_DATA = [
     trigger: 'If |a + b| = |a - b|, then a ⊥ b (θ = 90°). If |a + b| = 1 with unit vectors, then |a - b| = √3.',
     primaryVideo: { title: 'Vectors One Shot for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=vectors+nimcet+impetus+gurukul' },
     secondaryVideo: { title: 'Vector Algebra Shortcuts', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=vector+algebra+tricks+neha+agrawal' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.VECTORS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 23,
@@ -290,7 +310,7 @@ const DAYS_DATA = [
     trigger: '[(a+b) (b+c) (c+a)] = 2[a b c]. [(a×b) (b×c) (c×a)] = [a b c]². Any two parallel vectors make [a b c] = 0.',
     primaryVideo: { title: 'Scalar Triple Product and 3D Geometry', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=scalar+triple+product+mohit+tyagi' },
     secondaryVideo: { title: 'Vectors 3D NIMCET PYQ', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=vectors+3d+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.VECTORS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 24,
@@ -300,7 +320,7 @@ const DAYS_DATA = [
     trigger: 'Solve questions using geometric drawing & option testing.',
     primaryVideo: { title: 'Vectors & Conics PYQ Sprint', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=vectors+conics+nimcet+pyqs' },
     secondaryVideo: { title: 'Coordinate Geometry Tricks', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=coordinate+geometry+tricks+neha+agrawal' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.COORD_GEOM}&subjectId=${MATH_SUBJECT}`
   },
 
   // PHASE 4
@@ -312,7 +332,7 @@ const DAYS_DATA = [
     trigger: 'A strictly monotonic function (f\'(x) > 0 or f\'(x) < 0 everywhere) is always one-one.',
     primaryVideo: { title: 'Functions Domain and Range Full Concept', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=functions+domain+and+range+neha+agrawal' },
     secondaryVideo: { title: 'Functions NIMCET Revision', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=functions+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.FUNCTIONS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 26,
@@ -322,7 +342,7 @@ const DAYS_DATA = [
     trigger: 'lim_{x→∞} ((x+a)/(x+b))^{x+c} = e^{a-b} immediately.',
     primaryVideo: { title: 'Limits in One Shot with Super Tricks', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=limits+one+shot+tricks+neha+agrawal' },
     secondaryVideo: { title: 'Limits Shortcuts NIMCET', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=limits+nimcet+aspire+study' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.DIFF_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 27,
@@ -332,7 +352,7 @@ const DAYS_DATA = [
     trigger: 'Functions containing |x-a| are continuous at x = a but NEVER differentiable at x = a.',
     primaryVideo: { title: 'Continuity and Differentiability One Shot', channel: 'PW JEE', url: 'https://www.youtube.com/results?search_query=continuity+and+differentiability+pw+jee' },
     secondaryVideo: { title: 'Differentiability NIMCET', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=differentiability+mohit+tyagi' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.DIFF_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 28,
@@ -342,7 +362,7 @@ const DAYS_DATA = [
     trigger: 'Between any two real roots of f(x) = 0, there exists at least one real root of f\'(x) = 0.',
     primaryVideo: { title: 'Rolle\'s Theorem & LMVT Concepts', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=rolles+theorem+lmvt+mohit+tyagi' },
     secondaryVideo: { title: 'LMVT PYQs for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=rolles+theorem+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.DIFF_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 29,
@@ -352,7 +372,7 @@ const DAYS_DATA = [
     trigger: 'For f(x) = a·sin(x) + b·cos(x) + c, range is [c - √(a²+b²), c + √(a²+b²)].',
     primaryVideo: { title: 'Maxima and Minima Super Tricks', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=maxima+minima+tricks+impetus+gurukul' },
     secondaryVideo: { title: 'AOD in One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=application+of+derivatives+neha+agrawal' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.DIFF_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 30,
@@ -362,7 +382,7 @@ const DAYS_DATA = [
     trigger: 'Reverse Differentiation: Differentiate the 4 options to see which gives the integrand.',
     primaryVideo: { title: 'Indefinite Integration Shortcuts', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=indefinite+integration+tricks+neha+agrawal' },
     secondaryVideo: { title: 'Integration for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=integration+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.INT_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 31,
@@ -372,7 +392,7 @@ const DAYS_DATA = [
     trigger: '∫[0, π/2] (sinⁿ x) / (sinⁿ x + cosⁿ x) dx = π/4 for ANY power n (even n=1000).',
     primaryVideo: { title: 'King\'s Property & Shortcuts', channel: 'Unacademy JEE', url: 'https://www.youtube.com/results?search_query=definite+integration+kings+rule+unacademy+jee' },
     secondaryVideo: { title: 'Definite Integrals NIMCET', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=definite+integrals+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.INT_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 32,
@@ -382,7 +402,7 @@ const DAYS_DATA = [
     trigger: '∫[-a, a] f(x) dx = 0 if f(x) is odd (e.g. x³·cos(x)).',
     primaryVideo: { title: 'Definite Integration Properties One Shot', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=definite+integration+properties+mohit+tyagi' },
     secondaryVideo: { title: 'Definite Integrals Marathon', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=definite+integration+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.INT_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 33,
@@ -392,7 +412,7 @@ const DAYS_DATA = [
     trigger: 'Area between y² = 4ax and x² = 4by is 16ab / 3. Area between y² = 4ax and line y = mx is 8a² / (3m³).',
     primaryVideo: { title: 'Area Under Curves Super Tricks', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=area+under+curves+tricks+impetus+gurukul' },
     secondaryVideo: { title: 'Area Under Curves in One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=area+under+curves+neha+agrawal' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.INT_CALC}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 34,
@@ -402,7 +422,7 @@ const DAYS_DATA = [
     trigger: 'If dy/dx + (k/x)y = Q(x), then Integrating Factor IF = xᵏ directly.',
     primaryVideo: { title: 'Differential Equations in One Shot', channel: 'PW JEE', url: 'https://www.youtube.com/results?search_query=differential+equations+one+shot+pw' },
     secondaryVideo: { title: 'Differential Equations NIMCET', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=differential+equations+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.DIFF_EQ}&subjectId=${MATH_SUBJECT}`
   },
 
   // PHASE 5
@@ -414,7 +434,7 @@ const DAYS_DATA = [
     trigger: 'P(at least one success) = 1 - P(no success) = 1 - (1-p)ⁿ.',
     primaryVideo: { title: 'Probability Complete One Shot', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=probability+one+shot+neha+agrawal' },
     secondaryVideo: { title: 'Probability for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=probability+nimcet+impetus+gurukul' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.PROB_STATS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 36,
@@ -424,7 +444,7 @@ const DAYS_DATA = [
     trigger: 'Draw a probability tree diagram with two prior branches; product of desired branch divided by sum of both branches.',
     primaryVideo: { title: 'Bayes Theorem in One Shot', channel: 'Unacademy JEE', url: 'https://www.youtube.com/results?search_query=bayes+theorem+unacademy+jee' },
     secondaryVideo: { title: 'Bayes Theorem NIMCET PYQs', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=bayes+theorem+nimcet+aspire+study' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.PROB_STATS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 37,
@@ -434,7 +454,7 @@ const DAYS_DATA = [
     trigger: 'Remember: Mode = 3Median - 2Mean. If mean and median are given, find mode in 10 seconds.',
     primaryVideo: { title: 'Statistics Mean Median Mode Full Concept', channel: 'Mohit Tyagi', url: 'https://www.youtube.com/results?search_query=statistics+mean+median+mode+mohit+tyagi' },
     secondaryVideo: { title: 'Statistics Shortcuts for NIMCET', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=statistics+nimcet+impetus+gurukul' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.PROB_STATS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 38,
@@ -444,7 +464,7 @@ const DAYS_DATA = [
     trigger: 'Shift Invariance: Adding/subtracting any constant c to all data points leaves Variance & SD completely unchanged!',
     primaryVideo: { title: 'Statistics Variance and SD Tricks', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=statistics+variance+standard+deviation+tricks+neha+agrawal' },
     secondaryVideo: { title: 'Statistics PYQ Marathon', channel: 'Aspire Study', url: 'https://www.youtube.com/results?search_query=statistics+nimcet+aspire+study' },
-    practiceLink: '/year-papers'
+    practiceLink: `/practice?chapterId=${CH.PROB_STATS}&subjectId=${MATH_SUBJECT}`
   },
   {
     day: 39,
@@ -454,7 +474,7 @@ const DAYS_DATA = [
     trigger: 'Review binomial distribution formula P(X = r) = C(n,r) pʳ q^{n-r}. Mean = np, Variance = npq.',
     primaryVideo: { title: 'Probability & Stats Final Sprint', channel: 'Impetus Gurukul', url: 'https://www.youtube.com/results?search_query=probability+statistics+nimcet+impetus+gurukul' },
     secondaryVideo: { title: 'Maths Quick Revision', channel: 'Neha Agrawal', url: 'https://www.youtube.com/results?search_query=maths+formula+revision+neha+agrawal' },
-    practiceLink: '/practice?subjectId=sub_math'
+    practiceLink: `/practice?chapterId=${CH.PROB_STATS}&subjectId=${MATH_SUBJECT}`
   },
 
   // PHASE 6

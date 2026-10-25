@@ -1,6 +1,15 @@
 const mongoose = require('mongoose');
 const Question = require('../models/Question');
+const Chapter = require('../models/Chapter');
+const Subject = require('../models/Subject');
 const User = require('../models/User');
+
+const ALIAS_SUBJECT_MAP = {
+  'sub_math': 'Mathematics',
+  'sub_analytical': 'Analytical Ability & Logical Reasoning',
+  'sub_computer': 'Computer Awareness',
+  'sub_english': 'General English'
+};
 const { generateExplanation } = require('../utils/geminiAI');
 const { 
   store, 
@@ -102,7 +111,17 @@ const getQuestionsByChapter = async (req, res, next) => {
       return res.json(filtered.map(attachMetadata));
     }
 
-    const filter = { chapterId };
+    let effectiveChapterId = chapterId;
+    if (!mongoose.Types.ObjectId.isValid(effectiveChapterId)) {
+      const foundCh = await Chapter.findOne({ name: new RegExp(effectiveChapterId, 'i') });
+      if (foundCh) {
+        effectiveChapterId = foundCh._id;
+      } else {
+        return res.json([]);
+      }
+    }
+
+    const filter = { chapterId: effectiveChapterId };
     if (difficulty) filter.difficulty = difficulty.toLowerCase();
     if (year) filter.year = Number(year);
     if (type === 'cat') {
@@ -148,7 +167,18 @@ const getQuestionsBySubject = async (req, res, next) => {
       return res.json(filtered.map(attachMetadata));
     }
 
-    const filter = { subjectId };
+    let effectiveSubjectId = subjectId;
+    if (!mongoose.Types.ObjectId.isValid(effectiveSubjectId)) {
+      const aliasName = ALIAS_SUBJECT_MAP[effectiveSubjectId];
+      const foundSub = await Subject.findOne(aliasName ? { name: aliasName } : { name: new RegExp(effectiveSubjectId, 'i') });
+      if (foundSub) {
+        effectiveSubjectId = foundSub._id;
+      } else {
+        return res.json([]);
+      }
+    }
+
+    const filter = { subjectId: effectiveSubjectId };
     if (difficulty) filter.difficulty = difficulty.toLowerCase();
     if (year) filter.year = Number(year);
     if (type === 'cat') {

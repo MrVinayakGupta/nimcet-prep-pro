@@ -17,20 +17,38 @@ import {
 } from '../../services/api';
 import styles from './PracticePage.module.css';
 
+const REAL_SUBJECT_IDS = {
+  MATH: '6ac3cf03802e37c9c45fc2f4',
+  ANALYTICAL: '6ac3cf03802e37c9c45fc2f6',
+  COMPUTER: '6ac3cf03802e37c9c45fc2f8',
+  ENGLISH: '6ac3cf03802e37c9c45fc2fa'
+};
+
 const DEFAULT_SUBJECTS = [
-  { _id: 'sub_math', name: 'Mathematics', icon: '📐', shortName: 'Math (600M)' },
-  { _id: 'sub_analytical', name: 'Analytical Ability & Logical Reasoning', icon: '🧩', shortName: 'Analytical (240M)' },
-  { _id: 'sub_computer', name: 'Computer Awareness', icon: '💻', shortName: 'Computer (80M)' },
-  { _id: 'sub_english', name: 'General English', icon: '📝', shortName: 'English (80M)' }
+  { _id: '6ac3cf03802e37c9c45fc2f4', name: 'Mathematics', icon: '📐', shortName: 'Math (600M)' },
+  { _id: '6ac3cf03802e37c9c45fc2f6', name: 'Analytical Ability & Logical Reasoning', icon: '🧩', shortName: 'Analytical (240M)' },
+  { _id: '6ac3cf03802e37c9c45fc2f8', name: 'Computer Awareness', icon: '💻', shortName: 'Computer (80M)' },
+  { _id: '6ac3cf03802e37c9c45fc2fa', name: 'General English', icon: '📝', shortName: 'English (80M)' }
 ];
+
+const ALIAS_MAP = {
+  'sub_math': '6ac3cf03802e37c9c45fc2f4',
+  'sub_analytical': '6ac3cf03802e37c9c45fc2f6',
+  'sub_computer': '6ac3cf03802e37c9c45fc2f8',
+  'sub_english': '6ac3cf03802e37c9c45fc2fa'
+};
 
 const PracticePage = () => {
   const [searchParams, setSearchParams] = useSearchParams();
   const navigate = useNavigate();
 
-  const topicId = searchParams.get('topicId');
-  const chapterId = searchParams.get('chapterId') || 'ch_sub_math_1';
-  const subjectId = searchParams.get('subjectId') || 'sub_math';
+  const rawTopicId = searchParams.get('topicId');
+  const rawChapterId = searchParams.get('chapterId');
+  const rawSubjectId = searchParams.get('subjectId');
+
+  const topicId = rawTopicId;
+  const subjectId = ALIAS_MAP[rawSubjectId] || rawSubjectId || '6ac3cf03802e37c9c45fc2f4';
+  const chapterId = (!rawChapterId || rawChapterId === 'ch_sub_math_1') ? '6ac3cf04802e37c9c45fc2fc' : rawChapterId;
 
   const [subjectsList, setSubjectsList] = useState(DEFAULT_SUBJECTS);
   const [chapterList, setChapterList] = useState([]);
@@ -141,7 +159,7 @@ const PracticePage = () => {
     const curTopic = topicList.find(t => t._id === topicId);
 
     setHeaderInfo({
-      subject: curSubject ? curSubject.name : (subjectId === 'sub_math' ? 'Mathematics' : 'Subject'),
+      subject: curSubject ? curSubject.name : (subjectId === 'sub_math' || subjectId === REAL_SUBJECT_IDS.MATH ? 'Mathematics' : 'Subject'),
       chapter: curChapter ? curChapter.name : 'All Chapters',
       topic: curTopic ? curTopic.name : 'All Topics in this Chapter'
     });
@@ -193,9 +211,12 @@ const PracticePage = () => {
     return () => { isCurrent = false; };
   }, [topicId, chapterId, subjectId, activeTab, selectedYear, questionType]);
 
+  const isAnalyticalSubject = subjectId === REAL_SUBJECT_IDS.ANALYTICAL || subjectId === 'sub_analytical';
+
   // Navigation handlers
   const handleSubjectSelect = (newSubId) => {
-    if (newSubId !== 'sub_analytical' && questionType === 'cat') {
+    const isNewAnalytical = newSubId === REAL_SUBJECT_IDS.ANALYTICAL || newSubId === 'sub_analytical';
+    if (!isNewAnalytical && questionType === 'cat') {
       setQuestionType('All');
     }
     navigate(`/practice?subjectId=${newSubId}`);
@@ -339,7 +360,7 @@ const PracticePage = () => {
             >
               💡 Practice
             </button>
-            {subjectId === 'sub_analytical' && (
+            {isAnalyticalSubject && (
               <button 
                 type="button"
                 className={`${styles.typeBtn} ${questionType === 'cat' ? `${styles.activeTypeBtn} ${styles.catActiveBtn}` : styles.catBtn}`}
