@@ -2,11 +2,13 @@
   "name": "nimcet-prep-pro",
   "version": "1.0.0",
   "private": true,
-  "description": "NIMCET Prep Pro Fullstack Platform",
+  "description": "NIMCET Prep Pro Fullstack Platform - 45-Day AIR 1 Mathematics Roadmap with 2129+ Authentic Questions",
   "scripts": {
     "build": "cd client && npm install && npm run build",
     "client": "cd client && npm run dev",
-    "server": "cd server && npm run dev"
+    "server": "cd server && npm run dev",
+    "dev": "cd server && npm run dev",
+    "vercel-build": "cd client && npm install && npm run build"
   },
   "dependencies": {
     "bcryptjs": "^2.4.3",

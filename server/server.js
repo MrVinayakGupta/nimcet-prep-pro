@@ -1,7 +1,12 @@
+const path = require('path');
 const express = require('express');
 const cors = require('cors');
 const helmet = require('helmet');
 const dotenv = require('dotenv');
+
+// Load .env from server/ directory (works locally & on Vercel)
+dotenv.config({ path: path.join(__dirname, '.env') });
+
 const connectDB = require('./config/db');
 const { errorHandler, notFound } = require('./middleware/errorHandler');
 
@@ -15,7 +20,6 @@ const mockTestRoutes = require('./routes/mockTestRoutes');
 const aiRoutes = require('./routes/aiRoutes');
 const dashboardRoutes = require('./routes/dashboardRoutes');
 
-dotenv.config();
 connectDB();
 
 const app = express();
