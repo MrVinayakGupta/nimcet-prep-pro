@@ -70,6 +70,7 @@ const PracticePage = () => {
   const [activeTab, setActiveTab] = useState('All');
   const [selectedYear, setSelectedYear] = useState('All');
   const [questionType, setQuestionType] = useState('All');
+  const [visibleCount, setVisibleCount] = useState(25);
 
   const subjectId = rawSubjectId || (subjectsList[0]?._id || 'sub_math');
   const chapterId = rawChapterId || (chapterList[0]?._id || '');
@@ -228,6 +229,7 @@ const PracticePage = () => {
 
         if (isCurrent) {
           setQuestions(res?.data || []);
+          setVisibleCount(25);
         }
       } catch (e) {
         if (isCurrent) setQuestions([]);
@@ -423,15 +425,38 @@ const PracticePage = () => {
             <p style={{ marginTop: '0.35rem', fontSize: '0.82rem' }}>Try switching to "All" difficulty or selecting another chapter.</p>
           </div>
         ) : (
-          questions.map((q, idx) => (
-            <QuestionCard 
-              key={q._id || idx} 
-              question={q} 
-              index={idx}
-              initialAnswer={userAnswersMap[q._id]}
-              onAnswerSubmitted={(qId, data) => setUserAnswersMap(prev => ({ ...prev, [qId]: data }))}
-            />
-          ))
+          <>
+            {questions.slice(0, visibleCount).map((q, idx) => (
+              <QuestionCard 
+                key={q._id || idx} 
+                question={q} 
+                index={idx}
+                initialAnswer={userAnswersMap[q._id]}
+                onAnswerSubmitted={(qId, data) => setUserAnswersMap(prev => ({ ...prev, [qId]: data }))}
+              />
+            ))}
+            {questions.length > visibleCount && (
+              <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', gap: '0.75rem', padding: '1rem 0' }}>
+                <span style={{ fontSize: '0.8rem', color: 'var(--text-secondary)' }}>
+                  Showing {visibleCount} of {questions.length}
+                </span>
+                <button
+                  type="button"
+                  onClick={() => setVisibleCount(prev => prev + 25)}
+                  style={{
+                    padding: '0.45rem 1rem',
+                    borderRadius: '6px',
+                    background: 'var(--color-primary)',
+                    color: '#fff',
+                    fontSize: '0.82rem',
+                    fontWeight: 500
+                  }}
+                >
+                  Load 25 More
+                </button>
+              </div>
+            )}
+          </>
         )}
       </div>
     </div>

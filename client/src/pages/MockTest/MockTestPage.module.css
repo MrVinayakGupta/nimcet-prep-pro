@@ -255,17 +255,19 @@
 
 .sidePanel {
   background-color: var(--card-bg);
-  border-radius: 1rem;
+  border-radius: 0.75rem;
   border: 1px solid var(--border-color);
-  box-shadow: var(--shadow-sm);
-  padding: 1.5rem;
+  padding: 1rem;
   display: flex;
   flex-direction: column;
+  max-height: calc(100vh - 120px);
+  overflow: hidden;
 }
 
 .sidePanel h3 {
-  margin-bottom: 1.5rem;
-  font-size: 1.1rem;
+  margin-bottom: 0.85rem;
+  font-size: 0.92rem;
+  font-weight: 500;
   color: var(--text-primary);
 }
 

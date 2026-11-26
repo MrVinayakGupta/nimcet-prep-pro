@@ -65,14 +65,24 @@ const MockTestPage = () => {
   const [showReviewList, setShowReviewList] = useState(false);
 
   useEffect(() => {
-    let timer;
-    if (phase === 'test' && timeRemaining > 0) {
-      timer = setInterval(() => setTimeRemaining(prev => prev - 1), 1000);
-    } else if (phase === 'test' && timeRemaining === 0) {
+    if (phase !== 'test') return;
+    const timer = setInterval(() => {
+      setTimeRemaining(prev => {
+        if (prev <= 1) {
+          clearInterval(timer);
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [phase]);
+
+  useEffect(() => {
+    if (phase === 'test' && timeRemaining === 0 && questions.length > 0) {
       submitTest();
     }
-    return () => clearInterval(timer);
-  }, [phase, timeRemaining]);
+  }, [phase, timeRemaining, questions.length]);
 
   const startTest = async () => {
     setLoading(true);
@@ -174,11 +184,11 @@ const MockTestPage = () => {
             </div>
           </div>
 
-          <div style={{ background: 'var(--card-bg-hover)', padding: '1rem', borderRadius: '8px', fontSize: '0.9rem', marginBottom: '1.5rem' }}>
-            <strong>Exam Pattern:</strong>
-            <ul style={{ margin: '0.5rem 0 0 1.2rem', color: 'var(--text-secondary)' }}>
-              <li><strong>+4 Marks</strong> for each correct answer</li>
-              <li><strong>-1 Mark</strong> for each incorrect answer</li>
+          <div style={{ background: 'var(--card-bg-hover)', padding: '0.85rem 1rem', borderRadius: '8px', fontSize: '0.84rem', marginBottom: '1.25rem', textAlign: 'left' }}>
+            <strong style={{ fontWeight: 500 }}>Exam Pattern</strong>
+            <ul style={{ margin: '0.4rem 0 0 1.2rem', color: 'var(--text-secondary)' }}>
+              <li>+4 marks for each correct answer</li>
+              <li>-1 mark for each incorrect answer</li>
               <li>Timer: {config.count} minutes ({config.count} Qs)</li>
             </ul>
           </div>
@@ -245,11 +255,13 @@ const MockTestPage = () => {
 
           <div className={styles.navigation}>
             <button 
+              type="button"
               disabled={currentQIndex === 0}
               onClick={() => setCurrentQIndex(prev => prev - 1)}
               className={styles.navBtn}
             ><FiChevronLeft /> Previous</button>
             <button 
+              type="button"
               disabled={currentQIndex === questions.length - 1}
               onClick={() => setCurrentQIndex(prev => prev + 1)}
               className={styles.navBtn}
