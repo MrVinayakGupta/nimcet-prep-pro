@@ -126,70 +126,39 @@ const Dashboard = () => {
     <div className={styles.dashboard}>
       <header className={styles.header}>
         <div>
-          <h1 className={styles.greeting}>Welcome back, {user?.name || 'Student'}! 👋</h1>
+          <h1 className={styles.greeting}>Welcome back, {user?.name || 'Student'}</h1>
           <p className={styles.subtitle}>
             {hasAttemptedQuestions 
-              ? `You've solved ${displayStats.totalQuestions} questions with ${displayStats.accuracy}% accuracy. Keep aiming for AIR 1!`
-              : "Ready to kickstart your NIMCET preparation with 10-year official papers?"
+              ? `${displayStats.totalQuestions} solved · ${displayStats.accuracy}% accuracy`
+              : "Track your preparation across Mathematics, Reasoning, Computer & English."
             }
           </p>
         </div>
         <div className={styles.actions}>
           <Link to="/practice" className={styles.btnPrimary}>
-            Continue Practice
+            Practice
           </Link>
           <Link to="/mock-test" className={styles.btnSecondary}>
-            Start Mock Test
+            Mock Test
           </Link>
         </div>
       </header>
 
-      {/* Onboarding Banner for fresh user */}
-      {!hasAttemptedQuestions && (
-        <div style={{
-          background: 'linear-gradient(135deg, rgba(99, 102, 241, 0.12), rgba(16, 185, 129, 0.08))',
-          border: '1px solid rgba(99, 102, 241, 0.3)',
-          borderRadius: '12px',
-          padding: '1.25rem 1.5rem',
-          marginBottom: '1.5rem',
-          display: 'flex',
-          alignItems: 'center',
-          justifyContent: 'space-between',
-          flexWrap: 'wrap',
-          gap: '1rem'
-        }}>
-          <div>
-            <span style={{ background: 'var(--color-primary)', color: '#fff', fontSize: '0.72rem', fontWeight: 800, padding: '2px 8px', borderRadius: '4px' }}>
-              FRESH ACCOUNT
-            </span>
-            <h3 style={{ margin: '0.35rem 0 0.2rem', fontSize: '1.1rem', color: 'var(--text-primary)' }}>
-              Real-time Analytics Ready
-            </h3>
-            <p style={{ margin: 0, color: 'var(--text-secondary)', fontSize: '0.88rem' }}>
-              Solve questions in the Practice Hub or CAT Masterclass to see your accuracy, subject mastery, and strengths update dynamically.
-            </p>
-          </div>
-          <Link to="/practice" className={styles.btnPrimary} style={{ padding: '0.5rem 1rem', fontSize: '0.85rem' }}>
-            Solve First Question <FiArrowRight />
-          </Link>
-        </div>
-      )}
-
       {/* Stats Cards */}
       <div className={styles.statsGrid}>
         <div className={styles.statCard}>
-          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(99, 102, 241, 0.1)', color: 'var(--color-primary)' }}>
-            <FiCheckCircle size={24} />
+          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(99, 102, 241, 0.08)', color: 'var(--color-primary)' }}>
+            <FiCheckCircle size={18} />
           </div>
           <div className={styles.statInfo}>
-            <h3>Questions Attempted</h3>
+            <h3>Solved</h3>
             <p className={styles.statValue}>{displayStats.totalQuestions}</p>
           </div>
         </div>
         
         <div className={styles.statCard}>
-          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(16, 185, 129, 0.1)', color: 'var(--color-success)' }}>
-            <FiTarget size={24} />
+          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(16, 185, 129, 0.08)', color: 'var(--color-success)' }}>
+            <FiTarget size={18} />
           </div>
           <div className={styles.statInfo}>
             <h3>Accuracy</h3>
@@ -198,22 +167,22 @@ const Dashboard = () => {
         </div>
 
         <div className={styles.statCard}>
-          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(245, 158, 11, 0.1)', color: 'var(--color-warning)' }}>
-            <FiClock size={24} />
+          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(245, 158, 11, 0.08)', color: 'var(--color-warning)' }}>
+            <FiClock size={18} />
           </div>
           <div className={styles.statInfo}>
             <h3>Time Spent</h3>
-            <p className={styles.statValue}>{displayStats.timeSpent}h</p>
+            <p className={styles.statValue}>{displayStats.timeSpent}m</p>
           </div>
         </div>
 
         <div className={styles.statCard}>
-          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(239, 68, 68, 0.1)', color: 'var(--color-danger)' }}>
-            <FiActivity size={24} />
+          <div className={styles.statIconWrapper} style={{ backgroundColor: 'rgba(239, 68, 68, 0.08)', color: 'var(--color-danger)' }}>
+            <FiActivity size={18} />
           </div>
           <div className={styles.statInfo}>
-            <h3>Current Streak</h3>
-            <p className={styles.statValue}>{displayStats.currentStreak} Days</p>
+            <h3>Streak</h3>
+            <p className={styles.statValue}>{displayStats.currentStreak}d</p>
           </div>
         </div>
       </div>
@@ -307,9 +276,9 @@ const Dashboard = () => {
 
       {/* Dynamic Recent Activity Feed */}
       {recentActivity.length > 0 && (
-        <div style={{ marginTop: '2rem' }}>
-          <h2 className={styles.sectionTitle}>Your Recent Attempts</h2>
-          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem', marginTop: '1rem' }}>
+        <div>
+          <h2 className={styles.sectionTitle}>Recent Attempts</h2>
+          <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5rem' }}>
             {recentActivity.slice(0, 5).map((act, idx) => (
               <div 
                 key={act.id || idx}
@@ -318,30 +287,30 @@ const Dashboard = () => {
                   justifyContent: 'space-between',
                   alignItems: 'center',
                   background: 'var(--card-bg)',
-                  padding: '0.85rem 1.25rem',
-                  borderRadius: '10px',
+                  padding: '0.7rem 1rem',
+                  borderRadius: '8px',
                   border: '1px solid var(--border-color)'
                 }}
               >
                 <div>
-                  <strong style={{ color: 'var(--text-primary)', fontSize: '0.92rem' }}>{act.title || act.topicName || act.topic || 'Practice Problem'}</strong>
-                  <div style={{ color: 'var(--text-secondary)', fontSize: '0.8rem', marginTop: '2px' }}>
-                    {act.subjectName || act.topic || 'Practice'} • {act.selectedAnswer ? `Selected: ${act.selectedAnswer}` : 'Attempted'}
+                  <span style={{ color: 'var(--text-primary)', fontSize: '0.85rem', fontWeight: 500 }}>{act.title || act.topicName || act.topic || 'Practice Problem'}</span>
+                  <div style={{ color: 'var(--text-secondary)', fontSize: '0.76rem', marginTop: '2px' }}>
+                    {act.subjectName || act.topic || 'Practice'} · {act.selectedAnswer ? `Selected: ${act.selectedAnswer}` : 'Attempted'}
                   </div>
                 </div>
                 <div style={{ textAlign: 'right' }}>
                   <span style={{
                     display: 'inline-block',
-                    padding: '3px 8px',
+                    padding: '2px 7px',
                     borderRadius: '4px',
-                    fontSize: '0.78rem',
-                    fontWeight: 700,
-                    background: act.isCorrect || act.status === 'Correct' ? 'rgba(16, 185, 129, 0.15)' : 'rgba(239, 68, 68, 0.15)',
+                    fontSize: '0.74rem',
+                    fontWeight: 500,
+                    background: act.isCorrect || act.status === 'Correct' ? 'rgba(16, 185, 129, 0.12)' : 'rgba(239, 68, 68, 0.12)',
                     color: act.isCorrect || act.status === 'Correct' ? 'var(--color-success)' : 'var(--color-danger)'
                   }}>
                     {act.score !== undefined ? `${act.score > 0 ? '+' : ''}${act.score}` : (act.status || (act.isCorrect ? 'Correct' : 'Incorrect'))}
                   </span>
-                  <div style={{ fontSize: '0.75rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
+                  <div style={{ fontSize: '0.72rem', color: 'var(--text-secondary)', marginTop: '2px' }}>
                     {act.time || act.timeAgo || 'Recent'}
                   </div>
                 </div>
@@ -350,46 +319,6 @@ const Dashboard = () => {
           </div>
         </div>
       )}
-
-      {/* CAT 10-Yr Reasoning Masterclass Accelerator */}
-      <div style={{
-        background: 'linear-gradient(135deg, rgba(245, 158, 11, 0.12), rgba(217, 119, 6, 0.08))',
-        border: '1px solid rgba(245, 158, 11, 0.35)',
-        borderRadius: '12px',
-        padding: '1.25rem 1.5rem',
-        marginTop: '2rem',
-        display: 'flex',
-        justifyContent: 'space-between',
-        alignItems: 'center',
-        flexWrap: 'wrap',
-        gap: '1rem'
-      }}>
-        <div>
-          <span style={{ background: '#f59e0b', color: '#1a1a1a', fontWeight: '800', fontSize: '0.72rem', padding: '3px 8px', borderRadius: '4px' }}>AIR 1 SPECIAL ACCELERATOR</span>
-          <h3 style={{ margin: '0.4rem 0 0.2rem', fontSize: '1.15rem', color: 'var(--text-primary)' }}>🦁 CAT 10-Yr Reasoning Masterclass (2015–2024)</h3>
-          <p style={{ margin: 0, color: 'var(--text-secondary)', fontSize: '0.9rem' }}>
-            Train on high-difficulty CAT DILR logic to solve NIMCET reasoning problems in 30 seconds with 100% accuracy.
-          </p>
-        </div>
-        <Link 
-          to="/practice?chapterId=ch_sub_analytical_11&subjectId=sub_analytical" 
-          style={{
-            background: 'linear-gradient(135deg, #f59e0b, #d97706)',
-            color: '#fff',
-            padding: '0.65rem 1.35rem',
-            borderRadius: '8px',
-            fontWeight: '600',
-            textDecoration: 'none',
-            display: 'inline-flex',
-            alignItems: 'center',
-            gap: '8px',
-            fontSize: '0.9rem',
-            boxShadow: '0 2px 8px rgba(245, 158, 11, 0.35)'
-          }}
-        >
-          Practice CAT Sets <FiArrowRight />
-        </Link>
-      </div>
     </div>
   );
 };

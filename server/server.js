@@ -7,6 +7,7 @@ const dotenv = require('dotenv');
 // Load .env from server/ directory (works locally & on Vercel)
 dotenv.config({ path: path.join(__dirname, '.env') });
 
+const mongoose = require('mongoose');
 const connectDB = require('./config/db');
 const { errorHandler, notFound } = require('./middleware/errorHandler');
 
@@ -33,6 +34,21 @@ app.use(cors({
   credentials: true
 }));
 app.use(express.json());
+
+// Ensure serverless requests await active DB connection (or fast fallback) before routing
+app.use(async (req, res, next) => {
+  await connectDB();
+  next();
+});
+
+app.get('/api/health', (req, res) => {
+  res.json({
+    ok: true,
+    dbConnected: mongoose.connection.readyState === 1,
+    readyState: mongoose.connection.readyState,
+    hasMongoUri: Boolean(process.env.MONGO_URI)
+  });
+});
 
 // API Routes
 app.use('/api/auth', authRoutes);

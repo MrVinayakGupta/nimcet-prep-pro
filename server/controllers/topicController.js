@@ -1,15 +1,23 @@
 const mongoose = require('mongoose');
 const Topic = require('../models/Topic');
+const Chapter = require('../models/Chapter');
 const { store, isMongooseConnected } = require('../config/inMemoryStore');
+const { resolveMemoryChapterId, resolveMongoChapterId } = require('../utils/idResolver');
 
 const getTopicsByChapter = async (req, res, next) => {
   try {
     if (!isMongooseConnected(mongoose)) {
-      const topics = store.topics.filter(t => t.chapterId === req.params.chapterId);
+      const chapterId = resolveMemoryChapterId(req.params.chapterId);
+      const topics = store.topics.filter(t => t.chapterId === chapterId);
       return res.json(topics);
     }
 
-    const topics = await Topic.find({ chapterId: req.params.chapterId }).sort({ order: 1 });
+    const chapterId = await resolveMongoChapterId(req.params.chapterId, Chapter);
+    if (!chapterId) {
+      return res.json([]);
+    }
+
+    const topics = await Topic.find({ chapterId }).sort({ order: 1 });
     res.json(topics);
   } catch (error) {
     next(error);

@@ -1,13 +1,11 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useSearchParams, useNavigate } from 'react-router-dom';
 import QuestionCard from '../../components/Question/QuestionCard';
-import { FiFilter, FiLoader, FiLayers, FiBookOpen, FiClock, FiCheckCircle } from 'react-icons/fi';
+import { FiLoader, FiBookOpen } from 'react-icons/fi';
 import { 
   getQuestionsByTopic, 
   getQuestionsByChapter, 
   getQuestionsBySubject,
-  getTopicById, 
-  getChapterById, 
   getAvailableYears,
   getSubjects,
   getChaptersBySubject,
@@ -17,69 +15,94 @@ import {
 } from '../../services/api';
 import styles from './PracticePage.module.css';
 
-const REAL_SUBJECT_IDS = {
-  MATH: '6ac3cf03802e37c9c45fc2f4',
-  ANALYTICAL: '6ac3cf03802e37c9c45fc2f6',
-  COMPUTER: '6ac3cf03802e37c9c45fc2f8',
-  ENGLISH: '6ac3cf03802e37c9c45fc2fa'
+const SUBJECT_ALIAS_TO_NAME = {
+  sub_math: 'Mathematics',
+  sub_analytical: 'Analytical Ability & Logical Reasoning',
+  sub_computer: 'Computer Awareness',
+  sub_english: 'General English',
+  '6ac3cf03802e37c9c45fc2f4': 'Mathematics',
+  '6ac3cf03802e37c9c45fc2f6': 'Analytical Ability & Logical Reasoning',
+  '6ac3cf03802e37c9c45fc2f8': 'Computer Awareness',
+  '6ac3cf03802e37c9c45fc2fa': 'General English'
+};
+
+const CHAPTER_ID_TO_NAME = {
+  '6ac3cf04802e37c9c45fc2fc': 'Set Theory & Relations',
+  '6ac3cf04802e37c9c45fc2fe': 'Functions',
+  '6ac3cf04802e37c9c45fc300': 'Trigonometry',
+  '6ac3cf04802e37c9c45fc302': 'Algebra (Quadratic Equations, Complex Numbers)',
+  '6ac3cf04802e37c9c45fc304': 'Matrices & Determinants',
+  '6ac3cf04802e37c9c45fc306': 'Sequences & Series (AP, GP, HP)',
+  '6ac3cf04802e37c9c45fc308': 'Differential Calculus (Limits, Continuity, Derivatives)',
+  '6ac3cf04802e37c9c45fc30a': 'Integral Calculus',
+  '6ac3cf04802e37c9c45fc30c': 'Differential Equations',
+  '6ac3cf04802e37c9c45fc30e': 'Probability & Statistics',
+  '6ac3cf04802e37c9c45fc310': 'Linear Programming',
+  '6ac3cf04802e37c9c45fc312': 'Coordinate Geometry (2D & 3D)',
+  '6ac3cf04802e37c9c45fc314': 'Vectors',
+  '6ac3cf04802e37c9c45fc316': 'Number System & Divisibility',
+  ch_sub_math_1: 'Set Theory & Relations'
 };
 
 const DEFAULT_SUBJECTS = [
-  { _id: '6ac3cf03802e37c9c45fc2f4', name: 'Mathematics', icon: '📐', shortName: 'Math (600M)' },
-  { _id: '6ac3cf03802e37c9c45fc2f6', name: 'Analytical Ability & Logical Reasoning', icon: '🧩', shortName: 'Analytical (240M)' },
-  { _id: '6ac3cf03802e37c9c45fc2f8', name: 'Computer Awareness', icon: '💻', shortName: 'Computer (80M)' },
-  { _id: '6ac3cf03802e37c9c45fc2fa', name: 'General English', icon: '📝', shortName: 'English (80M)' }
+  { _id: 'sub_math', name: 'Mathematics', shortName: 'Mathematics' },
+  { _id: 'sub_analytical', name: 'Analytical Ability & Logical Reasoning', shortName: 'Analytical' },
+  { _id: 'sub_computer', name: 'Computer Awareness', shortName: 'Computer' },
+  { _id: 'sub_english', name: 'General English', shortName: 'English' }
 ];
 
-const ALIAS_MAP = {
-  'sub_math': '6ac3cf03802e37c9c45fc2f4',
-  'sub_analytical': '6ac3cf03802e37c9c45fc2f6',
-  'sub_computer': '6ac3cf03802e37c9c45fc2f8',
-  'sub_english': '6ac3cf03802e37c9c45fc2fa'
-};
-
 const PracticePage = () => {
-  const [searchParams, setSearchParams] = useSearchParams();
+  const [searchParams] = useSearchParams();
   const navigate = useNavigate();
 
-  const rawTopicId = searchParams.get('topicId');
+  const topicId = searchParams.get('topicId');
   const rawChapterId = searchParams.get('chapterId');
   const rawSubjectId = searchParams.get('subjectId');
-
-  const topicId = rawTopicId;
-  const subjectId = ALIAS_MAP[rawSubjectId] || rawSubjectId || '6ac3cf03802e37c9c45fc2f4';
-  const chapterId = (!rawChapterId || rawChapterId === 'ch_sub_math_1') ? '6ac3cf04802e37c9c45fc2fc' : rawChapterId;
 
   const [subjectsList, setSubjectsList] = useState(DEFAULT_SUBJECTS);
   const [chapterList, setChapterList] = useState([]);
   const [topicList, setTopicList] = useState([]);
   const [questions, setQuestions] = useState([]);
   const [loading, setLoading] = useState(false);
-  const [availableYears, setAvailableYears] = useState([2026, 2025, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007]);
+  const [availableYears, setAvailableYears] = useState([2026, 2025, 2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015]);
   const [userAnswersMap, setUserAnswersMap] = useState({});
 
-  // Filters
-  const [activeTab, setActiveTab] = useState('All'); // All, Easy, Moderate, Hard
+  const [activeTab, setActiveTab] = useState('All');
   const [selectedYear, setSelectedYear] = useState('All');
-  const [questionType, setQuestionType] = useState('All'); // All, pyq, practice
+  const [questionType, setQuestionType] = useState('All');
+
+  const subjectId = rawSubjectId || (subjectsList[0]?._id || 'sub_math');
+  const chapterId = rawChapterId || (chapterList[0]?._id || '');
 
   const [headerInfo, setHeaderInfo] = useState({
     subject: 'Mathematics',
     chapter: 'Set Theory & Relations',
-    topic: 'All Chapter Topics'
+    topic: 'All Topics'
   });
 
-  // Fetch subjects list once
+  // Fetch subjects list once and normalize subjectId against live backend IDs
   useEffect(() => {
+    let isCurrent = true;
     const fetchSubs = async () => {
       try {
         const res = await getSubjects();
-        if (res.data && res.data.length > 0) {
-          setSubjectsList(res.data);
+        const subs = res.data || [];
+        if (!isCurrent || subs.length === 0) return;
+        setSubjectsList(subs);
+
+        if (!rawSubjectId || !subs.some(s => s._id === rawSubjectId)) {
+          const targetName = SUBJECT_ALIAS_TO_NAME[rawSubjectId] || 'Mathematics';
+          const matchedSub = subs.find(s => s.name.toLowerCase() === targetName.toLowerCase()) || subs[0];
+          const params = new URLSearchParams();
+          params.set('subjectId', matchedSub._id);
+          if (rawChapterId) params.set('chapterId', rawChapterId);
+          if (topicId) params.set('topicId', topicId);
+          navigate(`/practice?${params.toString()}`, { replace: true });
         }
       } catch (err) {}
     };
     fetchSubs();
+    return () => { isCurrent = false; };
   }, []);
 
   // Fetch available years once
@@ -114,13 +137,18 @@ const PracticePage = () => {
     const fetchChapters = async () => {
       try {
         const res = await getChaptersBySubject(subjectId);
-        if (isCurrent) {
-          const chs = res.data || [];
-          setChapterList(chs);
-          // If current chapterId does not belong to this subject, pick the first chapter
-          if (chs.length > 0 && !chs.some(c => c._id === chapterId)) {
-            navigate(`/practice?chapterId=${chs[0]._id}&subjectId=${subjectId}`, { replace: true });
-          }
+        if (!isCurrent) return;
+        const chs = res.data || [];
+        setChapterList(chs);
+
+        if (chs.length > 0 && (!chapterId || !chs.some(c => c._id === chapterId))) {
+          const targetName = CHAPTER_ID_TO_NAME[chapterId];
+          const matchedCh = targetName
+            ? (chs.find(c => c.name.toLowerCase() === targetName.toLowerCase()) ||
+               chs.find(c => c.name.toLowerCase().includes(targetName.toLowerCase())) ||
+               chs[0])
+            : chs[0];
+          navigate(`/practice?chapterId=${matchedCh._id}&subjectId=${subjectId}`, { replace: true });
         }
       } catch (e) {}
     };
@@ -147,9 +175,9 @@ const PracticePage = () => {
   useEffect(() => {
     if (questionType === 'cat') {
       setHeaderInfo({
-        subject: 'Analytical Ability (CAT Tier)',
-        chapter: 'CAT Advanced DILR Masterclass (2015-2024)',
-        topic: selectedYear !== 'All' ? `CAT ${selectedYear} Logical Reasoning Problems` : 'All 10-Year CAT DILR Sets (2015-2024)'
+        subject: 'Analytical Ability',
+        chapter: 'CAT DILR Masterclass',
+        topic: selectedYear !== 'All' ? `CAT ${selectedYear}` : 'All Sets (2015–2024)'
       });
       return;
     }
@@ -159,9 +187,9 @@ const PracticePage = () => {
     const curTopic = topicList.find(t => t._id === topicId);
 
     setHeaderInfo({
-      subject: curSubject ? curSubject.name : (subjectId === 'sub_math' || subjectId === REAL_SUBJECT_IDS.MATH ? 'Mathematics' : 'Subject'),
-      chapter: curChapter ? curChapter.name : 'All Chapters',
-      topic: curTopic ? curTopic.name : 'All Topics in this Chapter'
+      subject: curSubject ? curSubject.name : (SUBJECT_ALIAS_TO_NAME[subjectId] || 'Mathematics'),
+      chapter: curChapter ? curChapter.name : (CHAPTER_ID_TO_NAME[chapterId] || 'All Chapters'),
+      topic: curTopic ? curTopic.name : 'All Topics'
     });
   }, [subjectId, chapterId, topicId, subjectsList, chapterList, topicList, questionType, selectedYear]);
 
@@ -169,6 +197,7 @@ const PracticePage = () => {
   useEffect(() => {
     let isCurrent = true;
     const fetchQuestions = async () => {
+      if (!chapterId && !subjectId && questionType !== 'cat') return;
       setLoading(true);
       try {
         const params = {};
@@ -211,11 +240,18 @@ const PracticePage = () => {
     return () => { isCurrent = false; };
   }, [topicId, chapterId, subjectId, activeTab, selectedYear, questionType]);
 
-  const isAnalyticalSubject = subjectId === REAL_SUBJECT_IDS.ANALYTICAL || subjectId === 'sub_analytical';
+  const currentSubjectObj = subjectsList.find(s => s._id === subjectId);
+  const isAnalyticalSubject =
+    subjectId === 'sub_analytical' ||
+    subjectId === '6ac3cf03802e37c9c45fc2f6' ||
+    (currentSubjectObj?.name || '').toLowerCase().includes('analytical');
 
-  // Navigation handlers
   const handleSubjectSelect = (newSubId) => {
-    const isNewAnalytical = newSubId === REAL_SUBJECT_IDS.ANALYTICAL || newSubId === 'sub_analytical';
+    const newSubObj = subjectsList.find(s => s._id === newSubId);
+    const isNewAnalytical =
+      newSubId === 'sub_analytical' ||
+      newSubId === '6ac3cf03802e37c9c45fc2f6' ||
+      (newSubObj?.name || '').toLowerCase().includes('analytical');
     if (!isNewAnalytical && questionType === 'cat') {
       setQuestionType('All');
     }
@@ -234,18 +270,13 @@ const PracticePage = () => {
     }
   };
 
-  // Difficulty counts
   const easyCount = questions.filter(q => (q.difficulty || '').toLowerCase() === 'easy').length;
   const modCount = questions.filter(q => (q.difficulty || '').toLowerCase() === 'moderate').length;
   const hardCount = questions.filter(q => (q.difficulty || '').toLowerCase() === 'hard').length;
-  const pyqCount = questions.filter(q => q.isFromPreviousYear && q.examSource !== 'CAT').length;
-  const practiceCount = questions.filter(q => !q.isFromPreviousYear && q.examSource !== 'CAT').length;
-  const catCount = questions.filter(q => q.examSource === 'CAT' || (q.tags && q.tags.includes('cat-reasoning'))).length;
 
   return (
     <div className={styles.practicePage}>
       <div className={styles.header}>
-        {/* Dynamic Breadcrumb */}
         <div className={styles.breadcrumb}>
           <span>{headerInfo.subject}</span>
           <span>/</span>
@@ -254,7 +285,6 @@ const PracticePage = () => {
           <span className={styles.currentTopic}>{headerInfo.topic}</span>
         </div>
 
-        {/* 1. Subject Pills (Switch between Math, Analytical, Computer, English instantly) */}
         <div className={styles.subjectBar}>
           {subjectsList.map(sub => {
             const isSelected = sub._id === subjectId;
@@ -265,17 +295,15 @@ const PracticePage = () => {
                 className={`${styles.subjectPill} ${isSelected ? styles.activeSubjectPill : ''}`}
                 onClick={() => handleSubjectSelect(sub._id)}
               >
-                <span>{sub.icon}</span>
                 <span>{sub.shortName || sub.name}</span>
               </button>
             );
           })}
         </div>
 
-        {/* 2. Fast Chapter & Topic Selectors Bar */}
         <div className={styles.selectorsBar}>
           <div className={styles.selectorItem}>
-            <span className={styles.selectorLabel}>Chapter:</span>
+            <span className={styles.selectorLabel}>Chapter</span>
             <select
               value={chapterId}
               onChange={(e) => handleChapterChange(e.target.value)}
@@ -288,13 +316,13 @@ const PracticePage = () => {
           </div>
 
           <div className={styles.selectorItem}>
-            <span className={styles.selectorLabel}>Topic:</span>
+            <span className={styles.selectorLabel}>Topic</span>
             <select
               value={topicId || 'all'}
               onChange={(e) => handleTopicChange(e.target.value)}
               className={styles.selectInput}
             >
-              <option value="all">⚡ All Topics in this Chapter</option>
+              <option value="all">All Topics</option>
               {topicList.map(t => (
                 <option key={t._id} value={t._id}>{t.name}</option>
               ))}
@@ -302,9 +330,7 @@ const PracticePage = () => {
           </div>
         </div>
         
-        {/* 3. Filter Bar (Difficulty, PYQ/Practice, and 10 Years selector) */}
         <div className={styles.filterBar}>
-          {/* Difficulty tabs */}
           <div className={styles.tabs}>
             <button 
               className={`${styles.tabBtn} ${activeTab === 'All' ? styles.activeTab : ''}`}
@@ -317,32 +343,31 @@ const PracticePage = () => {
               onClick={() => setActiveTab('Easy')}
               style={{ color: activeTab === 'Easy' ? '#10b981' : undefined }}
             >
-              🟢 Easy ({easyCount})
+              Easy ({easyCount})
             </button>
             <button 
               className={`${styles.tabBtn} ${activeTab === 'Moderate' ? styles.activeTab : ''}`}
               onClick={() => setActiveTab('Moderate')}
               style={{ color: activeTab === 'Moderate' ? '#f59e0b' : undefined }}
             >
-              🟡 Moderate ({modCount})
+              Moderate ({modCount})
             </button>
             <button 
               className={`${styles.tabBtn} ${activeTab === 'Hard' ? styles.activeTab : ''}`}
               onClick={() => setActiveTab('Hard')}
               style={{ color: activeTab === 'Hard' ? '#ef4444' : undefined }}
             >
-              🔴 Hard ({hardCount})
+              Hard ({hardCount})
             </button>
           </div>
 
-          {/* Question Type: PYQs vs Practice vs CAT 10-Yr Reasoning */}
           <div className={styles.typeFilter}>
             <button 
               type="button"
               className={`${styles.typeBtn} ${questionType === 'All' ? styles.activeTypeBtn : ''}`}
               onClick={() => setQuestionType('All')}
             >
-              All Types
+              All
             </button>
             <button 
               type="button"
@@ -350,7 +375,7 @@ const PracticePage = () => {
               onClick={() => setQuestionType('pyq')}
               title="Official Previous Year Questions"
             >
-              🔥 10-Yr NIMCET PYQs
+              PYQs
             </button>
             <button 
               type="button"
@@ -358,59 +383,44 @@ const PracticePage = () => {
               onClick={() => setQuestionType('practice')}
               title="Foundational Concept Practice Drills"
             >
-              💡 Practice
+              Practice
             </button>
             {isAnalyticalSubject && (
               <button 
                 type="button"
                 className={`${styles.typeBtn} ${questionType === 'cat' ? `${styles.activeTypeBtn} ${styles.catActiveBtn}` : styles.catBtn}`}
                 onClick={() => setQuestionType('cat')}
-                title="CAT 10-Year Reasoning Questions (2015-2026) - Master high-difficulty analytical sets!"
+                title="CAT 10-Year Reasoning Questions"
               >
-                🦁 CAT 10-Yr Reasoning
+                CAT Sets
               </button>
             )}
           </div>
 
-          {/* 10-12 Years Filter */}
           <select 
             value={selectedYear} 
             onChange={(e) => setSelectedYear(e.target.value)}
             className={styles.yearSelect}
           >
-            <option value="All">{questionType === 'cat' ? 'All CAT Years (2015-2026)' : 'All Years (2015-2026)'}</option>
+            <option value="All">{questionType === 'cat' ? 'All CAT Years' : 'All Years'}</option>
             {availableYears.map(y => (
-              <option key={y} value={y}>{questionType === 'cat' ? `CAT ${y} DILR` : `NIMCET ${y}`}</option>
+              <option key={y} value={y}>{questionType === 'cat' ? `CAT ${y}` : `${y}`}</option>
             ))}
           </select>
         </div>
       </div>
 
-      {/* CAT Accelerator Banner */}
-      {questionType === 'cat' && (
-        <div className={styles.catBanner}>
-          <div className={styles.catBannerBadge}>AIR 1 ACCELERATOR</div>
-          <h3 className={styles.catBannerTitle}>🦁 CAT 10-Year Reasoning Masterclass (2015–2024)</h3>
-          <p className={styles.catBannerDesc}>
-            CAT DILR sets (Matrix puzzles, Round-Robin tournaments, Knights & Knaves binary logic, 4-set Venn minima) 
-            are intentionally harder than standard NIMCET questions. By training on these high-caliber logical problems, you develop 
-            instinctive structural thinking, making actual NIMCET questions feel effortless and solvable in record time!
-          </p>
-        </div>
-      )}
-
-      {/* 4. Questions List */}
       <div className={styles.questionsList}>
         {loading ? (
-          <div style={{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', padding:'60px', color:'var(--text-secondary)', gap:'1rem' }}>
-            <FiLoader className="spin" size={36} color="var(--color-primary)" />
-            <p>Loading questions and line-by-line solutions...</p>
+          <div style={{ display:'flex', flexDirection:'column', alignItems:'center', justifyContent:'center', padding:'48px', color:'var(--text-secondary)', gap:'0.75rem', fontSize:'0.875rem' }}>
+            <FiLoader className="spin" size={24} color="var(--color-primary)" />
+            <p>Loading questions...</p>
           </div>
         ) : questions.length === 0 ? (
-          <div style={{ textAlign:'center', padding:'60px', color:'var(--text-secondary)', background:'var(--card-bg)', borderRadius:'12px', border:'1px solid var(--border-color)' }}>
-            <FiBookOpen size={42} style={{ opacity: 0.5, marginBottom: '0.75rem' }} />
-            <h3>No questions found for the selected filter combination</h3>
-            <p style={{ marginTop: '0.5rem' }}>Try switching to "All" difficulty, "All Types", or selecting another topic.</p>
+          <div style={{ textAlign:'center', padding:'48px', color:'var(--text-secondary)', background:'var(--card-bg)', borderRadius:'10px', border:'1px solid var(--border-color)', fontSize:'0.875rem' }}>
+            <FiBookOpen size={28} style={{ opacity: 0.4, marginBottom: '0.6rem' }} />
+            <p style={{ fontWeight: 500, color: 'var(--text-primary)' }}>No questions found for this filter</p>
+            <p style={{ marginTop: '0.35rem', fontSize: '0.82rem' }}>Try switching to "All" difficulty or selecting another chapter.</p>
           </div>
         ) : (
           questions.map((q, idx) => (

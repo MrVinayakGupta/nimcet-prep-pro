@@ -5,7 +5,9 @@ const SidebarContext = createContext();
 export const useSidebar = () => useContext(SidebarContext);
 
 export const SidebarProvider = ({ children }) => {
-  const [isOpen, setIsOpen] = useState(true);
+  const [isOpen, setIsOpen] = useState(() =>
+    typeof window !== 'undefined' ? window.innerWidth >= 1024 : true
+  );
   const [expandedSubjects, setExpandedSubjects] = useState({});
   const [expandedChapters, setExpandedChapters] = useState({});
   const [selectedTopic, setSelectedTopic] = useState(null); // keeping for backward compatibility if needed

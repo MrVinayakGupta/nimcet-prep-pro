@@ -15,7 +15,7 @@ const Header = () => {
     <header className={styles.header}>
       <div className={styles.left}>
         <button className={styles.menuBtn} onClick={toggleSidebar} aria-label="Toggle Syllabus Sidebar">
-          <FiMenu size={24} />
+          <FiMenu size={19} />
         </button>
         <Link to="/" className={styles.logo}>
           <span className={styles.gradientText}>NIMCET Prep Pro</span>
@@ -24,9 +24,7 @@ const Header = () => {
 
       <nav className={styles.nav}>
         <Link to="/dashboard" className={styles.navLink}>Dashboard</Link>
-        <Link to="/roadmap" className={styles.navLink} style={{ color: 'var(--color-primary)', fontWeight: 700 }}>
-          🔥 45-Day Math Roadmap
-        </Link>
+        <Link to="/roadmap" className={styles.navLink}>Roadmap</Link>
         <Link to="/practice" className={styles.navLink}>Practice</Link>
         <Link to="/mock-test" className={styles.navLink}>Mock Tests</Link>
         <Link to="/year-papers" className={styles.navLink}>Year Papers</Link>
@@ -35,12 +33,12 @@ const Header = () => {
 
       <div className={styles.right}>
         <button onClick={toggleTheme} className={styles.themeToggle} aria-label="Toggle Theme">
-          {theme === 'dark' ? <FiSun size={20} /> : <FiMoon size={20} />}
+          {theme === 'dark' ? <FiSun size={17} /> : <FiMoon size={17} />}
         </button>
 
         {user ? (
           <div className={styles.userMenu}>
-            <Link to="/profile" className={styles.profileBadge} title="Click to open your Profile">
+            <Link to="/profile" className={styles.profileBadge} title="Open Profile">
               {user.avatar && user.avatar.startsWith('http') ? (
                 <img src={user.avatar} alt={user.name} className={styles.avatarImg} />
               ) : (
@@ -48,13 +46,10 @@ const Header = () => {
                   {(user.name || 'U').charAt(0).toUpperCase()}
                 </div>
               )}
-              <div className={styles.userTextInfo}>
-                <span className={styles.userName}>{user.name || 'Student'}</span>
-                <span className={styles.userTag}>{user.aimRank || 'AIR 1'} Aspirant</span>
-              </div>
+              <span className={styles.userName}>{user.name || 'Student'}</span>
             </Link>
             <button onClick={logout} className={styles.logoutBtn} title="Logout">
-              <FiLogOut size={19} />
+              <FiLogOut size={17} />
             </button>
           </div>
         ) : (

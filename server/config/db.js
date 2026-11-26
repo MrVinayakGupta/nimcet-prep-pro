@@ -9,9 +9,19 @@ try {
 }
 
 let isConnected = false;
+let connectionPromise = null;
 
 const connectDB = async () => {
-  if (isConnected || mongoose.connection.readyState >= 1) {
+  if (isConnected && mongoose.connection.readyState === 1) {
+    return;
+  }
+  if (connectionPromise) {
+    return connectionPromise;
+  }
+
+  // On Vercel serverless, skip connecting if MONGO_URI is not configured
+  if (process.env.VERCEL && !process.env.MONGO_URI) {
+    console.log('ℹ️  MONGO_URI not set in Vercel environment. Using in-memory question bank.');
     return;
   }
 
@@ -28,34 +38,40 @@ const connectDB = async () => {
     }
   }
 
-  try {
-    const conn = await mongoose.connect(uri, {
-      serverSelectionTimeoutMS: 25000,
-      connectTimeoutMS: 25000
-    });
-    console.log(`✅ MongoDB Connected to database: ${conn.connection.host}`);
-    isConnected = true;
+  const timeoutMs = process.env.VERCEL ? 6000 : 25000;
 
-    // Auto-check if questions collection is empty; if so, populate automatically
+  connectionPromise = (async () => {
     try {
-      const Question = require('../models/Question');
-      const count = await Question.countDocuments();
-      if (count === 0) {
-        console.log('🔄 MongoDB Atlas database is empty. Auto-seeding 10-Yr NIMCET & CAT Reasoning dataset...');
-        const { autoSeed } = require('./autoSeed');
-        await autoSeed();
-        const newCount = await Question.countDocuments();
-        console.log(`✅ Auto-seed completed successfully with ${newCount} questions!`);
-      } else {
-        console.log(`📚 Database contains ${count} questions ready for practice!`);
+      const conn = await mongoose.connect(uri, {
+        serverSelectionTimeoutMS: timeoutMs,
+        connectTimeoutMS: timeoutMs
+      });
+      console.log(`✅ MongoDB Connected to database: ${conn.connection.host}`);
+      isConnected = true;
+
+      // Auto-check if questions collection is empty; if so, populate automatically
+      try {
+        const Question = require('../models/Question');
+        const count = await Question.countDocuments();
+        if (count === 0) {
+          console.log('🔄 MongoDB Atlas database is empty. Auto-seeding 10-Yr NIMCET & CAT Reasoning dataset...');
+          const { autoSeed } = require('./autoSeed');
+          await autoSeed();
+          const newCount = await Question.countDocuments();
+          console.log(`✅ Auto-seed completed successfully with ${newCount} questions!`);
+        } else {
+          console.log(`📚 Database contains ${count} questions ready for practice!`);
+        }
+      } catch (seedErr) {
+        console.warn('⚠️ Seeding check skipped:', seedErr.message);
       }
-    } catch (seedErr) {
-      console.warn('⚠️ Seeding check skipped:', seedErr.message);
+    } catch (error) {
+      console.log(`ℹ️  MongoDB unavailable (${error.message}). Falling back to in-memory question bank.`);
+      connectionPromise = null;
     }
-  } catch (error) {
-    console.log(`ℹ️  Local MongoDB not active (${error.message}).`);
-    console.log(`🚀 NIMCET Prep Pro running in fast standalone mode with full 120+ Question Bank loaded in memory!`);
-  }
+  })();
+
+  return connectionPromise;
 };
 
 module.exports = connectDB;

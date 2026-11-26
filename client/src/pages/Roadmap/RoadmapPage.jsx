@@ -552,6 +552,7 @@ const PHASES = [
 
 const RoadmapPage = () => {
   const [selectedPhase, setSelectedPhase] = useState('All (45 Days)');
+  const [showGuides, setShowGuides] = useState(false);
   const [completedDays, setCompletedDays] = useState(() => {
     try {
       const saved = localStorage.getItem('nimcet_math_roadmap_progress');
@@ -578,106 +579,62 @@ const RoadmapPage = () => {
 
   return (
     <div className={styles.roadmapContainer}>
-      {/* Hero Header */}
+      {/* Compact Header */}
       <div className={styles.hero}>
-        <div className={styles.heroTag}>
-          <FiAward /> Official Revised Syllabus 2026
+        <div className={styles.heroTopRow}>
+          <div>
+            <h1 className={styles.heroTitle}>45-Day Mathematics Roadmap</h1>
+            <p className={styles.heroSubtitle}>
+              Structured daily plan covering all 50 Mathematics questions (600 marks) with quick triggers, video lectures, and chapter drills.
+            </p>
+          </div>
+          <button
+            type="button"
+            className={styles.guideToggleBtn}
+            onClick={() => setShowGuides(prev => !prev)}
+          >
+            <FiZap size={14} /> {showGuides ? 'Hide Cheat Codes' : 'Cheat Codes & Guides'}
+          </button>
         </div>
-        <h1 className={styles.heroTitle}>
-          45-Day Mathematics AIR 1 Master Roadmap
-        </h1>
-        <p className={styles.heroSubtitle}>
-          A laser-focused day-by-day blueprint designed to transform your speed and pattern recognition. 
-          Mathematics carries <strong>50 Questions = 600 Marks</strong> (60% of total score). Follow each day's curated video, apply the instant recognition triggers, and drill practice questions without wasting time.
-        </p>
 
-        <div className={styles.statsRow}>
-          <div className={styles.statCard}>
-            <div className={styles.statIcon}><FiTarget /></div>
-            <div className={styles.statInfo}>
-              <h4>50 Qs / 600 M</h4>
-              <p>Total Math Weightage</p>
-            </div>
-          </div>
-          <div className={styles.statCard}>
-            <div className={styles.statIcon}><FiZap /></div>
-            <div className={styles.statInfo}>
-              <h4>15-20 Sec</h4>
-              <p>Instant Recognition Target</p>
-            </div>
-          </div>
-          <div className={styles.statCard}>
-            <div className={styles.statIcon}><FiBookOpen /></div>
-            <div className={styles.statInfo}>
-              <h4>45 Days</h4>
-              <p>Structured Day-Wise Plan</p>
-            </div>
-          </div>
-          <div className={styles.statCard}>
-            <div className={styles.statIcon}><FiClock /></div>
-            <div className={styles.statInfo}>
-              <h4>3 Hours/Day</h4>
-              <p>Recommended Daily Routine</p>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      {/* Progress Tracker Card */}
-      <div className={styles.progressCard}>
         <div className={styles.progressHeader}>
-          <h3>Your Roadmap Completion</h3>
-          <span className={styles.progressPercent}>{completedCount} of {DAYS_DATA.length} Days Completed ({progressPercent}%)</span>
+          <span>Progress: {completedCount} / {DAYS_DATA.length} days</span>
+          <span className={styles.progressPercent}>{progressPercent}%</span>
         </div>
         <div className={styles.progressBarContainer}>
           <div className={styles.progressBarFill} style={{ width: `${progressPercent}%` }} />
         </div>
       </div>
 
-      {/* Instant Recognition Cheat Codes Section */}
-      <div className={styles.cheatCodesSection}>
-        <div className={styles.sectionHeader}>
-          <h2 className={styles.sectionTitle}>
-            <FiZap style={{ color: '#f59e0b' }} /> The 4 "Instant Recognition" Cheat Codes
-          </h2>
-        </div>
-        <div className={styles.cheatCodesGrid}>
-          {CHEAT_CODES.map((cheat, idx) => (
-            <div key={idx} className={styles.cheatCard}>
-              <span className={styles.cheatNumber}>{cheat.num}</span>
-              <h4 className={styles.cheatTitle}>{cheat.title}</h4>
-              <p className={styles.cheatDesc}>{cheat.desc}</p>
-              <div className={styles.cheatFormula}>{cheat.formula}</div>
-            </div>
-          ))}
-        </div>
-      </div>
+      {/* Collapsible Cheat Codes & Resource Rationale */}
+      {showGuides && (
+        <div className={styles.cheatCodesSection}>
+          <div className={styles.cheatCodesGrid}>
+            {CHEAT_CODES.map((cheat, idx) => (
+              <div key={idx} className={styles.cheatCard}>
+                <span className={styles.cheatNumber}>{cheat.num}</span>
+                <h4 className={styles.cheatTitle}>{cheat.title}</h4>
+                <p className={styles.cheatDesc}>{cheat.desc}</p>
+                <div className={styles.cheatFormula}>{cheat.formula}</div>
+              </div>
+            ))}
+          </div>
 
-      {/* Why We Chose These Resources Section */}
-      <div className={styles.rationaleCard}>
-        <h2 className={styles.sectionTitle}>
-          <FiHelpCircle style={{ color: 'var(--color-primary)' }} /> Why We Chose These Specific Video Resources
-        </h2>
-        <p style={{ color: 'var(--text-secondary)', fontSize: '0.92rem', marginTop: '0.5rem' }}>
-          Finding the right learning material can waste hours of precious preparation time. We handpicked these four educational channels based on proven AIR toppers' methodologies:
-        </p>
-        <div className={styles.rationaleGrid}>
-          {TEACHER_RATIONALE.map((teacher, idx) => (
-            <div key={idx} className={styles.rationaleItem}>
-              <div className={styles.teacherName}>{teacher.name}</div>
-              <div className={styles.teacherRole}>{teacher.role}</div>
-              <p className={styles.teacherWhy}>{teacher.why}</p>
+          <div className={styles.rationaleCard}>
+            <div className={styles.rationaleGrid}>
+              {TEACHER_RATIONALE.map((teacher, idx) => (
+                <div key={idx} className={styles.rationaleItem}>
+                  <div className={styles.teacherName}>{teacher.name}</div>
+                  <div className={styles.teacherRole}>{teacher.role}</div>
+                  <p className={styles.teacherWhy}>{teacher.why}</p>
+                </div>
+              ))}
             </div>
-          ))}
+          </div>
         </div>
-      </div>
+      )}
 
       {/* Phase Filters Bar */}
-      <div className={styles.sectionHeader}>
-        <h2 className={styles.sectionTitle}>
-          <FiBookOpen style={{ color: 'var(--color-primary)' }} /> Day-Wise Study Program
-        </h2>
-      </div>
       <div className={styles.tabsBar}>
         {PHASES.map((phase) => (
           <button
@@ -712,18 +669,18 @@ const RoadmapPage = () => {
                     onChange={() => toggleDayCompletion(item.day)}
                     style={{ display: 'none' }}
                   />
-                  {isDone ? <FiCheckCircle size={18} /> : <FiCircle size={18} />}
-                  <span>{isDone ? 'Day Completed!' : 'Mark as Done'}</span>
+                  {isDone ? <FiCheckCircle size={15} /> : <FiCircle size={15} />}
+                  <span>{isDone ? 'Done' : 'Mark done'}</span>
                 </label>
               </div>
 
               <div className={styles.topicsList}>
-                <strong>🎯 Core Concepts to Master Today:</strong> {item.topics}
+                {item.topics}
               </div>
 
               <div className={styles.triggerBox}>
                 <div className={styles.triggerHeader}>
-                  <FiZap /> <span>Instant Answer Recognition Trigger (15-Sec Shortcut):</span>
+                  <FiZap size={13} /> <span>Quick Shortcut</span>
                 </div>
                 <div className={styles.triggerContent}>
                   {item.trigger}
@@ -732,16 +689,13 @@ const RoadmapPage = () => {
 
               <div className={styles.actionRow}>
                 <div className={styles.videoLinks}>
-                  <span style={{ fontSize: '0.82rem', fontWeight: 600, color: 'var(--text-secondary)' }}>
-                    📺 Curated Video Lectures:
-                  </span>
                   <a 
                     href={item.primaryVideo.url} 
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className={styles.videoBtn}
                   >
-                    <FiPlay /> {item.primaryVideo.title} ({item.primaryVideo.channel})
+                    <FiPlay size={13} /> {item.primaryVideo.channel} Lecture
                   </a>
                   {item.secondaryVideo && (
                     <a 
@@ -750,13 +704,13 @@ const RoadmapPage = () => {
                       rel="noopener noreferrer" 
                       className={styles.videoBtnSecondary}
                     >
-                      <FiExternalLink /> {item.secondaryVideo.channel} NIMCET PYQ
+                      <FiExternalLink size={13} /> {item.secondaryVideo.channel} PYQ
                     </a>
                   )}
                 </div>
 
                 <Link to={item.practiceLink} className={styles.practiceBtn}>
-                  Drill Practice Questions <FiChevronRight />
+                  Practice Questions <FiChevronRight size={14} />
                 </Link>
               </div>
             </div>

@@ -3,14 +3,13 @@ const Question = require('../models/Question');
 const Chapter = require('../models/Chapter');
 const Subject = require('../models/Subject');
 const User = require('../models/User');
-
-const ALIAS_SUBJECT_MAP = {
-  'sub_math': 'Mathematics',
-  'sub_analytical': 'Analytical Ability & Logical Reasoning',
-  'sub_computer': 'Computer Awareness',
-  'sub_english': 'General English'
-};
 const { generateExplanation } = require('../utils/geminiAI');
+const {
+  resolveMemorySubjectId,
+  resolveMemoryChapterId,
+  resolveMongoSubjectId,
+  resolveMongoChapterId
+} = require('../utils/idResolver');
 const { 
   store, 
   isMongooseConnected, 
@@ -19,6 +18,38 @@ const {
   findUserById, 
   getUserStats 
 } = require('../config/inMemoryStore');
+
+const applyMemoryFilters = (list, { difficulty, year, type }) => {
+  let filtered = list;
+  if (difficulty) {
+    filtered = filtered.filter(q => (q.difficulty || '').toLowerCase() === difficulty.toLowerCase());
+  }
+  if (year) {
+    filtered = filtered.filter(q => String(q.year) === String(year));
+  }
+  if (type === 'cat') {
+    filtered = filtered.filter(q => q.examSource === 'CAT' || (q.tags && q.tags.includes('cat-reasoning')));
+  } else if (type === 'pyq') {
+    filtered = filtered.filter(q => q.isFromPreviousYear && q.examSource !== 'CAT');
+  } else if (type === 'practice') {
+    filtered = filtered.filter(q => !q.isFromPreviousYear);
+  }
+  return filtered;
+};
+
+const applyMongoFilters = (filter, { difficulty, year, type }) => {
+  if (difficulty) filter.difficulty = difficulty.toLowerCase();
+  if (year) filter.year = Number(year);
+  if (type === 'cat') {
+    filter.$or = [{ examSource: 'CAT' }, { tags: 'cat-reasoning' }];
+  } else if (type === 'pyq') {
+    filter.isFromPreviousYear = true;
+    filter.examSource = { $ne: 'CAT' };
+  } else if (type === 'practice') {
+    filter.isFromPreviousYear = false;
+  }
+  return filter;
+};
 
 const attachMetadata = (q) => {
   const sub = store.subjects.find(s => s._id === q.subjectId);
@@ -38,44 +69,24 @@ const getQuestionsByTopic = async (req, res, next) => {
     const topicId = req.params.topicId;
 
     if (!isMongooseConnected(mongoose)) {
-      let filtered;
-      if (topicId === 'all' && chapterId) {
-        filtered = store.questions.filter(q => q.chapterId === chapterId);
-      } else {
-        filtered = store.questions.filter(q => q.topicId === topicId);
-      }
-      if (difficulty) {
-        filtered = filtered.filter(q => (q.difficulty || '').toLowerCase() === difficulty.toLowerCase());
-      }
-      if (year) {
-        filtered = filtered.filter(q => String(q.year) === String(year));
-      }
-      if (type === 'cat') {
-        filtered = filtered.filter(q => q.examSource === 'CAT' || (q.tags && q.tags.includes('cat-reasoning')));
-      } else if (type === 'pyq') {
-        filtered = filtered.filter(q => q.isFromPreviousYear && q.examSource !== 'CAT');
-      } else if (type === 'practice') {
-        filtered = filtered.filter(q => !q.isFromPreviousYear);
-      }
+      const memChapterId = resolveMemoryChapterId(chapterId);
+      const base = topicId === 'all' && memChapterId
+        ? store.questions.filter(q => q.chapterId === memChapterId)
+        : store.questions.filter(q => q.topicId === topicId);
+      const filtered = applyMemoryFilters(base, { difficulty, year, type });
       return res.json(filtered.map(attachMetadata));
     }
 
     let filter = {};
     if (topicId === 'all' && chapterId) {
-      filter.chapterId = chapterId;
+      const resolvedCh = await resolveMongoChapterId(chapterId, Chapter);
+      if (!resolvedCh) return res.json([]);
+      filter.chapterId = resolvedCh;
     } else {
+      if (!mongoose.Types.ObjectId.isValid(topicId)) return res.json([]);
       filter.topicId = topicId;
     }
-    if (difficulty) filter.difficulty = difficulty.toLowerCase();
-    if (year) filter.year = Number(year);
-    if (type === 'cat') {
-      filter.$or = [{ examSource: 'CAT' }, { tags: 'cat-reasoning' }];
-    } else if (type === 'pyq') {
-      filter.isFromPreviousYear = true;
-      filter.examSource = { $ne: 'CAT' };
-    } else if (type === 'practice') {
-      filter.isFromPreviousYear = false;
-    }
+    applyMongoFilters(filter, { difficulty, year, type });
 
     const questions = await Question.find(filter)
       .populate('subjectId')
@@ -94,44 +105,18 @@ const getQuestionsByChapter = async (req, res, next) => {
     const chapterId = req.params.chapterId;
 
     if (!isMongooseConnected(mongoose)) {
-      let filtered = store.questions.filter(q => q.chapterId === chapterId);
-      if (difficulty) {
-        filtered = filtered.filter(q => (q.difficulty || '').toLowerCase() === difficulty.toLowerCase());
-      }
-      if (year) {
-        filtered = filtered.filter(q => String(q.year) === String(year));
-      }
-      if (type === 'cat') {
-        filtered = filtered.filter(q => q.examSource === 'CAT' || (q.tags && q.tags.includes('cat-reasoning')));
-      } else if (type === 'pyq') {
-        filtered = filtered.filter(q => q.isFromPreviousYear && q.examSource !== 'CAT');
-      } else if (type === 'practice') {
-        filtered = filtered.filter(q => !q.isFromPreviousYear);
-      }
+      const memChapterId = resolveMemoryChapterId(chapterId);
+      const base = store.questions.filter(q => q.chapterId === memChapterId);
+      const filtered = applyMemoryFilters(base, { difficulty, year, type });
       return res.json(filtered.map(attachMetadata));
     }
 
-    let effectiveChapterId = chapterId;
-    if (!mongoose.Types.ObjectId.isValid(effectiveChapterId)) {
-      const foundCh = await Chapter.findOne({ name: new RegExp(effectiveChapterId, 'i') });
-      if (foundCh) {
-        effectiveChapterId = foundCh._id;
-      } else {
-        return res.json([]);
-      }
+    const effectiveChapterId = await resolveMongoChapterId(chapterId, Chapter);
+    if (!effectiveChapterId) {
+      return res.json([]);
     }
 
-    const filter = { chapterId: effectiveChapterId };
-    if (difficulty) filter.difficulty = difficulty.toLowerCase();
-    if (year) filter.year = Number(year);
-    if (type === 'cat') {
-      filter.$or = [{ examSource: 'CAT' }, { tags: 'cat-reasoning' }];
-    } else if (type === 'pyq') {
-      filter.isFromPreviousYear = true;
-      filter.examSource = { $ne: 'CAT' };
-    } else if (type === 'practice') {
-      filter.isFromPreviousYear = false;
-    }
+    const filter = applyMongoFilters({ chapterId: effectiveChapterId }, { difficulty, year, type });
 
     const questions = await Question.find(filter)
       .populate('subjectId')
@@ -150,45 +135,18 @@ const getQuestionsBySubject = async (req, res, next) => {
     const subjectId = req.params.subjectId;
 
     if (!isMongooseConnected(mongoose)) {
-      let filtered = store.questions.filter(q => q.subjectId === subjectId);
-      if (difficulty) {
-        filtered = filtered.filter(q => (q.difficulty || '').toLowerCase() === difficulty.toLowerCase());
-      }
-      if (year) {
-        filtered = filtered.filter(q => String(q.year) === String(year));
-      }
-      if (type === 'cat') {
-        filtered = filtered.filter(q => q.examSource === 'CAT' || (q.tags && q.tags.includes('cat-reasoning')));
-      } else if (type === 'pyq') {
-        filtered = filtered.filter(q => q.isFromPreviousYear && q.examSource !== 'CAT');
-      } else if (type === 'practice') {
-        filtered = filtered.filter(q => !q.isFromPreviousYear);
-      }
+      const memSubjectId = resolveMemorySubjectId(subjectId);
+      const base = store.questions.filter(q => q.subjectId === memSubjectId);
+      const filtered = applyMemoryFilters(base, { difficulty, year, type });
       return res.json(filtered.map(attachMetadata));
     }
 
-    let effectiveSubjectId = subjectId;
-    if (!mongoose.Types.ObjectId.isValid(effectiveSubjectId)) {
-      const aliasName = ALIAS_SUBJECT_MAP[effectiveSubjectId];
-      const foundSub = await Subject.findOne(aliasName ? { name: aliasName } : { name: new RegExp(effectiveSubjectId, 'i') });
-      if (foundSub) {
-        effectiveSubjectId = foundSub._id;
-      } else {
-        return res.json([]);
-      }
+    const effectiveSubjectId = await resolveMongoSubjectId(subjectId, Subject);
+    if (!effectiveSubjectId) {
+      return res.json([]);
     }
 
-    const filter = { subjectId: effectiveSubjectId };
-    if (difficulty) filter.difficulty = difficulty.toLowerCase();
-    if (year) filter.year = Number(year);
-    if (type === 'cat') {
-      filter.$or = [{ examSource: 'CAT' }, { tags: 'cat-reasoning' }];
-    } else if (type === 'pyq') {
-      filter.isFromPreviousYear = true;
-      filter.examSource = { $ne: 'CAT' };
-    } else if (type === 'practice') {
-      filter.isFromPreviousYear = false;
-    }
+    const filter = applyMongoFilters({ subjectId: effectiveSubjectId }, { difficulty, year, type });
 
     const questions = await Question.find(filter)
       .populate('subjectId')

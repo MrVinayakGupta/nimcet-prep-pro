@@ -140,35 +140,11 @@ const Sidebar = () => {
         <FiSearch className={styles.searchIcon} />
         <input 
           type="text" 
-          placeholder="Search chapters & topics..." 
+          placeholder="Search syllabus..." 
           className={styles.searchInput} 
           value={searchQuery}
           onChange={(e) => setSearchQuery(e.target.value)}
         />
-      </div>
-
-      <div style={{ padding: '0 1rem 0.75rem 1rem' }}>
-        <button
-          onClick={() => navigate('/roadmap')}
-          style={{
-            width: '100%',
-            background: 'linear-gradient(135deg, rgba(79, 70, 229, 0.15) 0%, rgba(147, 51, 234, 0.1) 100%)',
-            border: '1px solid rgba(79, 70, 229, 0.3)',
-            color: 'var(--color-primary)',
-            padding: '0.6rem 0.8rem',
-            borderRadius: '0.5rem',
-            cursor: 'pointer',
-            fontSize: '0.85rem',
-            fontWeight: 700,
-            display: 'flex',
-            alignItems: 'center',
-            justifyContent: 'space-between',
-            transition: 'all 0.2s ease'
-          }}
-        >
-          <span>🔥 45-Day Math Roadmap</span>
-          <span style={{ fontSize: '0.75rem', background: 'var(--color-primary)', color: '#fff', padding: '2px 6px', borderRadius: '4px' }}>AIR 1</span>
-        </button>
       </div>
 
       <div className={styles.syllabusTree}>
