@@ -1,7 +1,18 @@
 import axios from 'axios';
 
+const envApiUrl = import.meta.env.VITE_API_URL;
+const isHostedNonLocal =
+  typeof window !== 'undefined' &&
+  window.location.hostname !== 'localhost' &&
+  window.location.hostname !== '127.0.0.1';
+
+const resolvedBaseURL =
+  isHostedNonLocal && (!envApiUrl || envApiUrl.includes('localhost') || envApiUrl.includes('127.0.0.1'))
+    ? '/api'
+    : (envApiUrl || (import.meta.env.DEV ? 'http://localhost:5000/api' : '/api'));
+
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL || (import.meta.env.DEV ? 'http://localhost:5000/api' : '/api'),
+  baseURL: resolvedBaseURL,
 });
 
 api.interceptors.request.use((config) => {
